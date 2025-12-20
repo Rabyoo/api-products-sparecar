@@ -611,6 +611,35 @@
     "reviews": 92,
     "discount": 0,
     "isFeatured": false
+  },
+  {
+    "name": "اركب يا رابيووووو ني ني ني ني نينيني",
+    "arabicName": "سائل جير يدوي رويال بيربل سينكروماكس",
+    "description": "High-performance manual transmission fluid that reduces friction and improves gear shifting",
+    "price": 32.5,
+    "category": "Transmission",
+    "brand": "Royal Purple",
+    "carBrand": "Subaru",
+    "carModel": "WRX",
+    "year": "2002-2007",
+    "partNumber": "RP-SYN-023",
+    "sku": "SKU-ROYAL-023",
+    "stock": 55,
+    "images": [
+      "https://m.media-amazon.com/images/I/71YFezm5O0L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PvPDKBgFL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "type": "Synthetic",
+      "viscosity": "75W-90",
+      "capacity": "1 Quart",
+      "apiRating": "GL-4"
+    },
+    "rating": 4.8,
+    "reviews": 92,
+    "discount": 0,
+    "isFeatured": false
   }
 ]
+
 
