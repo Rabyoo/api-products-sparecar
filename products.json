@@ -1,2628 +1,1664 @@
 [
    {
-    "id": 5001,
-    "name": "Stanley Drill",
-    "arabicName": "Drill Stanley",
-    "description": "شنيور كهربائي للحفر وفك وربط المسامير بكفاءة عالية",
-    "price": 603.54,
-    "originalPrice": 1671.79,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1002",
-    "sku": "SKU-STANLEY-TL-1002",
-    "stock": 59,
+    "id": 1001,
+    "name": "K&N Timing Belt",
+    "arabicName": "Timing Belt K&N",
+    "description": "قطعة غيار سيارات عالية الجودة من K&N",
+    "price": 39.95,
+    "originalPrice": 462.93,
+    "category": "Car Parts",
+    "brand": "K&N",
+    "year": "2015-2024",
+    "partNumber": "K&N-MC-0202",
+    "sku": "SKU-K&N-MC-0202",
+    "stock": 157,
     "images": [
-      "https://m.media-amazon.com/images/I/619s0JdfbAL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.5,
-    "reviews": 241,
-    "discount": 25,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Drill",
-      "power": "Air",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5002,
-    "name": "Ingco Angle Grinder",
-    "arabicName": "Angle Grinder Ingco",
-    "description": "صاروخ جلخ وقطع قوي للأعمال الثقيلة",
-    "price": 505.81,
-    "originalPrice": 1654.58,
-    "category": "Tools",
-    "brand": "Ingco",
-    "partNumber": "ING-TL-1003",
-    "sku": "SKU-INGCO-TL-1003",
-    "stock": 125,
-    "images": [
-      "https://m.media-amazon.com/images/I/618yo2JqEjL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": 328,
-    "discount": 25,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Angle Grinder",
-      "power": "Electric",
-      "material": "Alloy Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5003,
-    "name": "Stanley Socket Set",
-    "arabicName": "Socket Set Stanley",
-    "description": "طقم لقم ومفاتيح متكامل لفك وربط المسامير بدقة وسهولة",
-    "price": 574.79,
-    "originalPrice": 1642.57,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1004",
-    "sku": "SKU-STANLEY-TL-1004",
-    "stock": 58,
-    "images": [
-      "https://m.media-amazon.com/images/I/61-e9ziFtcL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.6,
-    "reviews": 228,
-    "discount": 27,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Socket Set",
-      "power": "Electric",
-      "material": "Alloy Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5004,
-    "name": "Milwaukee Screwdriver Set",
-    "arabicName": "Screwdriver Set Milwaukee",
-    "description": "طقم مفكات متعدد المقاسات لأعمال الصيانة المختلفة",
-    "price": 864.71,
-    "originalPrice": 1682.6,
-    "category": "Tools",
-    "brand": "Milwaukee",
-    "partNumber": "MIL-TL-1005",
-    "sku": "SKU-MILWAUKEE-TL-1005",
-    "stock": 167,
-    "images": [
-      "https://m.media-amazon.com/images/I/81Ug-r625EL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.4,
-    "reviews": 334,
-    "discount": 22,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Screwdriver Set",
-      "power": "Battery",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5005,
-    "name": "Makita Torque Wrench",
-    "arabicName": "Torque Wrench Makita",
-    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
-    "price": 160.31,
-    "originalPrice": 1693.92,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1006",
-    "sku": "SKU-MAKITA-TL-1006",
-    "stock": 168,
-    "images": [
-      "https://m.media-amazon.com/images/I/41MP-Bsr9-L._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.8,
-    "reviews": 101,
-    "discount": 21,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Torque Wrench",
-      "power": "Air",
-      "material": "Alloy Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5006,
-    "name": "Makita Air Compressor",
-    "arabicName": "Air Compressor Makita",
-    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
-    "price": 373.3,
-    "originalPrice": 1599.98,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1007",
-    "sku": "SKU-MAKITA-TL-1007",
-    "stock": 159,
-    "images": [
-      "https://m.media-amazon.com/images/I/71fbYghSF2L._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.3,
-    "reviews": 19,
-    "discount": 14,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Air Compressor",
-      "power": "Air",
-      "material": "Alloy Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5007,
-    "name": "Total Screwdriver Set",
-    "arabicName": "Screwdriver Set Total",
-    "description": "طقم مفكات متعدد المقاسات لأعمال الصيانة المختلفة",
-    "price": 507.1,
-    "originalPrice": 1678.78,
-    "category": "Tools",
-    "brand": "Total",
-    "partNumber": "TOT-TL-1008",
-    "sku": "SKU-TOTAL-TL-1008",
-    "stock": 64,
-    "images": [
-      "https://m.media-amazon.com/images/I/610Mzzj0wjL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.3,
-    "reviews": 382,
-    "discount": 28,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Screwdriver Set",
-      "power": "Electric",
-      "material": "Plastic",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5008,
-    "name": "Total Drill",
-    "arabicName": "Drill Total",
-    "description": "شنيور كهربائي للحفر وفك وربط المسامير بكفاءة عالية",
-    "price": 657.82,
-    "originalPrice": 1553.96,
-    "category": "Tools",
-    "brand": "Total",
-    "partNumber": "TOT-TL-1009",
-    "sku": "SKU-TOTAL-TL-1009",
-    "stock": 177,
-    "images": [
-      "https://m.media-amazon.com/images/I/31m3IUOtnNL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.9,
-    "reviews": 81,
-    "discount": 21,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Drill",
-      "power": "Battery",
-      "material": "Alloy Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5009,
-    "name": "Stanley Air Compressor",
-    "arabicName": "Air Compressor Stanley",
-    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
-    "price": 1255.78,
-    "originalPrice": 1619.21,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1010",
-    "sku": "SKU-STANLEY-TL-1010",
-    "stock": 144,
-    "images": [
-      "https://m.media-amazon.com/images/I/81xkJMMLrvL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.5,
-    "reviews": 257,
-    "discount": 24,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Air Compressor",
-      "power": "Battery",
-      "material": "Plastic",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5010,
-    "name": "Ingco Wrench",
-    "arabicName": "Wrench Ingco",
-    "description": "مفتاح ربط قوي مصنوع من مواد عالية الجودة لتحمل الاستخدام الشاق",
-    "price": 511.34,
-    "originalPrice": 1609.54,
-    "category": "Tools",
-    "brand": "Ingco",
-    "partNumber": "ING-TL-1011",
-    "sku": "SKU-INGCO-TL-1011",
-    "stock": 99,
-    "images": [
-      "https://m.media-amazon.com/images/I/61eoP9Jb-cL._AC_UL480_FMwebp_QL65_.jpg"
+      "https://m.media-amazon.com/images/I/610tdg0Y16L._AC_UL480_FMwebp_QL65_.jpg"
     ],
     "rating": 4.2,
-    "reviews": 290,
-    "discount": 30,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Wrench",
-      "power": "Air",
-      "material": "Alloy Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5011,
-    "name": "DeWalt Jack",
-    "arabicName": "Jack DeWalt",
-    "description": "كوريك هيدروليك لرفع السيارات بأمان أثناء الصيانة",
-    "price": 222.13,
-    "originalPrice": 1671.16,
-    "category": "Tools",
-    "brand": "DeWalt",
-    "partNumber": "DEW-TL-1012",
-    "sku": "SKU-DEWALT-TL-1012",
-    "stock": 59,
-    "images": [
-      "https://m.media-amazon.com/images/I/61bgJKYVpVL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.9,
-    "reviews": 398,
-    "discount": 6,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Jack",
-      "power": "Electric",
-      "material": "Alloy Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5012,
-    "name": "DeWalt Tool Box",
-    "arabicName": "Tool Box DeWalt",
-    "description": "شنطة عدة متينة لتنظيم وحفظ أدوات الصيانة",
-    "price": 856.71,
-    "originalPrice": 1621.92,
-    "category": "Tools",
-    "brand": "DeWalt",
-    "partNumber": "DEW-TL-1013",
-    "sku": "SKU-DEWALT-TL-1013",
-    "stock": 32,
-    "images": [
-      "https://m.media-amazon.com/images/I/7165V6S8hIL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.2,
-    "reviews": 148,
-    "discount": 24,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Tool Box",
-      "power": "Air",
-      "material": "Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5013,
-    "name": "Stanley Air Compressor",
-    "arabicName": "Air Compressor Stanley",
-    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
-    "price": 79.9,
-    "originalPrice": 1602.24,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "BLA-TL-1014",
-    "sku": "SKU-BLACK+DECKER-TL-1014",
-    "stock": 198,
-    "images": [
-      "https://m.media-amazon.com/images/I/81xkJMMLrvL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.5,
-    "reviews": 155,
-    "discount": 6,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Air Compressor",
-      "power": "Battery",
-      "material": "Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5014,
-    "name": "DeWalt Torque Wrench",
-    "arabicName": "Torque Wrench DeWalt",
-    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
-    "price": 1274.56,
-    "originalPrice": 1686.64,
-    "category": "Tools",
-    "brand": "DeWalt",
-    "partNumber": "DEW-TL-1015",
-    "sku": "SKU-DEWALT-TL-1015",
-    "stock": 64,
-    "images": [
-      "https://m.media-amazon.com/images/I/71mAqDnvCbL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.6,
-    "reviews": 45,
-    "discount": 25,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Torque Wrench",
-      "power": "Manual",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5015,
-    "name": "Makita Angle Grinder",
-    "arabicName": "Angle Grinder Makita",
-    "description": "صاروخ جلخ وقطع قوي للأعمال الثقيلة",
-    "price": 556.52,
-    "originalPrice": 1550.96,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1016",
-    "sku": "SKU-MAKITA-TL-1016",
-    "stock": 150,
-    "images": [
-      "https://m.media-amazon.com/images/I/71wtgKwXqFL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.8,
-    "reviews": 150,
+    "reviews": 31,
     "discount": 28,
     "isFeatured": false,
     "specifications": {
-      "type": "Angle Grinder",
-      "power": "Battery",
-      "material": "Steel",
-      "warranty": "2 years"
-    }
+      "type": "Timing Belt",
+      "material": "Metal",
+      "warranty": "2 years",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
   },
   {
-    "id": 5016,
-    "name": "Makita Torque Wrench",
-    "arabicName": "Torque Wrench Makita",
-    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
-    "price": 1004.25,
-    "originalPrice": 1636.92,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1017",
-    "sku": "SKU-MAKITA-TL-1017",
-    "stock": 142,
-    "images": [
-      "https://m.media-amazon.com/images/I/41MP-Bsr9-L._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.4,
-    "reviews": 176,
-    "discount": 19,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Torque Wrench",
-      "power": "Air",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5017,
-    "name": "DeWalt Wrench",
-    "arabicName": "Wrench DeWalt",
-    "description": "مفتاح ربط قوي مصنوع من مواد عالية الجودة لتحمل الاستخدام الشاق",
-    "price": 363.57,
-    "originalPrice": 1572.67,
-    "category": "Tools",
-    "brand": "DeWalt",
-    "partNumber": "DEW-TL-1018",
-    "sku": "SKU-DEWALT-TL-1018",
-    "stock": 59,
-    "images": [
-      "https://m.media-amazon.com/images/I/7182TNI-KML._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 5,
-    "reviews": 143,
-    "discount": 21,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Wrench",
-      "power": "Manual",
-      "material": "Alloy Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5018,
-    "name": "DeWalt Impact Wrench",
-    "arabicName": "Impact Wrench DeWalt",
-    "description": "مفتاح صدمات لفك المسامير الصعبة بسرعة",
-    "price": 328.74,
-    "originalPrice": 1670.89,
-    "category": "Tools",
-    "brand": "DeWalt",
-    "partNumber": "DEW-TL-1019",
-    "sku": "SKU-DEWALT-TL-1019",
-    "stock": 100,
-    "images": [
-      "https://m.media-amazon.com/images/I/514s88gAEwL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.3,
-    "reviews": 390,
-    "discount": 12,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Impact Wrench",
-      "power": "Electric",
-      "material": "Alloy Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5019,
-    "name": "Stanley Socket Set",
-    "arabicName": "Socket Set Stanley",
-    "description": "طقم لقم ومفاتيح متكامل لفك وربط المسامير بدقة وسهولة",
-    "price": 191.81,
-    "originalPrice": 1640.02,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1020",
-    "sku": "SKU-STANLEY-TL-1020",
-    "stock": 65,
-    "images": [
-      "https://m.media-amazon.com/images/I/61-e9ziFtcL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.2,
-    "reviews": 296,
-    "discount": 16,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Socket Set",
-      "power": "Electric",
-      "material": "Plastic",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5020,
-    "name": "Bosch Wrench",
-    "arabicName": "Wrench Bosch",
-    "description": "مفتاح ربط قوي مصنوع من مواد عالية الجودة لتحمل الاستخدام الشاق",
-    "price": 1051.9,
-    "originalPrice": 1637.73,
-    "category": "Tools",
+    "id": 1002,
+    "name": "Bosch Air Filter",
+    "arabicName": "Air Filter Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 304.54,
+    "originalPrice": 712.18,
+    "category": "Car Parts",
     "brand": "Bosch",
-    "partNumber": "BLA-TL-1021",
-    "sku": "SKU-BLACK+DECKER-TL-1021",
-    "stock": 106,
+    "stock": 243,
     "images": [
-      "https://m.media-amazon.com/images/I/51omd85-w4L._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.1,
-    "reviews": 309,
-    "discount": 14,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Wrench",
-      "power": "Air",
-      "material": "Plastic",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5021,
-    "name": "Makita Angle Grinder",
-    "arabicName": "Angle Grinder Makita",
-    "description": "صاروخ جلخ وقطع قوي للأعمال الثقيلة",
-    "price": 499.95,
-    "originalPrice": 1607.25,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "BLA-TL-1022",
-    "sku": "SKU-BLACK+DECKER-TL-1022",
-    "stock": 171,
-    "images": [
-      "https://m.media-amazon.com/images/I/71wtgKwXqFL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.3,
-    "reviews": 290,
-    "discount": 13,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Angle Grinder",
-      "power": "Battery",
-      "material": "Plastic",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5022,
-    "name": "Total Wrench",
-    "arabicName": "Wrench Total",
-    "description": "مفتاح ربط قوي مصنوع من مواد عالية الجودة لتحمل الاستخدام الشاق",
-    "price": 887.7,
-    "originalPrice": 1671.2,
-    "category": "Tools",
-    "brand": "Total",
-    "partNumber": "TOT-TL-1023",
-    "sku": "SKU-TOTAL-TL-1023",
-    "stock": 42,
-    "images": [
-      "https://m.media-amazon.com/images/I/51d7TEdQoQL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.1,
-    "reviews": 309,
-    "discount": 14,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Wrench",
-      "power": "Battery",
-      "material": "Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5023,
-    "name": "Total Air Compressor",
-    "arabicName": "Air Compressor Total",
-    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
-    "price": 1077.68,
-    "originalPrice": 1580.99,
-    "category": "Tools",
-    "brand": "Total",
-    "partNumber": "TOT-TL-1024",
-    "sku": "SKU-TOTAL-TL-1024",
-    "stock": 112,
-    "images": [
-      "https://m.media-amazon.com/images/I/71uYoeS0hsL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 5,
-    "reviews": 236,
-    "discount": 29,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Air Compressor",
-      "power": "Electric",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5024,
-    "name": "DeWalt Drill",
-    "arabicName": "Drill DeWalt",
-    "description": "شنيور كهربائي للحفر وفك وربط المسامير بكفاءة عالية",
-    "price": 692.2,
-    "originalPrice": 1647.44,
-    "category": "Tools",
-    "brand": "DeWalt",
-    "partNumber": "BLA-TL-1025",
-    "sku": "SKU-BLACK+DECKER-TL-1025",
-    "stock": 110,
-    "images": [
-      "https://m.media-amazon.com/images/I/71LZFrdaulS._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.3,
-    "reviews": 74,
-    "discount": 28,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Drill",
-      "power": "Air",
-      "material": "Plastic",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5025,
-    "name": "Milwaukee Air Compressor",
-    "arabicName": "Air Compressor Milwaukee",
-    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
-    "price": 379.72,
-    "originalPrice": 1663.39,
-    "category": "Tools",
-    "brand": "Milwaukee",
-    "partNumber": "BLA-TL-1026",
-    "sku": "SKU-BLACK+DECKER-TL-1026",
-    "stock": 165,
-    "images": [
-      "https://m.media-amazon.com/images/I/51dRi+4slmL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.6,
-    "reviews": 97,
-    "discount": 27,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Air Compressor",
-      "power": "Manual",
-      "material": "Plastic",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5026,
-    "name": "Makita Wrench",
-    "arabicName": "Wrench Makita",
-    "description": "مفتاح ربط قوي مصنوع من مواد عالية الجودة لتحمل الاستخدام الشاق",
-    "price": 273.97,
-    "originalPrice": 1555.84,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1027",
-    "sku": "SKU-MAKITA-TL-1027",
-    "stock": 119,
-    "images": [
-      "https://m.media-amazon.com/images/I/41nhO-IHYdL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.8,
-    "reviews": 284,
-    "discount": 6,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Wrench",
-      "power": "Battery",
-      "material": "Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5027,
-    "name": "DeWalt Screwdriver Set",
-    "arabicName": "Screwdriver Set DeWalt",
-    "description": "طقم مفكات متعدد المقاسات لأعمال الصيانة المختلفة",
-    "price": 1116.97,
-    "originalPrice": 1550.77,
-    "category": "Tools",
-    "brand": "DeWalt",
-    "partNumber": "DEW-TL-1028",
-    "sku": "SKU-DEWALT-TL-1028",
-    "stock": 198,
-    "images": [
-      "https://m.media-amazon.com/images/I/51ufXjAqQtL._AC_UL480_FMwebp_QL65_.jpg"
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
     ],
     "rating": 4.5,
-    "reviews": 15,
-    "discount": 23,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Screwdriver Set",
-      "power": "Air",
-      "material": "Plastic",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5028,
-    "name": "Ingco Air Compressor",
-    "arabicName": "Air Compressor Ingco",
-    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
-    "price": 95.7,
-    "originalPrice": 1584.49,
-    "category": "Tools",
-    "brand": "Ingco",
-    "partNumber": "BLA-TL-1029",
-    "sku": "SKU-BLACK+DECKER-TL-1029",
-    "stock": 41,
-    "images": [
-      "https://m.media-amazon.com/images/I/71i6lMvLzGL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.2,
-    "reviews": 134,
-    "discount": 14,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Air Compressor",
-      "power": "Manual",
-      "material": "Alloy Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5029,
-    "name": "Total Torque Wrench",
-    "arabicName": "Torque Wrench Total",
-    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
-    "price": 276.78,
-    "originalPrice": 1633.89,
-    "category": "Tools",
-    "brand": "Total",
-    "partNumber": "BLA-TL-1030",
-    "sku": "SKU-BLACK+DECKER-TL-1030",
-    "stock": 152,
-    "images": [
-      "https://m.media-amazon.com/images/I/51kZiMfgwKL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.3,
-    "reviews": 5,
-    "discount": 15,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Torque Wrench",
-      "power": "Air",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5030,
-    "name": "Makita Drill",
-    "arabicName": "Drill Makita",
-    "description": "شنيور كهربائي للحفر وفك وربط المسامير بكفاءة عالية",
-    "price": 1185.48,
-    "originalPrice": 1650,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1031",
-    "sku": "SKU-MAKITA-TL-1031",
-    "stock": 65,
-    "images": [
-      "https://m.media-amazon.com/images/I/51+ZwzS202L._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.3,
-    "reviews": 399,
+    "reviews": 579,
     "discount": 20,
-    "isFeatured": true,
+    "isFeatured": false,
     "specifications": {
-      "type": "Drill",
-      "power": "Electric",
-      "material": "Alloy Steel",
-      "warranty": "1 year"
+      "type": "Air Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Corolla 2018",
+        "Toyota Corolla 2021"
+      ]
     }
   },
   {
-    "id": 5031,
-    "name": "Milwaukee Angle Grinder",
-    "arabicName": "Angle Grinder Milwaukee",
-    "description": "صاروخ جلخ وقطع قوي للأعمال الثقيلة",
-    "price": 1059.56,
-    "originalPrice": 1579.79,
-    "category": "Tools",
-    "brand": "Milwaukee",
-    "partNumber": "MIL-TL-1032",
-    "sku": "SKU-MILWAUKEE-TL-1032",
-    "stock": 37,
+    "id": 1003,
+    "name": "Bosch Alternator",
+    "arabicName": "Alternator Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 397.34,
+    "originalPrice": 1057.96,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 426,
     "images": [
-      "https://m.media-amazon.com/images/I/51nppZZ6QBL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.8,
-    "reviews": 212,
-    "discount": 25,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Angle Grinder",
-      "power": "Electric",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5032,
-    "name": "Stanley Screwdriver Set",
-    "arabicName": "Screwdriver Set Stanley",
-    "description": "طقم مفكات متعدد المقاسات لأعمال الصيانة المختلفة",
-    "price": 882.38,
-    "originalPrice": 1601.21,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "BLA-TL-1033",
-    "sku": "SKU-BLACK+DECKER-TL-1033",
-    "stock": 60,
-    "images": [
-      "https://m.media-amazon.com/images/I/71onq3A89UL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.2,
-    "reviews": 17,
-    "discount": 26,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Screwdriver Set",
-      "power": "Manual",
-      "material": "Plastic",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5033,
-    "name": "Makita Tool Box",
-    "arabicName": "Tool Box Makita",
-    "description": "شنطة عدة متينة لتنظيم وحفظ أدوات الصيانة",
-    "price": 1106.72,
-    "originalPrice": 1690.48,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1034",
-    "sku": "SKU-MAKITA-TL-1034",
-    "stock": 121,
-    "images": [
-      "https://m.media-amazon.com/images/I/71ZT91BW9oL._AC_UL480_FMwebp_QL65_.jpg"
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
     ],
     "rating": 4.9,
-    "reviews": 320,
-    "discount": 15,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Tool Box",
-      "power": "Battery",
-      "material": "Plastic",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5034,
-    "name": "Makita Socket Set",
-    "arabicName": "Socket Set Makita",
-    "description": "طقم لقم ومفاتيح متكامل لفك وربط المسامير بدقة وسهولة",
-    "price": 787.77,
-    "originalPrice": 1595.83,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1035",
-    "sku": "SKU-MAKITA-TL-1035",
-    "stock": 187,
-    "images": [
-      "https://m.media-amazon.com/images/I/71XYBMgb8YL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.3,
-    "reviews": 314,
-    "discount": 9,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Socket Set",
-      "power": "Air",
-      "material": "Plastic",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5035,
-    "name": "DeWalt Tool Box",
-    "arabicName": "Tool Box DeWalt",
-    "description": "شنطة عدة متينة لتنظيم وحفظ أدوات الصيانة",
-    "price": 788.29,
-    "originalPrice": 1686.91,
-    "category": "Tools",
-    "brand": "DeWalt",
-    "partNumber": "DEW-TL-1036",
-    "sku": "SKU-DEWALT-TL-1036",
-    "stock": 84,
-    "images": [
-      "https://m.media-amazon.com/images/I/7165V6S8hIL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.9,
-    "reviews": 170,
-    "discount": 7,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Tool Box",
-      "power": "Electric",
-      "material": "Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5036,
-    "name": "Total Angle Grinder",
-    "arabicName": "Angle Grinder Total",
-    "description": "صاروخ جلخ وقطع قوي للأعمال الثقيلة",
-    "price": 595.89,
-    "originalPrice": 1632.09,
-    "category": "Tools",
-    "brand": "Total",
-    "partNumber": "TOT-TL-1037",
-    "sku": "SKU-TOTAL-TL-1037",
-    "stock": 7,
-    "images": [
-      "https://m.media-amazon.com/images/I/61ttrul78TL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": 225,
-    "discount": 27,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Angle Grinder",
-      "power": "Battery",
-      "material": "Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5037,
-    "name": "Makita Screwdriver Set",
-    "arabicName": "Screwdriver Set Makita",
-    "description": "طقم مفكات متعدد المقاسات لأعمال الصيانة المختلفة",
-    "price": 445.35,
-    "originalPrice": 1614.81,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1038",
-    "sku": "SKU-MAKITA-TL-1038",
-    "stock": 98,
-    "images": [
-      "https://m.media-amazon.com/images/I/81+GVdid6fL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": 348,
-    "discount": 21,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Screwdriver Set",
-      "power": "Air",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5038,
-    "name": "Bosch Socket Set",
-    "arabicName": "Socket Set Bosch",
-    "description": "طقم لقم ومفاتيح متكامل لفك وربط المسامير بدقة وسهولة",
-    "price": 35.37,
-    "originalPrice": 1639.6,
-    "category": "Tools",
-    "brand": "Bosch",
-    "partNumber": "BLA-TL-1039",
-    "sku": "SKU-BLACK+DECKER-TL-1039",
-    "stock": 169,
-    "images": [
-      "https://m.media-amazon.com/images/I/61wTEbbjRCL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.6,
-    "reviews": 9,
-    "discount": 25,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Socket Set",
-      "power": "Electric",
-      "material": "Plastic",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5039,
-    "name": "Stanley Socket Set",
-    "arabicName": "Socket Set Stanley",
-    "description": "طقم لقم ومفاتيح متكامل لفك وربط المسامير بدقة وسهولة",
-    "price": 1482.15,
-    "originalPrice": 1577.28,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1040",
-    "sku": "SKU-STANLEY-TL-1040",
-    "stock": 70,
-    "images": [
-      "https://m.media-amazon.com/images/I/61-e9ziFtcL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.8,
-    "reviews": 366,
-    "discount": 7,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Socket Set",
-      "power": "Manual",
-      "material": "Plastic",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5040,
-    "name": "Milwaukee Socket Set",
-    "arabicName": "Socket Set Milwaukee",
-    "description": "طقم لقم ومفاتيح متكامل لفك وربط المسامير بدقة وسهولة",
-    "price": 293.81,
-    "originalPrice": 1685.99,
-    "category": "Tools",
-    "brand": "Milwaukee",
-    "partNumber": "MIL-TL-1041",
-    "sku": "SKU-MILWAUKEE-TL-1041",
-    "stock": 138,
-    "images": [
-      "https://m.media-amazon.com/images/I/41NW4av9Y3L._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.4,
-    "reviews": 286,
-    "discount": 13,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Socket Set",
-      "power": "Battery",
-      "material": "Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5041,
-    "name": "Bosch Air Compressor",
-    "arabicName": "Air Compressor Bosch",
-    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
-    "price": 626.83,
-    "originalPrice": 1604.26,
-    "category": "Tools",
-    "brand": "Bosch",
-    "partNumber": "BOS-TL-1042",
-    "sku": "SKU-BOSCH-TL-1042",
-    "stock": 36,
-    "images": [
-      "https://m.media-amazon.com/images/I/71dJOtkyEhL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 5,
-    "reviews": 249,
-    "discount": 9,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Air Compressor",
-      "power": "Air",
-      "material": "Plastic",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5042,
-    "name": "Milwaukee Socket Set",
-    "arabicName": "Socket Set Milwaukee",
-    "description": "طقم لقم ومفاتيح متكامل لفك وربط المسامير بدقة وسهولة",
-    "price": 176.27,
-    "originalPrice": 1555.19,
-    "category": "Tools",
-    "brand": "Milwaukee",
-    "partNumber": "MIL-TL-1043",
-    "sku": "SKU-MILWAUKEE-TL-1043",
-    "stock": 73,
-    "images": [
-      "https://m.media-amazon.com/images/I/41NW4av9Y3L._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.2,
-    "reviews": 369,
-    "discount": 28,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Socket Set",
-      "power": "Battery",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5043,
-    "name": "Makita Impact Wrench",
-    "arabicName": "Impact Wrench Makita",
-    "description": "مفتاح صدمات لفك المسامير الصعبة بسرعة",
-    "price": 516.26,
-    "originalPrice": 1569.9,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1044",
-    "sku": "SKU-MAKITA-TL-1044",
-    "stock": 80,
-    "images": [
-      "https://m.media-amazon.com/images/I/81TiYas6iwL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.5,
-    "reviews": 135,
-    "discount": 8,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Impact Wrench",
-      "power": "Electric",
-      "material": "Alloy Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5044,
-    "name": "Makita Angle Grinder",
-    "arabicName": "Angle Grinder Makita",
-    "description": "صاروخ جلخ وقطع قوي للأعمال الثقيلة",
-    "price": 1398.83,
-    "originalPrice": 1627.8,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1045",
-    "sku": "SKU-MAKITA-TL-1045",
-    "stock": 51,
-    "images": [
-      "https://m.media-amazon.com/images/I/71wtgKwXqFL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": 192,
-    "discount": 11,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Angle Grinder",
-      "power": "Air",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5045,
-    "name": "Bosch Air Compressor",
-    "arabicName": "Air Compressor Bosch",
-    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
-    "price": 223.06,
-    "originalPrice": 1676.74,
-    "category": "Tools",
-    "brand": "Bosch",
-    "partNumber": "BOS-TL-1046",
-    "sku": "SKU-BOSCH-TL-1046",
-    "stock": 87,
-    "images": [
-      "https://m.media-amazon.com/images/I/71dJOtkyEhL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.5,
-    "reviews": 101,
-    "discount": 23,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Air Compressor",
-      "power": "Air",
-      "material": "Alloy Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5046,
-    "name": "Ingco Wrench",
-    "arabicName": "Wrench Ingco",
-    "description": "مفتاح ربط قوي مصنوع من مواد عالية الجودة لتحمل الاستخدام الشاق",
-    "price": 1220.06,
-    "originalPrice": 1574.29,
-    "category": "Tools",
-    "brand": "Ingco",
-    "partNumber": "ING-TL-1047",
-    "sku": "SKU-INGCO-TL-1047",
-    "stock": 9,
-    "images": [
-      "https://m.media-amazon.com/images/I/61eoP9Jb-cL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.3,
-    "reviews": 128,
-    "discount": 29,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Wrench",
-      "power": "Electric",
-      "material": "Plastic",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5047,
-    "name": "Bosch Wrench",
-    "arabicName": "Wrench Bosch",
-    "description": "مفتاح ربط قوي مصنوع من مواد عالية الجودة لتحمل الاستخدام الشاق",
-    "price": 1194.06,
-    "originalPrice": 1644.18,
-    "category": "Tools",
-    "brand": "Bosch",
-    "partNumber": "BOS-TL-1048",
-    "sku": "SKU-BOSCH-TL-1048",
-    "stock": 40,
-    "images": [
-      "https://m.media-amazon.com/images/I/51omd85-w4L._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.1,
-    "reviews": 136,
-    "discount": 16,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Wrench",
-      "power": "Battery",
-      "material": "Plastic",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5048,
-    "name": "Makita Drill",
-    "arabicName": "Drill Makita",
-    "description": "شنيور كهربائي للحفر وفك وربط المسامير بكفاءة عالية",
-    "price": 64.43,
-    "originalPrice": 1565.92,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "BLA-TL-1049",
-    "sku": "SKU-BLACK+DECKER-TL-1049",
-    "stock": 82,
-    "images": [
-      "https://m.media-amazon.com/images/I/51+ZwzS202L._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": 185,
-    "discount": 16,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Drill",
-      "power": "Air",
-      "material": "Alloy Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5049,
-    "name": "Stanley Jack",
-    "arabicName": "Jack Stanley",
-    "description": "كوريك هيدروليك لرفع السيارات بأمان أثناء الصيانة",
-    "price": 485.79,
-    "originalPrice": 1555.8,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1050",
-    "sku": "SKU-STANLEY-TL-1050",
-    "stock": 68,
-    "images": [
-      "https://m.media-amazon.com/images/I/61i2IzsJXBL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.1,
-    "reviews": 348,
-    "discount": 25,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Jack",
-      "power": "Battery",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5050,
-    "name": "Total Jack",
-    "arabicName": "Jack Total",
-    "description": "كوريك هيدروليك لرفع السيارات بأمان أثناء الصيانة",
-    "price": 85.91,
-    "originalPrice": 1656.4,
-    "category": "Tools",
-    "brand": "Total",
-    "partNumber": "TOT-TL-1051",
-    "sku": "SKU-TOTAL-TL-1051",
-    "stock": 44,
-    "images": [
-      "https://m.media-amazon.com/images/I/71XSewGopSL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.3,
-    "reviews": 27,
-    "discount": 16,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Jack",
-      "power": "Electric",
-      "material": "Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5051,
-    "name": "Bosch Drill",
-    "arabicName": "Drill Bosch",
-    "description": "شنيور كهربائي للحفر وفك وربط المسامير بكفاءة عالية",
-    "price": 876.83,
-    "originalPrice": 1679.61,
-    "category": "Tools",
-    "brand": "Bosch",
-    "partNumber": "BOS-TL-1052",
-    "sku": "SKU-BOSCH-TL-1052",
-    "stock": 127,
-    "images": [
-      "https://m.media-amazon.com/images/I/61LKzG8Ve2L._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.5,
-    "reviews": 33,
+    "reviews": 262,
     "discount": 19,
     "isFeatured": false,
     "specifications": {
-      "type": "Drill",
-      "power": "Battery",
-      "material": "Alloy Steel",
-      "warranty": "1 year"
+      "type": "Alternator",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
     }
   },
   {
-    "id": 5052,
-    "name": "DeWalt Impact Wrench",
-    "arabicName": "Impact Wrench DeWalt",
-    "description": "مفتاح صدمات لفك المسامير الصعبة بسرعة",
-    "price": 517.86,
-    "originalPrice": 1560.42,
-    "category": "Tools",
-    "brand": "DeWalt",
-    "partNumber": "BLA-TL-1053",
-    "sku": "SKU-BLACK+DECKER-TL-1053",
-    "stock": 200,
+    "id": 1004,
+    "name": "Bosch Brake Disc",
+    "arabicName": "Brake Disc Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 268.84,
+    "originalPrice": 718.18,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 436,
     "images": [
-      "https://m.media-amazon.com/images/I/514s88gAEwL._AC_UL480_FMwebp_QL65_.jpg"
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
     ],
-    "rating": 4.9,
-    "reviews": 64,
-    "discount": 28,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Impact Wrench",
-      "power": "Manual",
-      "material": "Alloy Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5053,
-    "name": "Milwaukee Impact Wrench",
-    "arabicName": "Impact Wrench Milwaukee",
-    "description": "مفتاح صدمات لفك المسامير الصعبة بسرعة",
-    "price": 1499.33,
-    "originalPrice": 1610.81,
-    "category": "Tools",
-    "brand": "Milwaukee",
-    "partNumber": "MIL-TL-1054",
-    "sku": "SKU-MILWAUKEE-TL-1054",
-    "stock": 33,
-    "images": [
-      "https://m.media-amazon.com/images/I/61plOAewXcL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.9,
-    "reviews": 169,
-    "discount": 16,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Impact Wrench",
-      "power": "Air",
-      "material": "Alloy Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5054,
-    "name": "Ingco Impact Wrench",
-    "arabicName": "Impact Wrench Ingco",
-    "description": "مفتاح صدمات لفك المسامير الصعبة بسرعة",
-    "price": 161.57,
-    "originalPrice": 1626.96,
-    "category": "Tools",
-    "brand": "Ingco",
-    "partNumber": "ING-TL-1055",
-    "sku": "SKU-INGCO-TL-1055",
-    "stock": 109,
-    "images": [
-      "https://m.media-amazon.com/images/I/81S93rLmK+L._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.8,
-    "reviews": 222,
-    "discount": 6,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Impact Wrench",
-      "power": "Manual",
-      "material": "Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5055,
-    "name": "Makita Impact Wrench",
-    "arabicName": "Impact Wrench Makita",
-    "description": "مفتاح صدمات لفك المسامير الصعبة بسرعة",
-    "price": 377.58,
-    "originalPrice": 1609.02,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1056",
-    "sku": "SKU-MAKITA-TL-1056",
-    "stock": 127,
-    "images": [
-      "https://m.media-amazon.com/images/I/81TiYas6iwL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.9,
-    "reviews": 38,
-    "discount": 28,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Impact Wrench",
-      "power": "Air",
-      "material": "Plastic",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5056,
-    "name": "Ingco Tool Box",
-    "arabicName": "Tool Box Ingco",
-    "description": "شنطة عدة متينة لتنظيم وحفظ أدوات الصيانة",
-    "price": 602.11,
-    "originalPrice": 1672.28,
-    "category": "Tools",
-    "brand": "Ingco",
-    "partNumber": "ING-TL-1057",
-    "sku": "SKU-INGCO-TL-1057",
-    "stock": 34,
-    "images": [
-      "https://m.media-amazon.com/images/I/71wxtWgPuYL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.9,
-    "reviews": 11,
-    "discount": 22,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Tool Box",
-      "power": "Battery",
-      "material": "Alloy Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5057,
-    "name": "DeWalt Air Compressor",
-    "arabicName": "Air Compressor DeWalt",
-    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
-    "price": 614.7,
-    "originalPrice": 1635.32,
-    "category": "Tools",
-    "brand": "DeWalt",
-    "partNumber": "DEW-TL-1058",
-    "sku": "SKU-DEWALT-TL-1058",
-    "stock": 166,
-    "images": [
-      "https://m.media-amazon.com/images/I/81myk-tRmhL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": 147,
+    "rating": 4.6,
+    "reviews": 264,
     "discount": 10,
     "isFeatured": false,
     "specifications": {
-      "type": "Air Compressor",
-      "power": "Battery",
-      "material": "Plastic",
-      "warranty": "2 years"
+      "type": "Brake Disc",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
     }
   },
   {
-    "id": 5058,
-    "name": "Ingco Jack",
-    "arabicName": "Jack Ingco",
-    "description": "كوريك هيدروليك لرفع السيارات بأمان أثناء الصيانة",
-    "price": 267.77,
-    "originalPrice": 1693.75,
-    "category": "Tools",
-    "brand": "Ingco",
-    "partNumber": "ING-TL-1059",
-    "sku": "SKU-INGCO-TL-1059",
-    "stock": 32,
+    "id": 1005,
+    "name": "SKF Air Filter",
+    "arabicName": "Air Filter SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 292.67,
+    "originalPrice": 453.39,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0206",
+    "sku": "SKU-SKF-MC-0206",
+    "stock": 162,
     "images": [
-      "https://m.media-amazon.com/images/I/71U4MLc-6XL._AC_UL480_FMwebp_QL65_.jpg"
+      "https://m.media-amazon.com/images/I/61EAYRiFI9L._AC_SY355_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 37,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1006,
+    "name": "DID Timing Belt",
+    "arabicName": "Timing Belt DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 215.58,
+    "originalPrice": 444.13,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0207",
+    "sku": "SKU-DID-MC-0207",
+    "stock": 177,
+    "images": [
+      "https://m.media-amazon.com/images/I/610t-1+HfIL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 120,
+    "discount": 30,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Timing Belt",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
+  },
+  {
+    "id": 1007,
+    "name": "EBC Car Battery",
+    "arabicName": "Car Battery EBC",
+    "description": "قطعة غيار سيارات عالية الجودة من EBC",
+    "price": 49.48,
+    "originalPrice": 457.54,
+    "category": "Car Parts",
+    "brand": "EBC",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0208",
+    "sku": "SKU-EBC-MC-0208",
+    "stock": 155,
+    "images": [
+      "https://m.media-amazon.com/images/I/61mf6ff1QOL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 154,
+    "discount": 20,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1008,
+    "name": "Bosch Brake Pads",
+    "arabicName": "Brake Pads Bosch",
+    "description": "قطعة غيار سيارات عالية الجودة من Bosch",
+    "price": 39.91,
+    "originalPrice": 444.78,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "year": "2015-2024",
+    "partNumber": "BOS-MC-0209",
+    "sku": "SKU-BOSCH-MC-0209",
+    "stock": 149,
+    "images": [
+      "https://m.media-amazon.com/images/I/81E0DnPZXfL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 61,
+    "discount": 7,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Honda Civic 2018",
+        "Honda Civic 2021"
+      ]
+    },
+    "carBrand": "Honda",
+    "carModel": "Civic"
+  },
+  {
+    "id": 1009,
+    "name": "DID Car Battery",
+    "arabicName": "Car Battery DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 305.2,
+    "originalPrice": 460.89,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0210",
+    "sku": "SKU-DID-MC-0210",
+    "stock": 104,
+    "images": [
+      "https://m.media-amazon.com/images/I/81I3EWa2t8L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 284,
+    "discount": 23,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Honda Civic 2018",
+        "Honda Civic 2021"
+      ]
+    },
+    "carBrand": "Honda",
+    "carModel": "Civic"
+  },
+  {
+    "id": 1010,
+    "name": "DID Wheel Bearing",
+    "arabicName": "Wheel Bearing DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 305.06,
+    "originalPrice": 477.96,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0211",
+    "sku": "SKU-DID-MC-0211",
+    "stock": 15,
+    "images": [
+      "https://m.media-amazon.com/images/I/71Gz+Eiwn7L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 146,
+    "discount": 25,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Wheel Bearing",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
+  },
+  {
+    "id": 1011,
+    "name": "Bosch Brake Pads",
+    "arabicName": "Brake Pads Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 445.1,
+    "originalPrice": 1029.33,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 329,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 410,
+    "discount": 7,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    }
+  },
+  {
+    "id": 1012,
+    "name": "DID Wheel Bearing",
+    "arabicName": "Wheel Bearing DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 244.47,
+    "originalPrice": 451.19,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0213",
+    "sku": "SKU-DID-MC-0213",
+    "stock": 165,
+    "images": [
+      "https://m.media-amazon.com/images/I/71Gz+Eiwn7L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 95,
+    "discount": 27,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Wheel Bearing",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1013,
+    "name": "EBC Brake Disc",
+    "arabicName": "Brake Disc EBC",
+    "description": "قطعة غيار سيارات عالية الجودة من EBC",
+    "price": 310.71,
+    "originalPrice": 452.29,
+    "category": "Car Parts",
+    "brand": "EBC",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0214",
+    "sku": "SKU-EBC-MC-0214",
+    "stock": 161,
+    "images": [
+      "https://m.media-amazon.com/images/I/61d21zYClRL._AC_UL480_FMwebp_QL65_.jpg"
     ],
     "rating": 4.7,
-    "reviews": 235,
-    "discount": 25,
-    "isFeatured": true,
+    "reviews": 296,
+    "discount": 5,
+    "isFeatured": false,
     "specifications": {
-      "type": "Jack",
-      "power": "Air",
-      "material": "Alloy Steel",
-      "warranty": "3 years"
-    }
+      "type": "Brake Disc",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
   },
   {
-    "id": 5059,
-    "name": "Makita Socket Set",
-    "arabicName": "Socket Set Makita",
-    "description": "طقم لقم ومفاتيح متكامل لفك وربط المسامير بدقة وسهولة",
-    "price": 866.45,
-    "originalPrice": 1640.53,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1060",
-    "sku": "SKU-MAKITA-TL-1060",
-    "stock": 74,
+    "id": 1014,
+    "name": "EBC Oil Filter",
+    "arabicName": "Oil Filter EBC",
+    "description": "قطعة غيار سيارات عالية الجودة من EBC",
+    "price": 143.89,
+    "originalPrice": 464.21,
+    "category": "Car Parts",
+    "brand": "EBC",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0215",
+    "sku": "SKU-EBC-MC-0215",
+    "stock": 41,
     "images": [
-      "https://m.media-amazon.com/images/I/71XYBMgb8YL._AC_UL480_FMwebp_QL65_.jpg"
+      "https://m.media-amazon.com/images/I/71d5xvNWe6L._AC_UL480_FMwebp_QL65_.jpg"
     ],
-    "rating": 5,
-    "reviews": 386,
-    "discount": 8,
+    "rating": 4.3,
+    "reviews": 228,
+    "discount": 7,
     "isFeatured": true,
     "specifications": {
-      "type": "Socket Set",
-      "power": "Battery",
-      "material": "Steel",
-      "warranty": "3 years"
+      "type": "Oil Filter",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    },
+    "carBrand": "Hyundai",
+    "carModel": "Elantra"
+  },
+  {
+    "id": 1015,
+    "name": "Bosch Brake Pads",
+    "arabicName": "Brake Pads Bosch",
+    "description": "قطعة غيار سيارات عالية الجودة من Bosch",
+    "price": 37.37,
+    "originalPrice": 464.22,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "year": "2015-2024",
+    "partNumber": "BOS-MC-0216",
+    "sku": "SKU-BOSCH-MC-0216",
+    "stock": 104,
+    "images": [
+      "https://m.media-amazon.com/images/I/81E0DnPZXfL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 190,
+    "discount": 13,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Metal",
+      "warranty": "2 years",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1016,
+    "name": "Brembo Brake Disc",
+    "arabicName": "Brake Disc Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 272.24,
+    "originalPrice": 452.79,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0217",
+    "sku": "SKU-BREMBO-MC-0217",
+    "stock": 7,
+    "images": [
+      "https://m.media-amazon.com/images/I/61lvk0LtI0L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 118,
+    "discount": 7,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1017,
+    "name": "SKF Brake Disc",
+    "arabicName": "Brake Disc SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 201.52,
+    "originalPrice": 457.24,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0218",
+    "sku": "SKU-SKF-MC-0218",
+    "stock": 130,
+    "images": [
+      "https://m.media-amazon.com/images/I/616sQ2WpALL._AC_SY355_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 157,
+    "discount": 28,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1018,
+    "name": "Bosch Oil Filter",
+    "arabicName": "Oil Filter Bosch",
+    "description": "قطعة غيار سيارات عالية الجودة من Bosch",
+    "price": 183.15,
+    "originalPrice": 448.63,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "year": "2015-2024",
+    "partNumber": "BOS-MC-0219",
+    "sku": "SKU-BOSCH-MC-0219",
+    "stock": 84,
+    "images": [
+      "https://m.media-amazon.com/images/I/61zZpX0P+kL._AC_SX450_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 276,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1019,
+    "name": "Bosch Car Battery",
+    "arabicName": "Car Battery Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 182.78,
+    "originalPrice": 1045.52,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 234,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 377,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
     }
   },
   {
-    "id": 5060,
-    "name": "DeWalt Torque Wrench",
-    "arabicName": "Torque Wrench DeWalt",
-    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
-    "price": 457.84,
-    "originalPrice": 1570.82,
-    "category": "Tools",
-    "brand": "DeWalt",
-    "partNumber": "DEW-TL-1061",
-    "sku": "SKU-DEWALT-TL-1061",
+    "id": 1020,
+    "name": "K&N Brake Disc",
+    "arabicName": "Brake Disc K&N",
+    "description": "قطعة غيار سيارات عالية الجودة من K&N",
+    "price": 294.43,
+    "originalPrice": 449.69,
+    "category": "Car Parts",
+    "brand": "K&N",
+    "year": "2015-2024",
+    "partNumber": "K&N-MC-0221",
+    "sku": "SKU-K&N-MC-0221",
+    "stock": 42,
+    "images": [
+      "https://m.media-amazon.com/images/I/71wesSLI4CL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 8,
+    "discount": 13,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Ceramic",
+      "warranty": "1 year",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1021,
+    "name": "Brembo Oil Filter",
+    "arabicName": "Oil Filter Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 265.98,
+    "originalPrice": 432.07,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0222",
+    "sku": "SKU-BREMBO-MC-0222",
+    "stock": 176,
+    "images": [
+      "https://m.media-amazon.com/images/I/71J7WGn4YlL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 289,
+    "discount": 30,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Rubber",
+      "warranty": "1 year",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1022,
+    "name": "RK Brake Pads",
+    "arabicName": "Brake Pads RK",
+    "description": "قطعة غيار سيارات عالية الجودة من RK",
+    "price": 191.76,
+    "originalPrice": 466.34,
+    "category": "Car Parts",
+    "brand": "RK",
+    "year": "2015-2024",
+    "partNumber": "RK-MC-0223",
+    "sku": "SKU-RK-MC-0223",
+    "stock": 162,
+    "images": [
+      "https://m.media-amazon.com/images/I/81wScxdT3OL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 29,
+    "discount": 24,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Metal",
+      "warranty": "2 years",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    },
+    "carBrand": "Hyundai",
+    "carModel": "Elantra"
+  },
+  {
+    "id": 1023,
+    "name": "Motul Brake Pads",
+    "arabicName": "Brake Pads Motul",
+    "description": "قطعة غيار سيارات عالية الجودة من Motul",
+    "price": 310.94,
+    "originalPrice": 436.21,
+    "category": "Car Parts",
+    "brand": "Motul",
+    "year": "2015-2024",
+    "partNumber": "MOT-MC-0224",
+    "sku": "SKU-MOTUL-MC-0224",
+    "stock": 10,
+    "images": [
+      "https://m.media-amazon.com/images/I/814khvsWuTL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 79,
+    "discount": 7,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1024,
+    "name": "Yuasa Wheel Bearing",
+    "arabicName": "Wheel Bearing Yuasa",
+    "description": "قطعة غيار سيارات عالية الجودة من Yuasa",
+    "price": 76.74,
+    "originalPrice": 456.74,
+    "category": "Car Parts",
+    "brand": "Yuasa",
+    "year": "2015-2024",
+    "partNumber": "YUA-MC-0225",
+    "sku": "SKU-YUASA-MC-0225",
+    "stock": 51,
+    "images": [
+      "https://m.media-amazon.com/images/I/816lrsy6oLL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 102,
+    "discount": 14,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Wheel Bearing",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    },
+    "carBrand": "Hyundai",
+    "carModel": "Elantra"
+  },
+  {
+    "id": 1025,
+    "name": "SKF Brake Disc",
+    "arabicName": "Brake Disc SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 392.16,
+    "originalPrice": 423.52,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0226",
+    "sku": "SKU-SKF-MC-0226",
+    "stock": 123,
+    "images": [
+      "https://m.media-amazon.com/images/I/616sQ2WpALL._AC_SY355_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 49,
+    "discount": 17,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1026,
+    "name": "Yuasa Car Battery",
+    "arabicName": "Car Battery Yuasa",
+    "description": "قطعة غيار سيارات عالية الجودة من Yuasa",
+    "price": 222.83,
+    "originalPrice": 451.46,
+    "category": "Car Parts",
+    "brand": "Yuasa",
+    "year": "2015-2024",
+    "partNumber": "YUA-MC-0227",
+    "sku": "SKU-YUASA-MC-0227",
+    "stock": 8,
+    "images": [
+      "https://m.media-amazon.com/images/I/81Xjq28x6ZL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 236,
+    "discount": 16,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Corolla 2018",
+        "Toyota Corolla 2021"
+      ]
+    },
+    "carBrand": "Toyota",
+    "carModel": "Corolla"
+  },
+  {
+    "id": 1027,
+    "name": "NGK Air Filter",
+    "arabicName": "Air Filter NGK",
+    "description": "قطعة غيار سيارات عالية الجودة من NGK",
+    "price": 250.78,
+    "originalPrice": 435.37,
+    "category": "Car Parts",
+    "brand": "NGK",
+    "year": "2015-2024",
+    "partNumber": "NGK-MC-0228",
+    "sku": "SKU-NGK-MC-0228",
+    "stock": 101,
+    "images": [
+      "https://m.media-amazon.com/images/I/71bUV9JaN3L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 223,
+    "discount": 6,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1028,
+    "name": "Brembo Oil Filter",
+    "arabicName": "Oil Filter Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 379.44,
+    "originalPrice": 466.84,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0229",
+    "sku": "SKU-BREMBO-MC-0229",
+    "stock": 112,
+    "images": [
+      "https://m.media-amazon.com/images/I/71J7WGn4YlL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 109,
+    "discount": 13,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Ceramic",
+      "warranty": "2 years",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1029,
+    "name": "Brembo Brake Disc",
+    "arabicName": "Brake Disc Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 171.89,
+    "originalPrice": 474.65,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0230",
+    "sku": "SKU-BREMBO-MC-0230",
     "stock": 140,
     "images": [
-      "https://m.media-amazon.com/images/I/71mAqDnvCbL._AC_UL480_FMwebp_QL65_.jpg"
+      "https://m.media-amazon.com/images/I/61lvk0LtI0L._AC_UL480_FMwebp_QL65_.jpg"
     ],
-    "rating": 4.7,
-    "reviews": 33,
+    "rating": 4.6,
+    "reviews": 53,
+    "discount": 23,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Metal",
+      "warranty": "2 years",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1030,
+    "name": "SKF Spark Plug",
+    "arabicName": "Spark Plug SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 298.69,
+    "originalPrice": 444.63,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0231",
+    "sku": "SKU-SKF-MC-0231",
+    "stock": 93,
+    "images": [
+      "https://m.media-amazon.com/images/I/51mewabOn1L._AC_SY300_SX300_QL70_ML2_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 106,
+    "discount": 16,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1031,
+    "name": "EBC Spark Plug",
+    "arabicName": "Spark Plug EBC",
+    "description": "قطعة غيار سيارات عالية الجودة من EBC",
+    "price": 373.64,
+    "originalPrice": 447.91,
+    "category": "Car Parts",
+    "brand": "EBC",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0232",
+    "sku": "SKU-EBC-MC-0232",
+    "stock": 56,
+    "images": [
+      "https://m.media-amazon.com/images/I/61pFoUGx2gL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 146,
     "discount": 19,
     "isFeatured": true,
     "specifications": {
-      "type": "Torque Wrench",
-      "power": "Manual",
-      "material": "Alloy Steel",
-      "warranty": "1 year"
+      "type": "Spark Plug",
+      "material": "Ceramic",
+      "warranty": "2 years",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1032,
+    "name": "Yuasa Car Battery",
+    "arabicName": "Car Battery Yuasa",
+    "description": "قطعة غيار سيارات عالية الجودة من Yuasa",
+    "price": 229.18,
+    "originalPrice": 420.42,
+    "category": "Car Parts",
+    "brand": "Yuasa",
+    "year": "2015-2024",
+    "partNumber": "YUA-MC-0233",
+    "sku": "SKU-YUASA-MC-0233",
+    "stock": 174,
+    "images": [
+      "https://m.media-amazon.com/images/I/81Xjq28x6ZL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 178,
+    "discount": 5,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Ceramic",
+      "warranty": "1 year",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1033,
+    "name": "SKF Timing Belt",
+    "arabicName": "Timing Belt SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 343.84,
+    "originalPrice": 471.47,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0234",
+    "sku": "SKU-SKF-MC-0234",
+    "stock": 48,
+    "images": [
+      "https://m.media-amazon.com/images/I/71ENAl3v9LL._AC_SY355_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 211,
+    "discount": 14,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Timing Belt",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1034,
+    "name": "SKF Air Filter",
+    "arabicName": "Air Filter SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 294.97,
+    "originalPrice": 430.83,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0235",
+    "sku": "SKU-SKF-MC-0235",
+    "stock": 38,
+    "images": [
+      "https://m.media-amazon.com/images/I/61EAYRiFI9L._AC_SY355_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 232,
+    "discount": 14,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1035,
+    "name": "DID Timing Belt",
+    "arabicName": "Timing Belt DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 333.46,
+    "originalPrice": 420.41,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0236",
+    "sku": "SKU-DID-MC-0236",
+    "stock": 12,
+    "images": [
+      "https://m.media-amazon.com/images/I/610t-1+HfIL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 278,
+    "discount": 16,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Timing Belt",
+      "material": "Rubber",
+      "warranty": "1 year",
+      "compatibility": [
+        "Toyota Corolla 2018",
+        "Toyota Corolla 2021"
+      ]
+    },
+    "carBrand": "Toyota",
+    "carModel": "Corolla"
+  },
+  {
+    "id": 1036,
+    "name": "Bosch Oil Filter",
+    "arabicName": "Oil Filter Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 172.16,
+    "originalPrice": 1160.73,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 172,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 625,
+    "discount": 28,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
     }
   },
   {
-    "id": 5061,
-    "name": "Milwaukee Torque Wrench",
-    "arabicName": "Torque Wrench Milwaukee",
-    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
-    "price": 642.06,
-    "originalPrice": 1632.58,
-    "category": "Tools",
-    "brand": "Milwaukee",
-    "partNumber": "BLA-TL-1062",
-    "sku": "SKU-BLACK+DECKER-TL-1062",
-    "stock": 46,
+    "id": 1037,
+    "name": "DID Brake Pads",
+    "arabicName": "Brake Pads DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 268.86,
+    "originalPrice": 435.43,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0238",
+    "sku": "SKU-DID-MC-0238",
+    "stock": 100,
     "images": [
-      "https://m.media-amazon.com/images/I/71grI9RrrbL._AC_UL480_FMwebp_QL65_.jpg"
+      "https://m.media-amazon.com/images/I/61feuOqqnhL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 145,
+    "discount": 29,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
+  },
+  {
+    "id": 1038,
+    "name": "Bosch Radiator",
+    "arabicName": "Radiator Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 306.75,
+    "originalPrice": 680.3,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 283,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 276,
+    "discount": 22,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Honda Civic 2018",
+        "Honda Civic 2021"
+      ]
+    }
+  },
+  {
+    "id": 1039,
+    "name": "EBC Oil Filter",
+    "arabicName": "Oil Filter EBC",
+    "description": "قطعة غيار سيارات عالية الجودة من EBC",
+    "price": 62.15,
+    "originalPrice": 434.44,
+    "category": "Car Parts",
+    "brand": "EBC",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0240",
+    "sku": "SKU-EBC-MC-0240",
+    "stock": 18,
+    "images": [
+      "https://m.media-amazon.com/images/I/71d5xvNWe6L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 161,
+    "discount": 24,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1040,
+    "name": "Brembo Spark Plug",
+    "arabicName": "Spark Plug Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 136.6,
+    "originalPrice": 452.46,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0241",
+    "sku": "SKU-BREMBO-MC-0241",
+    "stock": 165,
+    "images": [
+      "https://m.media-amazon.com/images/I/51J38TxzzTL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 230,
+    "discount": 16,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Ceramic",
+      "warranty": "1 year",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
+  },
+  {
+    "id": 1041,
+    "name": "Brembo Car Battery",
+    "arabicName": "Car Battery Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 228.48,
+    "originalPrice": 476,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0242",
+    "sku": "SKU-BREMBO-MC-0242",
+    "stock": 100,
+    "images": [
+      "https://m.media-amazon.com/images/I/71jGGVwUxIL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 260,
+    "discount": 9,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1042,
+    "name": "RK Air Filter",
+    "arabicName": "Air Filter RK",
+    "description": "قطعة غيار سيارات عالية الجودة من RK",
+    "price": 115.29,
+    "originalPrice": 430.38,
+    "category": "Car Parts",
+    "brand": "RK",
+    "year": "2015-2024",
+    "partNumber": "RK-MC-0243",
+    "sku": "SKU-RK-MC-0243",
+    "stock": 9,
+    "images": [
+      "https://m.media-amazon.com/images/I/61HsygABK+L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 5,
+    "reviews": 241,
+    "discount": 15,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1043,
+    "name": "Motul Timing Belt",
+    "arabicName": "Timing Belt Motul",
+    "description": "قطعة غيار سيارات عالية الجودة من Motul",
+    "price": 30.24,
+    "originalPrice": 468.59,
+    "category": "Car Parts",
+    "brand": "Motul",
+    "year": "2015-2024",
+    "partNumber": "MOT-MC-0244",
+    "sku": "SKU-MOTUL-MC-0244",
+    "stock": 64,
+    "images": [
+      "https://m.media-amazon.com/images/I/51AF6wlSKUS._AC_UL480_FMwebp_QL65_.jpg"
     ],
     "rating": 4.4,
     "reviews": 274,
-    "discount": 11,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Torque Wrench",
-      "power": "Manual",
-      "material": "Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5062,
-    "name": "Milwaukee Drill",
-    "arabicName": "Drill Milwaukee",
-    "description": "شنيور كهربائي للحفر وفك وربط المسامير بكفاءة عالية",
-    "price": 110.15,
-    "originalPrice": 1555.79,
-    "category": "Tools",
-    "brand": "Milwaukee",
-    "partNumber": "MIL-TL-1063",
-    "sku": "SKU-MILWAUKEE-TL-1063",
-    "stock": 19,
-    "images": [
-      "https://m.media-amazon.com/images/I/61imkX2WeBL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.1,
-    "reviews": 303,
-    "discount": 19,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Drill",
-      "power": "Electric",
-      "material": "Plastic",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5063,
-    "name": "Ingco Air Compressor",
-    "arabicName": "Air Compressor Ingco",
-    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
-    "price": 1257.95,
-    "originalPrice": 1645.54,
-    "category": "Tools",
-    "brand": "Ingco",
-    "partNumber": "ING-TL-1064",
-    "sku": "SKU-INGCO-TL-1064",
-    "stock": 104,
-    "images": [
-      "https://m.media-amazon.com/images/I/71i6lMvLzGL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.8,
-    "reviews": 190,
-    "discount": 13,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Air Compressor",
-      "power": "Air",
-      "material": "Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5064,
-    "name": "Makita Air Compressor",
-    "arabicName": "Air Compressor Makita",
-    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
-    "price": 233.2,
-    "originalPrice": 1646.58,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1065",
-    "sku": "SKU-MAKITA-TL-1065",
-    "stock": 188,
-    "images": [
-      "https://m.media-amazon.com/images/I/71fbYghSF2L._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.1,
-    "reviews": 277,
-    "discount": 24,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Air Compressor",
-      "power": "Electric",
-      "material": "Plastic",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5065,
-    "name": "Milwaukee Screwdriver Set",
-    "arabicName": "Screwdriver Set Milwaukee",
-    "description": "طقم مفكات متعدد المقاسات لأعمال الصيانة المختلفة",
-    "price": 425.44,
-    "originalPrice": 1636.8,
-    "category": "Tools",
-    "brand": "Milwaukee",
-    "partNumber": "MIL-TL-1066",
-    "sku": "SKU-MILWAUKEE-TL-1066",
-    "stock": 21,
-    "images": [
-      "https://m.media-amazon.com/images/I/81Ug-r625EL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.8,
-    "reviews": 183,
-    "discount": 25,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Screwdriver Set",
-      "power": "Manual",
-      "material": "Plastic",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5066,
-    "name": "Ingco Jack",
-    "arabicName": "Jack Ingco",
-    "description": "كوريك هيدروليك لرفع السيارات بأمان أثناء الصيانة",
-    "price": 1484.46,
-    "originalPrice": 1684.79,
-    "category": "Tools",
-    "brand": "Ingco",
-    "partNumber": "ING-TL-1067",
-    "sku": "SKU-INGCO-TL-1067",
-    "stock": 182,
-    "images": [
-      "https://m.media-amazon.com/images/I/71U4MLc-6XL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.8,
-    "reviews": 164,
-    "discount": 9,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Jack",
-      "power": "Air",
-      "material": "Alloy Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5067,
-    "name": "Bosch Air Compressor",
-    "arabicName": "Air Compressor Bosch",
-    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
-    "price": 925.23,
-    "originalPrice": 1641.73,
-    "category": "Tools",
-    "brand": "Bosch",
-    "partNumber": "BOS-TL-1068",
-    "sku": "SKU-BOSCH-TL-1068",
-    "stock": 138,
-    "images": [
-      "https://m.media-amazon.com/images/I/71dJOtkyEhL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.2,
-    "reviews": 318,
-    "discount": 22,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Air Compressor",
-      "power": "Battery",
-      "material": "Alloy Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5068,
-    "name": "Total Screwdriver Set",
-    "arabicName": "Screwdriver Set Total",
-    "description": "طقم مفكات متعدد المقاسات لأعمال الصيانة المختلفة",
-    "price": 506.28,
-    "originalPrice": 1603.55,
-    "category": "Tools",
-    "brand": "Total",
-    "partNumber": "TOT-TL-1069",
-    "sku": "SKU-TOTAL-TL-1069",
-    "stock": 59,
-    "images": [
-      "https://m.media-amazon.com/images/I/610Mzzj0wjL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.2,
-    "reviews": 375,
-    "discount": 5,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Screwdriver Set",
-      "power": "Air",
-      "material": "Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5069,
-    "name": "Milwaukee Socket Set",
-    "arabicName": "Socket Set Milwaukee",
-    "description": "طقم لقم ومفاتيح متكامل لفك وربط المسامير بدقة وسهولة",
-    "price": 1034.29,
-    "originalPrice": 1666.84,
-    "category": "Tools",
-    "brand": "Milwaukee",
-    "partNumber": "MIL-TL-1070",
-    "sku": "SKU-MILWAUKEE-TL-1070",
-    "stock": 173,
-    "images": [
-      "https://m.media-amazon.com/images/I/41NW4av9Y3L._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.4,
-    "reviews": 239,
-    "discount": 22,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Socket Set",
-      "power": "Electric",
-      "material": "Plastic",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5070,
-    "name": "Stanley Wrench",
-    "arabicName": "Wrench Stanley",
-    "description": "مفتاح ربط قوي مصنوع من مواد عالية الجودة لتحمل الاستخدام الشاق",
-    "price": 649.02,
-    "originalPrice": 1655.77,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1071",
-    "sku": "SKU-STANLEY-TL-1071",
-    "stock": 80,
-    "images": [
-      "https://m.media-amazon.com/images/I/618rsstBbWL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.5,
-    "reviews": 100,
-    "discount": 11,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Wrench",
-      "power": "Air",
-      "material": "Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5071,
-    "name": "Stanley Air Compressor",
-    "arabicName": "Air Compressor Stanley",
-    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
-    "price": 728.3,
-    "originalPrice": 1684.24,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1072",
-    "sku": "SKU-STANLEY-TL-1072",
-    "stock": 89,
-    "images": [
-      "https://m.media-amazon.com/images/I/81xkJMMLrvL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.4,
-    "reviews": 201,
-    "discount": 13,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Air Compressor",
-      "power": "Electric",
-      "material": "Plastic",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5072,
-    "name": "Makita Angle Grinder",
-    "arabicName": "Angle Grinder Makita",
-    "description": "صاروخ جلخ وقطع قوي للأعمال الثقيلة",
-    "price": 1007.19,
-    "originalPrice": 1597.78,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1073",
-    "sku": "SKU-MAKITA-TL-1073",
-    "stock": 143,
-    "images": [
-      "https://m.media-amazon.com/images/I/71wtgKwXqFL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.9,
-    "reviews": 316,
-    "discount": 19,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Angle Grinder",
-      "power": "Manual",
-      "material": "Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5073,
-    "name": "DeWalt Drill",
-    "arabicName": "Drill DeWalt",
-    "description": "شنيور كهربائي للحفر وفك وربط المسامير بكفاءة عالية",
-    "price": 1356.14,
-    "originalPrice": 1621.26,
-    "category": "Tools",
-    "brand": "DeWalt",
-    "partNumber": "DEW-TL-1074",
-    "sku": "SKU-DEWALT-TL-1074",
-    "stock": 85,
-    "images": [
-      "https://m.media-amazon.com/images/I/71LZFrdaulS._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.8,
-    "reviews": 317,
-    "discount": 17,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Drill",
-      "power": "Battery",
-      "material": "Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5074,
-    "name": "Bosch Torque Wrench",
-    "arabicName": "Torque Wrench Bosch",
-    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
-    "price": 850.12,
-    "originalPrice": 1596.77,
-    "category": "Tools",
-    "brand": "Bosch",
-    "partNumber": "BOS-TL-1075",
-    "sku": "SKU-BOSCH-TL-1075",
-    "stock": 174,
-    "images": [
-      "https://m.media-amazon.com/images/I/61ILavoHvZL._AC_UL960_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.8,
-    "reviews": 131,
-    "discount": 5,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Torque Wrench",
-      "power": "Battery",
-      "material": "Plastic",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5075,
-    "name": "Stanley Jack",
-    "arabicName": "Jack Stanley",
-    "description": "كوريك هيدروليك لرفع السيارات بأمان أثناء الصيانة",
-    "price": 513,
-    "originalPrice": 1632.62,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1076",
-    "sku": "SKU-STANLEY-TL-1076",
-    "stock": 78,
-    "images": [
-      "https://m.media-amazon.com/images/I/61i2IzsJXBL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4,
-    "reviews": 270,
-    "discount": 22,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Jack",
-      "power": "Electric",
-      "material": "Plastic",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5076,
-    "name": "Bosch Impact Wrench",
-    "arabicName": "Impact Wrench Bosch",
-    "description": "مفتاح صدمات لفك المسامير الصعبة بسرعة",
-    "price": 354.91,
-    "originalPrice": 1586.34,
-    "category": "Tools",
-    "brand": "Bosch",
-    "partNumber": "BOS-TL-1077",
-    "sku": "SKU-BOSCH-TL-1077",
-    "stock": 93,
-    "images": [
-      "https://m.media-amazon.com/images/I/61JJ5gkRQCL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.2,
-    "reviews": 104,
-    "discount": 15,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Impact Wrench",
-      "power": "Manual",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5077,
-    "name": "Total Wrench",
-    "arabicName": "Wrench Total",
-    "description": "مفتاح ربط قوي مصنوع من مواد عالية الجودة لتحمل الاستخدام الشاق",
-    "price": 1023.16,
-    "originalPrice": 1562.58,
-    "category": "Tools",
-    "brand": "Total",
-    "partNumber": "TOT-TL-1078",
-    "sku": "SKU-TOTAL-TL-1078",
-    "stock": 119,
-    "images": [
-      "https://m.media-amazon.com/images/I/51d7TEdQoQL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": 21,
-    "discount": 5,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Wrench",
-      "power": "Battery",
-      "material": "Alloy Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5078,
-    "name": "Stanley Wrench",
-    "arabicName": "Wrench Stanley",
-    "description": "مفتاح ربط قوي مصنوع من مواد عالية الجودة لتحمل الاستخدام الشاق",
-    "price": 711.42,
-    "originalPrice": 1574.04,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1079",
-    "sku": "SKU-STANLEY-TL-1079",
-    "stock": 98,
-    "images": [
-      "https://m.media-amazon.com/images/I/618rsstBbWL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": 216,
-    "discount": 11,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Wrench",
-      "power": "Electric",
-      "material": "Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5079,
-    "name": "Bosch Socket Set",
-    "arabicName": "Socket Set Bosch",
-    "description": "طقم لقم ومفاتيح متكامل لفك وربط المسامير بدقة وسهولة",
-    "price": 1236.45,
-    "originalPrice": 1614.53,
-    "category": "Tools",
-    "brand": "Bosch",
-    "partNumber": "BOS-TL-1080",
-    "sku": "SKU-BOSCH-TL-1080",
-    "stock": 123,
-    "images": [
-      "https://m.media-amazon.com/images/I/61wTEbbjRCL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": 127,
-    "discount": 30,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Socket Set",
-      "power": "Electric",
-      "material": "Plastic",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5080,
-    "name": "Stanley Impact Wrench",
-    "arabicName": "Impact Wrench Stanley",
-    "description": "مفتاح صدمات لفك المسامير الصعبة بسرعة",
-    "price": 1241.81,
-    "originalPrice": 1683.33,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1081",
-    "sku": "SKU-STANLEY-TL-1081",
-    "stock": 22,
-    "images": [
-      "https://m.media-amazon.com/images/I/71+gjwoPDCL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4,
-    "reviews": 390,
-    "discount": 10,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Impact Wrench",
-      "power": "Air",
-      "material": "Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5081,
-    "name": "Ingco Wrench",
-    "arabicName": "Wrench Ingco",
-    "description": "مفتاح ربط قوي مصنوع من مواد عالية الجودة لتحمل الاستخدام الشاق",
-    "price": 1118.8,
-    "originalPrice": 1661.7,
-    "category": "Tools",
-    "brand": "Ingco",
-    "partNumber": "BLA-TL-1082",
-    "sku": "SKU-BLACK+DECKER-TL-1082",
-    "stock": 146,
-    "images": [
-      "https://m.media-amazon.com/images/I/61eoP9Jb-cL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.1,
-    "reviews": 48,
-    "discount": 17,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Wrench",
-      "power": "Battery",
-      "material": "Plastic",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5082,
-    "name": "Total Torque Wrench",
-    "arabicName": "Torque Wrench Total",
-    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
-    "price": 390.1,
-    "originalPrice": 1613.31,
-    "category": "Tools",
-    "brand": "Total",
-    "partNumber": "TOT-TL-1083",
-    "sku": "SKU-TOTAL-TL-1083",
-    "stock": 106,
-    "images": [
-      "https://m.media-amazon.com/images/I/51kZiMfgwKL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.9,
-    "reviews": 370,
-    "discount": 7,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Torque Wrench",
-      "power": "Electric",
-      "material": "Plastic",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5083,
-    "name": "Stanley Impact Wrench",
-    "arabicName": "Impact Wrench Stanley",
-    "description": "مفتاح صدمات لفك المسامير الصعبة بسرعة",
-    "price": 548.89,
-    "originalPrice": 1671.25,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1084",
-    "sku": "SKU-STANLEY-TL-1084",
-    "stock": 177,
-    "images": [
-      "https://m.media-amazon.com/images/I/71+gjwoPDCL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": 81,
-    "discount": 17,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Impact Wrench",
-      "power": "Manual",
-      "material": "Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5084,
-    "name": "DeWalt Screwdriver Set",
-    "arabicName": "Screwdriver Set DeWalt",
-    "description": "طقم مفكات متعدد المقاسات لأعمال الصيانة المختلفة",
-    "price": 1155.32,
-    "originalPrice": 1695.35,
-    "category": "Tools",
-    "brand": "DeWalt",
-    "partNumber": "DEW-TL-1085",
-    "sku": "SKU-DEWALT-TL-1085",
-    "stock": 43,
-    "images": [
-      "https://m.media-amazon.com/images/I/51ufXjAqQtL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 5,
-    "reviews": 219,
-    "discount": 26,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Screwdriver Set",
-      "power": "Battery",
-      "material": "Plastic",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5085,
-    "name": "Total Torque Wrench",
-    "arabicName": "Torque Wrench Total",
-    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
-    "price": 1464.3,
-    "originalPrice": 1573.65,
-    "category": "Tools",
-    "brand": "Total",
-    "partNumber": "BLA-TL-1086",
-    "sku": "SKU-BLACK+DECKER-TL-1086",
-    "stock": 51,
-    "images": [
-      "https://m.media-amazon.com/images/I/51kZiMfgwKL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": 177,
-    "discount": 22,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Torque Wrench",
-      "power": "Manual",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5086,
-    "name": "Total Screwdriver Set",
-    "arabicName": "Screwdriver Set Total",
-    "description": "طقم مفكات متعدد المقاسات لأعمال الصيانة المختلفة",
-    "price": 1087.53,
-    "originalPrice": 1595.2,
-    "category": "Tools",
-    "brand": "Total",
-    "partNumber": "TOT-TL-1087",
-    "sku": "SKU-TOTAL-TL-1087",
-    "stock": 64,
-    "images": [
-      "https://m.media-amazon.com/images/I/610Mzzj0wjL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.9,
-    "reviews": 283,
-    "discount": 25,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Screwdriver Set",
-      "power": "Air",
-      "material": "Alloy Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5087,
-    "name": "DeWalt Tool Box",
-    "arabicName": "Tool Box DeWalt",
-    "description": "شنطة عدة متينة لتنظيم وحفظ أدوات الصيانة",
-    "price": 96.74,
-    "originalPrice": 1677.26,
-    "category": "Tools",
-    "brand": "DeWalt",
-    "partNumber": "DEW-TL-1088",
-    "sku": "SKU-DEWALT-TL-1088",
-    "stock": 88,
-    "images": [
-      "https://m.media-amazon.com/images/I/7165V6S8hIL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.3,
-    "reviews": 269,
-    "discount": 9,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Tool Box",
-      "power": "Air",
-      "material": "Plastic",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5088,
-    "name": "Ingco Wrench",
-    "arabicName": "Wrench Ingco",
-    "description": "مفتاح ربط قوي مصنوع من مواد عالية الجودة لتحمل الاستخدام الشاق",
-    "price": 41.36,
-    "originalPrice": 1553.36,
-    "category": "Tools",
-    "brand": "Ingco",
-    "partNumber": "ING-TL-1089",
-    "sku": "SKU-INGCO-TL-1089",
-    "stock": 151,
-    "images": [
-      "https://m.media-amazon.com/images/I/61eoP9Jb-cL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.8,
-    "reviews": 221,
-    "discount": 20,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Wrench",
-      "power": "Battery",
-      "material": "Alloy Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5089,
-    "name": "Total Tool Box",
-    "arabicName": "Tool Box Total",
-    "description": "شنطة عدة متينة لتنظيم وحفظ أدوات الصيانة",
-    "price": 841.57,
-    "originalPrice": 1694.24,
-    "category": "Tools",
-    "brand": "Total",
-    "partNumber": "TOT-TL-1090",
-    "sku": "SKU-TOTAL-TL-1090",
-    "stock": 89,
-    "images": [
-      "https://m.media-amazon.com/images/I/81AV-7GFyLL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.4,
-    "reviews": 66,
-    "discount": 16,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Tool Box",
-      "power": "Air",
-      "material": "Alloy Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5090,
-    "name": "Makita Angle Grinder",
-    "arabicName": "Angle Grinder Makita",
-    "description": "صاروخ جلخ وقطع قوي للأعمال الثقيلة",
-    "price": 1305.96,
-    "originalPrice": 1587.36,
-    "category": "Tools",
-    "brand": "Makita",
-    "partNumber": "MAK-TL-1091",
-    "sku": "SKU-MAKITA-TL-1091",
-    "stock": 122,
-    "images": [
-      "https://m.media-amazon.com/images/I/71wtgKwXqFL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.2,
-    "reviews": 162,
-    "discount": 29,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Angle Grinder",
-      "power": "Manual",
-      "material": "Plastic",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5091,
-    "name": "Stanley Screwdriver Set",
-    "arabicName": "Screwdriver Set Stanley",
-    "description": "طقم مفكات متعدد المقاسات لأعمال الصيانة المختلفة",
-    "price": 39.58,
-    "originalPrice": 1585.22,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1092",
-    "sku": "SKU-STANLEY-TL-1092",
-    "stock": 70,
-    "images": [
-      "https://m.media-amazon.com/images/I/71onq3A89UL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": 107,
-    "discount": 25,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Screwdriver Set",
-      "power": "Manual",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
-  },
-  {
-    "id": 5092,
-    "name": "Total Air Compressor",
-    "arabicName": "Air Compressor Total",
-    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
-    "price": 93.91,
-    "originalPrice": 1573.85,
-    "category": "Tools",
-    "brand": "Total",
-    "partNumber": "TOT-TL-1093",
-    "sku": "SKU-TOTAL-TL-1093",
-    "stock": 62,
-    "images": [
-      "https://m.media-amazon.com/images/I/71uYoeS0hsL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.1,
-    "reviews": 171,
-    "discount": 5,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Air Compressor",
-      "power": "Battery",
-      "material": "Alloy Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5093,
-    "name": "Stanley Impact Wrench",
-    "arabicName": "Impact Wrench Stanley",
-    "description": "مفتاح صدمات لفك المسامير الصعبة بسرعة",
-    "price": 1280.35,
-    "originalPrice": 1587.75,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1094",
-    "sku": "SKU-STANLEY-TL-1094",
-    "stock": 18,
-    "images": [
-      "https://m.media-amazon.com/images/I/71+gjwoPDCL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.3,
-    "reviews": 327,
-    "discount": 14,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Impact Wrench",
-      "power": "Battery",
-      "material": "Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5094,
-    "name": "Bosch Screwdriver Set",
-    "arabicName": "Screwdriver Set Bosch",
-    "description": "طقم مفكات متعدد المقاسات لأعمال الصيانة المختلفة",
-    "price": 392.03,
-    "originalPrice": 1597.39,
-    "category": "Tools",
-    "brand": "Bosch",
-    "partNumber": "BOS-TL-1095",
-    "sku": "SKU-BOSCH-TL-1095",
-    "stock": 81,
-    "images": [
-      "https://m.media-amazon.com/images/I/71WayG0-VxL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.2,
-    "reviews": 250,
-    "discount": 20,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Screwdriver Set",
-      "power": "Air",
-      "material": "Alloy Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5095,
-    "name": "Stanley Socket Set",
-    "arabicName": "Socket Set Stanley",
-    "description": "طقم لقم ومفاتيح متكامل لفك وربط المسامير بدقة وسهولة",
-    "price": 1093.18,
-    "originalPrice": 1660.64,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "BLA-TL-1096",
-    "sku": "SKU-BLACK+DECKER-TL-1096",
-    "stock": 11,
-    "images": [
-      "https://m.media-amazon.com/images/I/61-e9ziFtcL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.9,
-    "reviews": 70,
-    "discount": 29,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Socket Set",
-      "power": "Electric",
-      "material": "Alloy Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5096,
-    "name": "Bosch Impact Wrench",
-    "arabicName": "Impact Wrench Bosch",
-    "description": "مفتاح صدمات لفك المسامير الصعبة بسرعة",
-    "price": 274.89,
-    "originalPrice": 1688.88,
-    "category": "Tools",
-    "brand": "Bosch",
-    "partNumber": "BOS-TL-1097",
-    "sku": "SKU-BOSCH-TL-1097",
-    "stock": 31,
-    "images": [
-      "https://m.media-amazon.com/images/I/61JJ5gkRQCL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.9,
-    "reviews": 370,
-    "discount": 25,
-    "isFeatured": false,
-    "specifications": {
-      "type": "Impact Wrench",
-      "power": "Battery",
-      "material": "Plastic",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5097,
-    "name": "Ingco Torque Wrench",
-    "arabicName": "Torque Wrench Ingco",
-    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
-    "price": 739.05,
-    "originalPrice": 1550.83,
-    "category": "Tools",
-    "brand": "Ingco",
-    "partNumber": "ING-TL-1098",
-    "sku": "SKU-INGCO-TL-1098",
-    "stock": 25,
-    "images": [
-      "https://m.media-amazon.com/images/I/71FXtHpfRlL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.2,
-    "reviews": 332,
-    "discount": 22,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Torque Wrench",
-      "power": "Battery",
-      "material": "Steel",
-      "warranty": "2 years"
-    }
-  },
-  {
-    "id": 5098,
-    "name": "Stanley Impact Wrench",
-    "arabicName": "Impact Wrench Stanley",
-    "description": "مفتاح صدمات لفك المسامير الصعبة بسرعة",
-    "price": 889.87,
-    "originalPrice": 1571.45,
-    "category": "Tools",
-    "brand": "Stanley",
-    "partNumber": "STA-TL-1099",
-    "sku": "SKU-STANLEY-TL-1099",
-    "stock": 128,
-    "images": [
-      "https://m.media-amazon.com/images/I/71+gjwoPDCL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.3,
-    "reviews": 145,
     "discount": 21,
     "isFeatured": false,
     "specifications": {
-      "type": "Impact Wrench",
-      "power": "Electric",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
+      "type": "Timing Belt",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
   },
   {
-    "id": 5099,
-    "name": "Milwaukee Torque Wrench",
-    "arabicName": "Torque Wrench Milwaukee",
-    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
-    "price": 686.31,
-    "originalPrice": 1638.97,
-    "category": "Tools",
-    "brand": "Milwaukee",
-    "partNumber": "MIL-TL-1100",
-    "sku": "SKU-MILWAUKEE-TL-1100",
-    "stock": 33,
+    "id": 1044,
+    "name": "EBC Oil Filter",
+    "arabicName": "Oil Filter EBC",
+    "description": "قطعة غيار سيارات عالية الجودة من EBC",
+    "price": 77.07,
+    "originalPrice": 465.64,
+    "category": "Car Parts",
+    "brand": "EBC",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0245",
+    "sku": "SKU-EBC-MC-0245",
+    "stock": 172,
     "images": [
-      "https://m.media-amazon.com/images/I/71grI9RrrbL._AC_UL480_FMwebp_QL65_.jpg"
+      "https://m.media-amazon.com/images/I/71d5xvNWe6L._AC_UL480_FMwebp_QL65_.jpg"
     ],
-    "rating": 4,
-    "reviews": 346,
-    "discount": 30,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Torque Wrench",
-      "power": "Manual",
-      "material": "Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5100,
-    "name": "Ingco Torque Wrench",
-    "arabicName": "Torque Wrench Ingco",
-    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
-    "price": 966.23,
-    "originalPrice": 1663.15,
-    "category": "Tools",
-    "brand": "Ingco",
-    "partNumber": "ING-TL-1101",
-    "sku": "SKU-INGCO-TL-1101",
-    "stock": 99,
-    "images": [
-      "https://m.media-amazon.com/images/I/71FXtHpfRlL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.2,
-    "reviews": 368,
-    "discount": 15,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Torque Wrench",
-      "power": "Battery",
-      "material": "Alloy Steel",
-      "warranty": "1 year"
-    }
-  },
-  {
-    "id": 5101,
-    "name": "Bosch Impact Wrench",
-    "arabicName": "Impact Wrench Bosch",
-    "description": "مفتاح صدمات لفك المسامير الصعبة بسرعة",
-    "price": 36.3,
-    "originalPrice": 1551.72,
-    "category": "Tools",
-    "brand": "Bosch",
-    "partNumber": "BLA-TL-1102",
-    "sku": "SKU-BLACK+DECKER-TL-1102",
-    "stock": 17,
-    "images": [
-      "https://m.media-amazon.com/images/I/61JJ5gkRQCL._AC_UL480_FMwebp_QL65_.jpg"
-    ],
-    "rating": 4.1,
-    "reviews": 293,
-    "discount": 13,
+    "rating": 4.7,
+    "reviews": 284,
+    "discount": 29,
     "isFeatured": false,
     "specifications": {
-      "type": "Impact Wrench",
-      "power": "Air",
-      "material": "Steel",
-      "warranty": "3 years"
-    }
+      "type": "Oil Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1045,
+    "name": "SKF Brake Disc",
+    "arabicName": "Brake Disc SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 65.16,
+    "originalPrice": 466.01,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0246",
+    "sku": "SKU-SKF-MC-0246",
+    "stock": 128,
+    "images": [
+      "https://m.media-amazon.com/images/I/616sQ2WpALL._AC_SY355_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 27,
+    "discount": 12,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1046,
+    "name": "SKF Air Filter",
+    "arabicName": "Air Filter SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 215.01,
+    "originalPrice": 448.81,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0247",
+    "sku": "SKU-SKF-MC-0247",
+    "stock": 58,
+    "images": [
+      "https://m.media-amazon.com/images/I/61EAYRiFI9L._AC_SY355_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 172,
+    "discount": 13,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Rubber",
+      "warranty": "1 year",
+      "compatibility": [
+        "Toyota Corolla 2018",
+        "Toyota Corolla 2021"
+      ]
+    },
+    "carBrand": "Toyota",
+    "carModel": "Corolla"
+  },
+  {
+    "id": 1047,
+    "name": "Brembo Air Filter",
+    "arabicName": "Air Filter Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 228.34,
+    "originalPrice": 446.61,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0248",
+    "sku": "SKU-BREMBO-MC-0248",
+    "stock": 147,
+    "images": [
+      "https://m.media-amazon.com/images/I/71pbqxxNEPL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 112,
+    "discount": 29,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Rubber",
+      "warranty": "1 year",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1048,
+    "name": "Bosch Air Filter",
+    "arabicName": "Air Filter Bosch",
+    "description": "قطعة غيار سيارات عالية الجودة من Bosch",
+    "price": 368.49,
+    "originalPrice": 445.63,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "year": "2015-2024",
+    "partNumber": "BOS-MC-0249",
+    "sku": "SKU-BOSCH-MC-0249",
+    "stock": 8,
+    "images": [
+      "https://m.media-amazon.com/images/I/71OcwWjtYDL._AC_SX355_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 96,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    },
+    "carBrand": "Hyundai",
+    "carModel": "Elantra"
+  },
+  {
+    "id": 1049,
+    "name": "SKF Brake Disc",
+    "arabicName": "Brake Disc SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 351.93,
+    "originalPrice": 459.47,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0250",
+    "sku": "SKU-SKF-MC-0250",
+    "stock": 39,
+    "images": [
+      "https://m.media-amazon.com/images/I/616sQ2WpALL._AC_SY355_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 24,
+    "discount": 16,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Metal",
+      "warranty": "2 years",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1050,
+    "name": "RK Air Filter",
+    "arabicName": "Air Filter RK",
+    "description": "قطعة غيار سيارات عالية الجودة من RK",
+    "price": 99.83,
+    "originalPrice": 463.02,
+    "category": "Car Parts",
+    "brand": "RK",
+    "year": "2015-2024",
+    "partNumber": "RK-MC-0251",
+    "sku": "SKU-RK-MC-0251",
+    "stock": 39,
+    "images": [
+      "https://m.media-amazon.com/images/I/61HsygABK+L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 112,
+    "discount": 18,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1051,
+    "name": "Motul Brake Pads",
+    "arabicName": "Brake Pads Motul",
+    "description": "قطعة غيار سيارات عالية الجودة من Motul",
+    "price": 363.75,
+    "originalPrice": 465.38,
+    "category": "Car Parts",
+    "brand": "Motul",
+    "year": "2015-2024",
+    "partNumber": "MOT-MC-0252",
+    "sku": "SKU-MOTUL-MC-0252",
+    "stock": 161,
+    "images": [
+      "https://m.media-amazon.com/images/I/814khvsWuTL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 202,
+    "discount": 17,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1052,
+    "name": "NGK Oil Filter",
+    "arabicName": "Oil Filter NGK",
+    "description": "قطعة غيار سيارات عالية الجودة من NGK",
+    "price": 63.74,
+    "originalPrice": 453.1,
+    "category": "Car Parts",
+    "brand": "NGK",
+    "year": "2015-2024",
+    "partNumber": "NGK-MC-0253",
+    "sku": "SKU-NGK-MC-0253",
+    "stock": 171,
+    "images": [
+      "https://m.media-amazon.com/images/I/71GEtDlmYhL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 43,
+    "discount": 20,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    },
+    "carBrand": "Hyundai",
+    "carModel": "Elantra"
+  },
+  {
+    "id": 1053,
+    "name": "SKF Timing Belt",
+    "arabicName": "Timing Belt SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 233.23,
+    "originalPrice": 468.2,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0254",
+    "sku": "SKU-SKF-MC-0254",
+    "stock": 163,
+    "images": [
+      "https://m.media-amazon.com/images/I/71ENAl3v9LL._AC_SY355_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 162,
+    "discount": 29,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Timing Belt",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    },
+    "carBrand": "Hyundai",
+    "carModel": "Elantra"
   }
 ]
+
