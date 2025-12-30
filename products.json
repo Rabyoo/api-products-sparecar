@@ -4402,6 +4402,330 @@
       "warranty": "3 years",
       "compatibility": ["Chevrolet Malibu 2019", "Chevrolet Malibu 2022"]
     }
+  },
+   {
+    "name": "Pioneer Sun Shade",
+    "arabicName": "Sun Shade Pioneer",
+    "description": "ستارة شمسية لحماية السيارة من أشعة الشمس",
+    "price": 212.42,
+    "originalPrice": 321.71,
+    "category": "Car Accessories",
+    "brand": "Pioneer",
+    "partNumber": "PIO-CA-1202",
+    "sku": "SKU-PIONEER-CA-1202",
+    "stock": 400,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kSnERjHjXrLvcDL4ZSwZor3-LkQlvNoAbw&s"
+    ],
+    "rating": 4.1,
+    "reviews": 268,
+    "discount": 15,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Sun Shade",
+      "material": "Plastic",
+      "color": "Red",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Philips Car Charger",
+    "arabicName": "Car Charger Philips",
+    "description": "شاحن سيارة سريع لشحن الهواتف والأجهزة أثناء التنقل",
+    "price": 239.36,
+    "originalPrice": 332.66,
+    "category": "Car Accessories",
+    "brand": "Philips",
+    "partNumber": "PHI-CA-1203",
+    "sku": "SKU-PHILIPS-CA-1203",
+    "stock": 174,
+    "images": [
+      "https://images.philips.com/is/image/philipsconsumer/0b370bab54c442dfa0bdb0c100abfa7a?wid=700&hei=700&$pnglarge$"
+    ],
+    "rating": 4.6,
+    "reviews": 9,
+    "discount": 6,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Charger",
+      "material": "Plastic",
+      "color": "Beige",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "Baseus Car Mat",
+    "arabicName": "Car Mat Baseus",
+    "description": "دعاسات أرضية تحمي أرضية السيارة من الأتربة والمياه",
+    "price": 139.12,
+    "originalPrice": 342.77,
+    "category": "Car Accessories",
+    "brand": "Baseus",
+    "partNumber": "BAS-CA-1204",
+    "sku": "SKU-BASEUS-CA-1204",
+    "stock": 37,
+    "images": [
+      "https://baseus.com.au/cdn/shop/files/0_4_1ec3184e-45cd-4cba-ac94-22c61942b15b_1600x.jpg?v=1736398952"
+    ],
+    "rating": 4.8,
+    "reviews": 517,
+    "discount": 5,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Car Mat",
+      "material": "Plastic",
+      "color": "Beige",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Philips Phone Holder",
+    "arabicName": "Phone Holder Philips",
+    "description": "حامل موبايل لتثبيت الهاتف بأمان أثناء القيادة",
+    "price": 105.13,
+    "originalPrice": 328.79,
+    "category": "Car Accessories",
+    "brand": "Philips",
+    "partNumber": "PHI-CA-1205",
+    "sku": "SKU-PHILIPS-CA-1205",
+    "stock": 186,
+    "images": [
+      "https://images.philips.com/is/image/philipsconsumer/daf597fa592741deba07b0c80046d956?&wid=309&hei=309&$jpglarge$"
+    ],
+    "rating": 4.3,
+    "reviews": 7,
+    "discount": 21,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Phone Holder",
+      "material": "Silicone",
+      "color": "Beige",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Goodyear Air Freshener",
+    "arabicName": "Air Freshener Goodyear",
+    "description": "معطر جو للسيارة يمنح رائحة منعشة تدوم طويلاً",
+    "price": 282.42,
+    "originalPrice": 355.1,
+    "category": "Car Accessories",
+    "brand": "Goodyear",
+    "partNumber": "GOO-CA-1206",
+    "sku": "SKU-GOODYEAR-CA-1206",
+    "stock": 344,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetyxZ0zIiqMLNbOYHLpRqtOmjE3gVQ7lJdA&s"
+    ],
+    "rating": 4.7,
+    "reviews": 144,
+    "discount": 29,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Freshener",
+      "material": "Silicone",
+      "color": "Black",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Pioneer Dash Camera",
+    "arabicName": "Dash Camera Pioneer",
+    "description": "كاميرا داش لتسجيل الطريق وزيادة الأمان",
+    "price": 193.81,
+    "originalPrice": 350.59,
+    "category": "Car Accessories",
+    "brand": "Pioneer",
+    "partNumber": "PIO-CA-1207",
+    "sku": "SKU-PIONEER-CA-1207",
+    "stock": 121,
+    "images": [
+      "https://m.media-amazon.com/images/I/719s7TUpEIL._AC_SL1500_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 185,
+    "discount": 19,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Dash Camera",
+      "material": "Fabric",
+      "color": "Red",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Anker Phone Holder",
+    "arabicName": "Phone Holder Anker",
+    "description": "حامل موبايل لتثبيت الهاتف بأمان أثناء القيادة",
+    "price": 165.84,
+    "originalPrice": 347.49,
+    "category": "Car Accessories",
+    "brand": "Anker",
+    "partNumber": "ANK-CA-1208",
+    "sku": "SKU-ANKER-CA-1208",
+    "stock": 85,
+    "images": [
+      "https://cdn.supercommerce.io/etisal-store/uploads/anker_wireless_car_holder.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 436,
+    "discount": 23,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Phone Holder",
+      "material": "Leather",
+      "color": "Beige",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Philips Car Charger",
+    "arabicName": "Car Charger Philips",
+    "description": "شاحن سيارة سريع لشحن الهواتف والأجهزة أثناء التنقل",
+    "price": 64.35,
+    "originalPrice": 345.28,
+    "category": "Car Accessories",
+    "brand": "Philips",
+    "partNumber": "PHI-CA-1209",
+    "sku": "SKU-PHILIPS-CA-1209",
+    "stock": 339,
+    "images": [
+      "https://images.philips.com/is/image/philipsconsumer/0b370bab54c442dfa0bdb0c100abfa7a?wid=700&hei=700&$pnglarge$"
+    ],
+    "rating": 4.2,
+    "reviews": 441,
+    "discount": 11,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Car Charger",
+      "material": "Silicone",
+      "color": "Beige",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Anker Phone Holder",
+    "arabicName": "Phone Holder Anker",
+    "description": "حامل موبايل لتثبيت الهاتف بأمان أثناء القيادة",
+    "price": 133.45,
+    "originalPrice": 329.92,
+    "category": "Car Accessories",
+    "brand": "Anker",
+    "partNumber": "ANK-CA-1210",
+    "sku": "SKU-ANKER-CA-1210",
+    "stock": 154,
+    "images": [
+      "https://cdn.supercommerce.io/etisal-store/uploads/anker_wireless_car_holder.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 569,
+    "discount": 26,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Phone Holder",
+      "material": "Fabric",
+      "color": "Black",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "Armor All Car Vacuum",
+    "arabicName": "Car Vacuum Armor All",
+    "description": "مكنسة سيارة صغيرة لتنظيف الداخل بسهولة",
+    "price": 244.02,
+    "originalPrice": 341.63,
+    "category": "Car Accessories",
+    "brand": "Armor All",
+    "partNumber": "ARM-CA-1211",
+    "sku": "SKU-ARMOR ALL-CA-1211",
+    "stock": 298,
+    "images": [
+      "https://i5.walmartimages.com/seo/Armor-All-12V-Wet-and-Dry-Bagless-Car-Vacuum-AA12V1-0902_bd71ff5e-7eeb-4cdd-905d-106deb46353a_1.f0533dbbfe269f48130da685016ff34e.jpeg"
+    ],
+    "rating": 4,
+    "reviews": 397,
+    "discount": 5,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Vacuum",
+      "material": "Leather",
+      "color": "Black",
+      "warranty": "6 months"
+    }
+  },
+  {
+    "name": "Michelin Dash Camera",
+    "arabicName": "Dash Camera Michelin",
+    "description": "كاميرا داش لتسجيل الطريق وزيادة الأمان",
+    "price": 249.95,
+    "originalPrice": 335.45,
+    "category": "Car Accessories",
+    "brand": "Michelin",
+    "partNumber": "MIC-CA-1212",
+    "sku": "SKU-MICHELIN-CA-1212",
+    "stock": 155,
+    "images": [
+      "https://m.media-amazon.com/images/I/616cN55DehL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 225,
+    "discount": 23,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Dash Camera",
+      "material": "Silicone",
+      "color": "Gray",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Xiaomi Car Charger",
+    "arabicName": "Car Charger Xiaomi",
+    "description": "شاحن سيارة سريع لشحن الهواتف والأجهزة أثناء التنقل",
+    "price": 177.62,
+    "originalPrice": 348.45,
+    "category": "Car Accessories",
+    "brand": "Xiaomi",
+    "partNumber": "XIA-CA-1213",
+    "sku": "SKU-XIAOMI-CA-1213",
+    "stock": 39,
+    "images": ["https://m.media-amazon.com/images/I/51nPSaB5SOL.jpg"],
+    "rating": 4.7,
+    "reviews": 343,
+    "discount": 5,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Charger",
+      "material": "Silicone",
+      "color": "Gray",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "Pioneer Air Freshener",
+    "arabicName": "Air Freshener Pioneer",
+    "description": "معطر جو للسيارة يمنح رائحة منعشة تدوم طويلاً",
+    "price": 190.84,
+    "originalPrice": 330.27,
+    "category": "Car Accessories",
+    "brand": "Pioneer",
+    "partNumber": "PIO-CA-1214",
+    "sku": "SKU-PIONEER-CA-1214",
+    "stock": 350,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRFYyFVaZera05a4OtF1Vq6Cj9_RVVrAPBQ&s"
+    ],
+    "rating": 4.3,
+    "reviews": 597,
+    "discount": 32,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Freshener",
+      "material": "Plastic",
+      "color": "Red",
+      "warranty": "6 months"
+    }
   }
 ]
+
 
