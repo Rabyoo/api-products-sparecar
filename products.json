@@ -1,6 +1,5 @@
 [
    {
-    "id": 1001,
     "name": "K&N Timing Belt",
     "arabicName": "Timing Belt K&N",
     "description": "قطعة غيار سيارات عالية الجودة من K&N",
@@ -5553,7 +5552,6 @@
     }
   },
    {
-    "id": 1241,
     "name": "Mahle Fuel Pump",
     "arabicName": "Fuel Pump Mahle",
     "description": "Fuel Pump عالية الجودة لقطع غيار السيارات بأداء موثوق",
@@ -5580,6 +5578,7 @@
     }
   }
 ]
+
 
 
 
