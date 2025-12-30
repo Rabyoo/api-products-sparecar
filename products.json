@@ -4725,7 +4725,409 @@
       "color": "Red",
       "warranty": "6 months"
     }
+  },
+   {
+    "name": "MAN Truck Air Dryer",
+    "arabicName": "Air Dryer شاحنات MAN",
+    "description": "مجفف هواء لنظام الفرامل الهوائية يمنع الرطوبة والشوائب",
+    "price": 789.77,
+    "originalPrice": 2792.49,
+    "category": "Truck Parts",
+    "brand": "MAN",
+    "truckBrand": "DAF",
+    "truckModel": "CF",
+    "year": "2014-2024",
+    "partNumber": "MAN-TP-1802",
+    "sku": "SKU-MAN-TP-1802",
+    "stock": 34,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZU_KgfDfnlBhbY9KxTVEFyD0A4pxaCP9WOA&s"
+    ],
+    "rating": 4.1,
+    "reviews": 93,
+    "discount": 21,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Dryer",
+      "material": "Cast Iron",
+      "warranty": "3 years",
+      "compatibility": ["DAF CF 2018", "DAF CF 2021"]
+    }
+  },
+  {
+    "name": "Scania Truck Fuel Injector",
+    "arabicName": "Fuel Injector شاحنات Scania",
+    "description": "بخاخ وقود عالي الدقة لمحركات الشاحنات الثقيلة",
+    "price": 1152.91,
+    "originalPrice": 2636.31,
+    "category": "Truck Parts",
+    "brand": "Scania",
+    "truckBrand": "Mercedes-Benz",
+    "truckModel": "Arocs",
+    "year": "2014-2024",
+    "partNumber": "SCA-TP-1803",
+    "sku": "SKU-SCANIA-TP-1803",
+    "stock": 35,
+    "images": [
+      "https://cdn.ecommercedns.uk/files/2/244172/5/14599565/130013r.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 126,
+    "discount": 21,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Fuel Injector",
+      "material": "Alloy",
+      "warranty": "1 year",
+      "compatibility": ["Mercedes-Benz Arocs 2018", "Mercedes-Benz Arocs 2021"]
+    }
+  },
+  {
+    "name": "Knorr-Bremse Truck Leaf Spring",
+    "arabicName": "Leaf Spring شاحنات Knorr-Bremse",
+    "description": "سوستة ورقية للشاحنات لتحمل الأحمال الثقيلة",
+    "price": 738.62,
+    "originalPrice": 2835.06,
+    "category": "Truck Parts",
+    "brand": "Knorr-Bremse",
+    "truckBrand": "Mercedes-Benz",
+    "truckModel": "Actros",
+    "year": "2014-2024",
+    "partNumber": "KNO-TP-1804",
+    "sku": "SKU-KNORR-BREMSE-TP-1804",
+    "stock": 8,
+    "images": [
+      "https://images.jdmagicbox.com/v2/comp/def_content/ncat_id/leaf-spring-30zz51v-250.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 115,
+    "discount": 15,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Leaf Spring",
+      "material": "Alloy",
+      "warranty": "3 years",
+      "compatibility": [
+        "Mercedes-Benz Actros 2018",
+        "Mercedes-Benz Actros 2021"
+      ]
+    }
+  },
+  {
+    "name": "Scania Truck Clutch Kit",
+    "arabicName": "Clutch Kit شاحنات Scania",
+    "description": "طقم دبرياج شاحنات يتحمل العزم العالي والاستخدام الشاق",
+    "price": 1204.37,
+    "originalPrice": 2887.41,
+    "category": "Truck Parts",
+    "brand": "Scania",
+    "truckBrand": "DAF",
+    "truckModel": "CF",
+    "year": "2014-2024",
+    "partNumber": "SCA-TP-1805",
+    "sku": "SKU-SCANIA-TP-1805",
+    "stock": 94,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZHEARkT-IKI6hhd231TEndRsXSdwv9X4a5g&s"
+    ],
+    "rating": 4.5,
+    "reviews": 157,
+    "discount": 9,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Clutch Kit",
+      "material": "Cast Iron",
+      "warranty": "2 years",
+      "compatibility": ["DAF CF 2018", "DAF CF 2021"]
+    }
+  },
+  {
+    "name": "Scania Truck Fuel Injector",
+    "arabicName": "Fuel Injector شاحنات Scania",
+    "description": "بخاخ وقود عالي الدقة لمحركات الشاحنات الثقيلة",
+    "price": 1829.55,
+    "originalPrice": 2670.96,
+    "category": "Truck Parts",
+    "brand": "Scania",
+    "truckBrand": "DAF",
+    "truckModel": "XF",
+    "year": "2014-2024",
+    "partNumber": "SCA-TP-1806",
+    "sku": "SKU-SCANIA-TP-1806",
+    "stock": 18,
+    "images": [
+      "https://cdn.ecommercedns.uk/files/2/244172/5/14599565/130013r.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 34,
+    "discount": 7,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Fuel Injector",
+      "material": "Cast Iron",
+      "warranty": "3 years",
+      "compatibility": ["DAF XF 2018", "DAF XF 2021"]
+    }
+  },
+  {
+    "name": "DAF Truck Air Filter",
+    "arabicName": "Air Filter شاحنات DAF",
+    "description": "فلتر هواء شاحنات لتحسين أداء المحرك في الظروف القاسية",
+    "price": 117.92,
+    "originalPrice": 2752.93,
+    "category": "Truck Parts",
+    "brand": "DAF",
+    "truckBrand": "DAF",
+    "truckModel": "XF",
+    "year": "2014-2024",
+    "partNumber": "DAF-TP-1807",
+    "sku": "SKU-DAF-TP-1807",
+    "stock": 103,
+    "images": [
+      "https://omegaspareparts.com/wp-content/uploads/2020/10/1636_1.jpg"
+    ],
+    "rating": 5,
+    "reviews": 97,
+    "discount": 17,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Steel",
+      "warranty": "1 year",
+      "compatibility": ["DAF XF 2018", "DAF XF 2021"]
+    }
+  },
+  {
+    "name": "Volvo Truck Leaf Spring",
+    "arabicName": "Leaf Spring شاحنات Volvo",
+    "description": "سوستة ورقية للشاحنات لتحمل الأحمال الثقيلة",
+    "price": 621.04,
+    "originalPrice": 2679.57,
+    "category": "Truck Parts",
+    "brand": "Volvo",
+    "truckBrand": "Mercedes-Benz",
+    "truckModel": "Arocs",
+    "year": "2014-2024",
+    "partNumber": "VOL-TP-1808",
+    "sku": "SKU-VOLVO-TP-1808",
+    "stock": 57,
+    "images": [
+      "https://springworks.com/cdn/shop/products/front-leaf-spring-96-1314.jpg?v=1683000128"
+    ],
+    "rating": 4.3,
+    "reviews": 116,
+    "discount": 25,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Leaf Spring",
+      "material": "Alloy",
+      "warranty": "2 years",
+      "compatibility": ["Mercedes-Benz Arocs 2018", "Mercedes-Benz Arocs 2021"]
+    }
+  },
+  {
+    "name": "DAF Truck Clutch Kit",
+    "arabicName": "Clutch Kit شاحنات DAF",
+    "description": "طقم دبرياج شاحنات يتحمل العزم العالي والاستخدام الشاق",
+    "price": 1765.36,
+    "originalPrice": 2730.84,
+    "category": "Truck Parts",
+    "brand": "DAF",
+    "truckBrand": "MAN",
+    "truckModel": "TGS",
+    "year": "2014-2024",
+    "partNumber": "DAF-TP-1809",
+    "sku": "SKU-DAF-TP-1809",
+    "stock": 5,
+    "images": [
+      "https://www.daf.co.uk/-/media/images/countries/uk/news/2018/02-10-18-clutch-programme.png?rev=edb00aac200c451084de21acd8f27f5c"
+    ],
+    "rating": 4.8,
+    "reviews": 235,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Clutch Kit",
+      "material": "Steel",
+      "warranty": "2 years",
+      "compatibility": ["MAN TGS 2018", "MAN TGS 2021"]
+    }
+  },
+  {
+    "name": "Cummins Truck Turbocharger",
+    "arabicName": "Turbocharger شاحنات Cummins",
+    "description": "توربو شاحن يزيد من قوة المحرك وكفاءة استهلاك الوقود",
+    "price": 400.76,
+    "originalPrice": 2616.34,
+    "category": "Truck Parts",
+    "brand": "Cummins",
+    "truckBrand": "Scania",
+    "truckModel": "R-Series",
+    "year": "2014-2024",
+    "partNumber": "CUM-TP-1810",
+    "sku": "SKU-CUMMINS-TP-1810",
+    "stock": 129,
+    "images": [
+      "https://ryansdieselservice.com/wp-content/uploads/2022/04/IMG_9076__22719.1644253919.1280.1280.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 197,
+    "discount": 18,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Turbocharger",
+      "material": "Cast Iron",
+      "warranty": "1 year",
+      "compatibility": ["Scania R-Series 2018", "Scania R-Series 2021"]
+    }
+  },
+  {
+    "name": "Scania Truck Shock Absorber",
+    "arabicName": "Shock Absorber شاحنات Scania",
+    "description": "مساعد شاحنات قوي لتحسين الثبات وراحة القيادة",
+    "price": 2020.97,
+    "originalPrice": 2864.71,
+    "category": "Truck Parts",
+    "brand": "Scania",
+    "truckBrand": "Mercedes-Benz",
+    "truckModel": "Actros",
+    "year": "2014-2024",
+    "partNumber": "SCA-TP-1811",
+    "sku": "SKU-SCANIA-TP-1811",
+    "stock": 30,
+    "images": [
+      "https://www.auroraproparts.com/wp-content/uploads/2023/05/1867014.webp"
+    ],
+    "rating": 4.7,
+    "reviews": 21,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Shock Absorber",
+      "material": "Cast Iron",
+      "warranty": "2 years",
+      "compatibility": [
+        "Mercedes-Benz Actros 2018",
+        "Mercedes-Benz Actros 2021"
+      ]
+    }
+  },
+  {
+    "name": "Mercedes-Benz Truck Clutch Kit",
+    "arabicName": "Clutch Kit شاحنات Mercedes-Benz",
+    "description": "طقم دبرياج شاحنات يتحمل العزم العالي والاستخدام الشاق",
+    "price": 837.88,
+    "originalPrice": 2745.75,
+    "category": "Truck Parts",
+    "brand": "Mercedes-Benz",
+    "truckBrand": "Scania",
+    "truckModel": "G-Series",
+    "year": "2014-2024",
+    "partNumber": "MER-TP-1812",
+    "sku": "SKU-MERCEDES-BENZ-TP-1812",
+    "stock": 145,
+    "images": [
+      "https://image.made-in-china.com/2f0j00IKdowvtAircJ/400mm-No-827256-Clutch-Kit-for-Mercedes-Benz-Truck-Parts.webp"
+    ],
+    "rating": 4.4,
+    "reviews": 32,
+    "discount": 10,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Clutch Kit",
+      "material": "Alloy",
+      "warranty": "3 years",
+      "compatibility": ["Scania G-Series 2018", "Scania G-Series 2021"]
+    }
+  },
+  {
+    "name": "Knorr-Bremse Truck Leaf Spring",
+    "arabicName": "Leaf Spring شاحنات Knorr-Bremse",
+    "description": "سوستة ورقية للشاحنات لتحمل الأحمال الثقيلة",
+    "price": 1808.32,
+    "originalPrice": 2779.38,
+    "category": "Truck Parts",
+    "brand": "Knorr-Bremse",
+    "truckBrand": "Scania",
+    "truckModel": "G-Series",
+    "year": "2014-2024",
+    "partNumber": "KNO-TP-1813",
+    "sku": "SKU-KNORR-BREMSE-TP-1813",
+    "stock": 34,
+    "images": [
+      "https://images.jdmagicbox.com/v2/comp/def_content/ncat_id/leaf-spring-30zz51v-250.jpg"
+    ],
+    "rating": 4,
+    "reviews": 257,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Leaf Spring",
+      "material": "Cast Iron",
+      "warranty": "1 year",
+      "compatibility": ["Scania G-Series 2018", "Scania G-Series 2021"]
+    }
+  },
+  {
+    "name": "DAF Truck Air Dryer",
+    "arabicName": "Air Dryer شاحنات DAF",
+    "description": "مجفف هواء لنظام الفرامل الهوائية يمنع الرطوبة والشوائب",
+    "price": 1614.09,
+    "originalPrice": 2691.41,
+    "category": "Truck Parts",
+    "brand": "DAF",
+    "truckBrand": "Scania",
+    "truckModel": "R-Series",
+    "year": "2014-2024",
+    "partNumber": "DAF-TP-1814",
+    "sku": "SKU-DAF-TP-1814",
+    "stock": 133,
+    "images": [
+      "https://s3-eu-west-1.amazonaws.com/static.bisonparts.co.uk/products/large/29960-1.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 102,
+    "discount": 8,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Dryer",
+      "material": "Steel",
+      "warranty": "2 years",
+      "compatibility": ["Scania R-Series 2018", "Scania R-Series 2021"]
+    }
+  },
+  {
+    "name": "Knorr-Bremse Truck Turbocharger",
+    "arabicName": "Turbocharger شاحنات Knorr-Bremse",
+    "description": "توربو شاحن يزيد من قوة المحرك وكفاءة استهلاك الوقود",
+    "price": 2385.62,
+    "originalPrice": 2750.96,
+    "category": "Truck Parts",
+    "brand": "Knorr-Bremse",
+    "truckBrand": "Mercedes-Benz",
+    "truckModel": "Actros",
+    "year": "2014-2024",
+    "partNumber": "KNO-TP-1815",
+    "sku": "SKU-KNORR-BREMSE-TP-1815",
+    "stock": 126,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv92UD4TfqB1UBY3RQe6Q-fb3rtzQ018u-hA&s"
+    ],
+    "rating": 4.5,
+    "reviews": 262,
+    "discount": 11,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Turbocharger",
+      "material": "Cast Iron",
+      "warranty": "1 year",
+      "compatibility": [
+        "Mercedes-Benz Actros 2018",
+        "Mercedes-Benz Actros 2021"
+      ]
+    }
   }
 ]
+
 
 
