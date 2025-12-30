@@ -3365,10 +3365,515 @@
       "warranty": "6 months",
       "compatibility": ["Benelli TRK 502 2018", "Benelli TRK 502 2021"]
     }
+  },
+    {
+    "name": "Hankook Summer Tyre",
+    "arabicName": "كفر Summer Hankook",
+    "description": "كفر صيفي يوفر تماسك ممتاز على الطرق الجافة والمبتلة مع أداء ثابت",
+    "price": 193.88,
+    "originalPrice": 485.73,
+    "category": "Tyres",
+    "brand": "Hankook",
+    "carBrand": "Mercedes",
+    "carModel": "G-Class",
+    "year": "2016-2024",
+    "partNumber": "HAN-TY-0602",
+    "sku": "SKU-HANKOOK-TY-0602",
+    "stock": 44,
+    "images": [
+      "https://www.hankooktire-mediacenter.com/fileadmin/_processed_/c/e/csm_Ventus_S1_evo_3_SUV_Perspective_3_d3c0ce1d8b.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 499,
+    "discount": 19,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Summer",
+      "width": "195",
+      "profile": "50",
+      "rimSize": "17",
+      "warranty": "1 year",
+      "compatibility": ["Mercedes G-Class 2018", "Mercedes G-Class 2021"]
+    }
+  },
+  {
+    "name": "Bridgestone All Season Tyre",
+    "arabicName": "كفر All Season Bridgestone",
+    "description": "كفر لجميع الفصول يوفر توازن مثالي بين الأداء والراحة طوال السنة",
+    "price": 287.69,
+    "originalPrice": 482.48,
+    "category": "Tyres",
+    "brand": "Bridgestone",
+    "carBrand": "Honda",
+    "carModel": "Accord",
+    "year": "2016-2024",
+    "partNumber": "BRI-TY-0603",
+    "sku": "SKU-BRIDGESTONE-TY-0603",
+    "stock": 71,
+    "images": [
+      "https://www.reifen.com/images/thumbs/046/0465283_Bridgestone-205-60-R16-96H-A005-Weather-Control-XL-MS-15319084-full.jpg_550.webp"
+    ],
+    "rating": 4.7,
+    "reviews": 239,
+    "discount": 30,
+    "isFeatured": false,
+    "specifications": {
+      "type": "All Season",
+      "width": "195",
+      "profile": "50",
+      "rimSize": "16",
+      "warranty": "1 year",
+      "compatibility": ["Honda Accord 2018", "Honda Accord 2021"]
+    }
+  },
+  {
+    "name": "Bridgestone Performance Tyre",
+    "arabicName": "كفر Performance Bridgestone",
+    "description": "كفر رياضي عالي الأداء مصمم للثبات العالي عند السرعات المرتفعة",
+    "price": 405.4,
+    "originalPrice": 470.91,
+    "category": "Tyres",
+    "brand": "Bridgestone",
+    "carBrand": "Toyota",
+    "carModel": "Camry",
+    "year": "2016-2024",
+    "partNumber": "BRI-TY-0604",
+    "sku": "SKU-BRIDGESTONE-TY-0604",
+    "stock": 240,
+    "images": [
+      "https://fitandfix-production.s3.eu-central-1.amazonaws.com/media/catalog/product/b/r/bridgestone_potenza_re004_215-45r18_3_.jpg?store=default&image-type=image"
+    ],
+    "rating": 4.5,
+    "reviews": 424,
+    "discount": 5,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Performance",
+      "width": "225",
+      "profile": "55",
+      "rimSize": "17",
+      "warranty": "2 years",
+      "compatibility": ["Toyota Camry 2018", "Toyota Camry 2021"]
+    }
+  },
+  {
+    "name": "Yokohama Summer Tyre",
+    "arabicName": "كفر Summer Yokohama",
+    "description": "كفر صيفي يوفر تماسك ممتاز على الطرق الجافة والمبتلة مع أداء ثابت",
+    "price": 261.58,
+    "originalPrice": 507.46,
+    "category": "Tyres",
+    "brand": "Yokohama",
+    "carBrand": "Honda",
+    "carModel": "Accord",
+    "year": "2016-2024",
+    "partNumber": "YOK-TY-0605",
+    "sku": "SKU-YOKOHAMA-TY-0605",
+    "stock": 140,
+    "images": [
+      "https://pneussthubert.com/catalogue/product/pneu-ete-YOKOHAMA-AVID-TOURING-S.jpg"
+    ],
+    "rating": 5,
+    "reviews": 298,
+    "discount": 8,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Summer",
+      "width": "225",
+      "profile": "65",
+      "rimSize": "19",
+      "warranty": "3 years",
+      "compatibility": ["Honda Accord 2018", "Honda Accord 2021"]
+    }
+  },
+  {
+    "name": "Michelin All Season Tyre",
+    "arabicName": "كفر All Season Michelin",
+    "description": "كفر لجميع الفصول يوفر توازن مثالي بين الأداء والراحة طوال السنة",
+    "price": 141.3,
+    "originalPrice": 510.51,
+    "category": "Tyres",
+    "brand": "Michelin",
+    "carBrand": "Ford",
+    "carModel": "Focus",
+    "year": "2016-2024",
+    "partNumber": "MIC-TY-0606",
+    "sku": "SKU-MICHELIN-TY-0606",
+    "stock": 76,
+    "images": [
+      "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4xd4i765kf1uzeh/4w-239_3528704085675_tire_michelin_crossclimate-suv_225-slash-55-r18-98v_a_main_5-quarterzoom_nopad.webp?t=resize&height=500"
+    ],
+    "rating": 4.6,
+    "reviews": 289,
+    "discount": 24,
+    "isFeatured": true,
+    "specifications": {
+      "type": "All Season",
+      "width": "205",
+      "profile": "60",
+      "rimSize": "18",
+      "warranty": "1 year",
+      "compatibility": ["Ford Focus 2018", "Ford Focus 2021"]
+    }
+  },
+  {
+    "name": "Continental All Season Tyre",
+    "arabicName": "كفر All Season Continental",
+    "description": "كفر لجميع الفصول يوفر توازن مثالي بين الأداء والراحة طوال السنة",
+    "price": 399.78,
+    "originalPrice": 501.2,
+    "category": "Tyres",
+    "brand": "Continental",
+    "carBrand": "Ford",
+    "carModel": "Ranger",
+    "year": "2016-2024",
+    "partNumber": "CON-TY-0607",
+    "sku": "SKU-CONTINENTAL-TY-0607",
+    "stock": 200,
+    "images": [
+      "https://www.reifen.com/images/thumbs/075/0750213_Continental-195-65-R15-91H-AllSeasonContact-2-Evc-15385259-full.jpg_550.webp"
+    ],
+    "rating": 4.7,
+    "reviews": 79,
+    "discount": 26,
+    "isFeatured": false,
+    "specifications": {
+      "type": "All Season",
+      "width": "235",
+      "profile": "50",
+      "rimSize": "19",
+      "warranty": "2 years",
+      "compatibility": ["Ford Ranger 2018", "Ford Ranger 2021"]
+    }
+  },
+  {
+    "name": "Bridgestone Winter Tyre",
+    "arabicName": "كفر Winter Bridgestone",
+    "description": "كفر شتوي مصمم لتحسين الثبات والتحكم في الأجواء الباردة والممطرة",
+    "price": 352.43,
+    "originalPrice": 474.97,
+    "category": "Tyres",
+    "brand": "Bridgestone",
+    "carBrand": "Chevrolet",
+    "carModel": "Tahoe",
+    "year": "2016-2024",
+    "partNumber": "BRI-TY-0608",
+    "sku": "SKU-BRIDGESTONE-TY-0608",
+    "stock": 152,
+    "images": [
+      "https://mazdashop.ca/cdn/shop/files/Bridgestone-Blizzak-WS90-Winter-Tire-5_2000x.jpg?v=1748476588"
+    ],
+    "rating": 4.8,
+    "reviews": 411,
+    "discount": 24,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Winter",
+      "width": "215",
+      "profile": "60",
+      "rimSize": "16",
+      "warranty": "3 years",
+      "compatibility": ["Chevrolet Tahoe 2018", "Chevrolet Tahoe 2021"]
+    }
+  },
+  {
+    "name": "Goodyear Off Road Tyre",
+    "arabicName": "كفر Off Road Goodyear",
+    "description": "كفر طرق وعرة مناسب للسيارات الدفع الرباعي والاستخدام الشاق",
+    "price": 163.49,
+    "originalPrice": 508.32,
+    "category": "Tyres",
+    "brand": "Goodyear",
+    "carBrand": "Nissan",
+    "carModel": "Patrol",
+    "year": "2016-2024",
+    "partNumber": "GOO-TY-0609",
+    "sku": "SKU-GOODYEAR-TY-0609",
+    "stock": 147,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FfCs4wbtrPxLt8YJhzKkUV6cIVbRrFkeWg&s"
+    ],
+    "rating": 4.7,
+    "reviews": 62,
+    "discount": 9,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Off Road",
+      "width": "235",
+      "profile": "60",
+      "rimSize": "18",
+      "warranty": "1 year",
+      "compatibility": ["Nissan Patrol 2018", "Nissan Patrol 2021"]
+    }
+  },
+  {
+    "name": "Goodyear Off Road Tyre",
+    "arabicName": "كفر Off Road Goodyear",
+    "description": "كفر طرق وعرة مناسب للسيارات الدفع الرباعي والاستخدام الشاق",
+    "price": 186.94,
+    "originalPrice": 486.19,
+    "category": "Tyres",
+    "brand": "Goodyear",
+    "carBrand": "Nissan",
+    "carModel": "Altima",
+    "year": "2016-2024",
+    "partNumber": "GOO-TY-0610",
+    "sku": "SKU-GOODYEAR-TY-0610",
+    "stock": 19,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FfCs4wbtrPxLt8YJhzKkUV6cIVbRrFkeWg&s"
+    ],
+    "rating": 4.6,
+    "reviews": 339,
+    "discount": 14,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Off Road",
+      "width": "195",
+      "profile": "50",
+      "rimSize": "19",
+      "warranty": "1 year",
+      "compatibility": ["Nissan Altima 2018", "Nissan Altima 2021"]
+    }
+  },
+  {
+    "name": "Dunlop Performance Tyre",
+    "arabicName": "كفر Performance Dunlop",
+    "description": "كفر رياضي عالي الأداء مصمم للثبات العالي عند السرعات المرتفعة",
+    "price": 171.1,
+    "originalPrice": 485.78,
+    "category": "Tyres",
+    "brand": "Dunlop",
+    "carBrand": "Ford",
+    "carModel": "Ranger",
+    "year": "2016-2024",
+    "partNumber": "DUN-TY-0611",
+    "sku": "SKU-DUNLOP-TY-0611",
+    "stock": 117,
+    "images": [
+      "https://www.dunlop.eu/en_ie/consumer/why-dunlop/we-dont-perform-we-ultra-high-perform/_jcr_content/root/container/container_570263629/container_1126899377/image.coreimg.png/1647600657577/dunlop-sportmaxx-rt2-suv.png"
+    ],
+    "rating": 4.6,
+    "reviews": 428,
+    "discount": 23,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Performance",
+      "width": "215",
+      "profile": "50",
+      "rimSize": "15",
+      "warranty": "2 years",
+      "compatibility": ["Ford Ranger 2018", "Ford Ranger 2021"]
+    }
+  },
+  {
+    "name": "Bridgestone All Season Tyre",
+    "arabicName": "كفر All Season Bridgestone",
+    "description": "كفر لجميع الفصول يوفر توازن مثالي بين الأداء والراحة طوال السنة",
+    "price": 208.66,
+    "originalPrice": 506.45,
+    "category": "Tyres",
+    "brand": "Bridgestone",
+    "carBrand": "Nissan",
+    "carModel": "Altima",
+    "year": "2016-2024",
+    "partNumber": "BRI-TY-0612",
+    "sku": "SKU-BRIDGESTONE-TY-0612",
+    "stock": 184,
+    "images": [
+      "https://www.reifen.com/images/thumbs/046/0465283_Bridgestone-205-60-R16-96H-A005-Weather-Control-XL-MS-15319084-full.jpg_550.webp"
+    ],
+    "rating": 4.5,
+    "reviews": 146,
+    "discount": 9,
+    "isFeatured": false,
+    "specifications": {
+      "type": "All Season",
+      "width": "215",
+      "profile": "65",
+      "rimSize": "17",
+      "warranty": "3 years",
+      "compatibility": ["Nissan Altima 2018", "Nissan Altima 2021"]
+    }
+  },
+  {
+    "name": "Goodyear Performance Tyre",
+    "arabicName": "كفر Performance Goodyear",
+    "description": "كفر رياضي عالي الأداء مصمم للثبات العالي عند السرعات المرتفعة",
+    "price": 187.83,
+    "originalPrice": 497.23,
+    "category": "Tyres",
+    "brand": "Goodyear",
+    "carBrand": "Chevrolet",
+    "carModel": "Malibu",
+    "year": "2016-2024",
+    "partNumber": "GOO-TY-0613",
+    "sku": "SKU-GOODYEAR-TY-0613",
+    "stock": 137,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWpgT3zI89ZQa2yTMLqQ5MyzCn_rbgWTuGw&s"
+    ],
+    "rating": 4.2,
+    "reviews": 500,
+    "discount": 15,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Performance",
+      "width": "205",
+      "profile": "50",
+      "rimSize": "18",
+      "warranty": "3 years",
+      "compatibility": ["Chevrolet Malibu 2018", "Chevrolet Malibu 2021"]
+    }
+  },
+  {
+    "name": "Pirelli Performance Tyre",
+    "arabicName": "كفر Performance Pirelli",
+    "description": "كفر رياضي عالي الأداء مصمم للثبات العالي عند السرعات المرتفعة",
+    "price": 107.21,
+    "originalPrice": 499.89,
+    "category": "Tyres",
+    "brand": "Pirelli",
+    "carBrand": "Hyundai",
+    "carModel": "Tucson",
+    "year": "2016-2024",
+    "partNumber": "PIR-TY-0614",
+    "sku": "SKU-PIRELLI-TY-0614",
+    "stock": 198,
+    "images": [
+      "https://tyre24.pirelli.com/dynamic_engine/assets/visori/3_4/pzero.png"
+    ],
+    "rating": 4.2,
+    "reviews": 149,
+    "discount": 28,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Performance",
+      "width": "205",
+      "profile": "50",
+      "rimSize": "15",
+      "warranty": "1 year",
+      "compatibility": ["Hyundai Tucson 2018", "Hyundai Tucson 2021"]
+    }
+  },
+  {
+    "name": "Yokohama Summer Tyre",
+    "arabicName": "كفر Summer Yokohama",
+    "description": "كفر صيفي يوفر تماسك ممتاز على الطرق الجافة والمبتلة مع أداء ثابت",
+    "price": 128.39,
+    "originalPrice": 483.99,
+    "category": "Tyres",
+    "brand": "Yokohama",
+    "carBrand": "Toyota",
+    "carModel": "Camry",
+    "year": "2016-2024",
+    "partNumber": "YOK-TY-0615",
+    "sku": "SKU-YOKOHAMA-TY-0615",
+    "stock": 170,
+    "images": [
+      "https://pneussthubert.com/catalogue/product/pneu-ete-YOKOHAMA-AVID-TOURING-S.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 256,
+    "discount": 11,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Summer",
+      "width": "195",
+      "profile": "50",
+      "rimSize": "19",
+      "warranty": "3 years",
+      "compatibility": ["Toyota Camry 2018", "Toyota Camry 2021"]
+    }
+  },
+  {
+    "name": "Continental Performance Tyre",
+    "arabicName": "كفر Performance Continental",
+    "description": "كفر رياضي عالي الأداء مصمم للثبات العالي عند السرعات المرتفعة",
+    "price": 259.5,
+    "originalPrice": 486.58,
+    "category": "Tyres",
+    "brand": "Continental",
+    "carBrand": "Honda",
+    "carModel": "CR-V",
+    "year": "2016-2024",
+    "partNumber": "CON-TY-0616",
+    "sku": "SKU-CONTINENTAL-TY-0616",
+    "stock": 104,
+    "images": [
+      "https://continentaltire.com/sites/default/files/styles/tire_listing_image/public/media/image/2021-01/ExtremeContactDWS06Plus_Lt3Q.png?itok=b-kmd5d0"
+    ],
+    "rating": 5,
+    "reviews": 376,
+    "discount": 30,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Performance",
+      "width": "195",
+      "profile": "55",
+      "rimSize": "18",
+      "warranty": "1 year",
+      "compatibility": ["Honda CR-V 2018", "Honda CR-V 2021"]
+    }
+  },
+  {
+    "name": "Yokohama All Season Tyre",
+    "arabicName": "كفر All Season Yokohama",
+    "description": "كفر لجميع الفصول يوفر توازن مثالي بين الأداء والراحة طوال السنة",
+    "price": 327.48,
+    "originalPrice": 463.41,
+    "category": "Tyres",
+    "brand": "Yokohama",
+    "carBrand": "Nissan",
+    "carModel": "Altima",
+    "year": "2016-2024",
+    "partNumber": "YOK-TY-0617",
+    "sku": "SKU-YOKOHAMA-TY-0617",
+    "stock": 199,
+    "images": [
+      "https://colewood-automotive.s3-eu-west-1.amazonaws.com/Images/Colewood/Yokohama/bluearth-4s-aw21.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 266,
+    "discount": 9,
+    "isFeatured": true,
+    "specifications": {
+      "type": "All Season",
+      "width": "245",
+      "profile": "50",
+      "rimSize": "18",
+      "warranty": "1 year",
+      "compatibility": ["Nissan Altima 2018", "Nissan Altima 2021"]
+    }
+  },
+  {
+    "name": "Hankook All Season Tyre",
+    "arabicName": "كفر All Season Hankook",
+    "description": "كفر لجميع الفصول يوفر توازن مثالي بين الأداء والراحة طوال السنة",
+    "price": 445.17,
+    "originalPrice": 478.59,
+    "category": "Tyres",
+    "brand": "Hankook",
+    "carBrand": "Volkswagen",
+    "carModel": "Golf",
+    "year": "2016-2024",
+    "partNumber": "HAN-TY-0618",
+    "sku": "SKU-HANKOOK-TY-0618",
+    "stock": 91,
+    "images": [
+      "https://www.hankooktire-mediacenter.com/fileadmin/_processed_/7/0/csm_Hankook_Kinergy_4S2_NL_17a43c574d.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 482,
+    "discount": 25,
+    "isFeatured": false,
+    "specifications": {
+      "type": "All Season",
+      "width": "235",
+      "profile": "60",
+      "rimSize": "15",
+      "warranty": "1 year",
+      "compatibility": ["Volkswagen Golf 2018", "Volkswagen Golf 2021"]
+    }
   }
 ]
-
-
-
-
-
