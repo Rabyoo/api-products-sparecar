@@ -1659,6 +1659,547 @@
     },
     "carBrand": "Hyundai",
     "carModel": "Elantra"
+  },
+   {
+    "id": 971,
+    "name": "Brembo Brake Fluid",
+    "arabicName": "Brake Fluid Brembo",
+    "description": "Brake Fluid عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 149.48,
+    "originalPrice": 322.75,
+    "category": "Brakes",
+    "brand": "Brembo",
+    "stock": 18,
+    "images": [
+      "https://m.media-amazon.com/images/I/51x4+8qOoJL._AC_SL1024_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 266,
+    "discount": 25,
+    "isFeatured": true
+  },
+  {
+    "id": 972,
+    "name": "PowerStop Brake Disc",
+    "arabicName": "Brake Disc PowerStop",
+    "description": "Brake Disc عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 267.62,
+    "originalPrice": 377.36,
+    "category": "Brakes",
+    "brand": "PowerStop",
+    "stock": 92,
+    "images": [
+      "https://m.media-amazon.com/images/I/616-tP2PzvL.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 348,
+    "discount": 26,
+    "isFeatured": false
+  },
+  {
+    "id": 973,
+    "name": "Zimmermann Brake Fluid",
+    "arabicName": "Brake Fluid Zimmermann",
+    "description": "Brake Fluid عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 271.72,
+    "originalPrice": 342.55,
+    "category": "Brakes",
+    "brand": "Zimmermann",
+    "stock": 216,
+    "images": [
+      "https://m.media-amazon.com/images/I/71vlTeLPBrL.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 252,
+    "discount": 11,
+    "isFeatured": false
+  },
+  {
+    "id": 974,
+    "name": "TRW Brake Fluid",
+    "arabicName": "Brake Fluid TRW",
+    "description": "Brake Fluid عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 106.94,
+    "originalPrice": 363.11,
+    "category": "Brakes",
+    "brand": "TRW",
+    "stock": 104,
+    "images": [
+      "https://m.media-amazon.com/images/I/61G3dH0m3gL.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 228,
+    "discount": 5,
+    "isFeatured": true
+  },
+  {
+    "id": 975,
+    "name": "ATE Brake Pads",
+    "arabicName": "Brake Pads ATE",
+    "description": "Brake Pads عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 123.71,
+    "originalPrice": 372.25,
+    "category": "Brakes",
+    "brand": "ATE",
+    "stock": 127,
+    "images": [
+      "https://m.media-amazon.com/images/I/81josbCGAYL.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 189,
+    "discount": 18,
+    "isFeatured": true
+  },
+  {
+    "id": 976,
+    "name": "Brembo Brake Caliper",
+    "arabicName": "Brake Caliper Brembo",
+    "description": "Brake Caliper عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 70.11,
+    "originalPrice": 377.6,
+    "category": "Brakes",
+    "brand": "Brembo",
+    "stock": 33,
+    "images": [
+      "https://m.media-amazon.com/images/I/51x4+8qOoJL._AC_SL1024_.jpg"
+    ],
+    "rating": 4,
+    "reviews": 211,
+    "discount": 10,
+    "isFeatured": false
+  },
+  {
+    "id": 977,
+    "name": "Brembo Brake Fluid",
+    "arabicName": "Brake Fluid Brembo",
+    "description": "Brake Fluid عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 228.46,
+    "originalPrice": 366.81,
+    "category": "Brakes",
+    "brand": "Brembo",
+    "stock": 85,
+    "images": [
+      "https://m.media-amazon.com/images/I/51x4+8qOoJL._AC_SL1024_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 218,
+    "discount": 5,
+    "isFeatured": true
+  },
+  {
+    "id": 978,
+    "name": "TRW Brake Fluid",
+    "arabicName": "Brake Fluid TRW",
+    "description": "Brake Fluid عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 79.34,
+    "originalPrice": 321.03,
+    "category": "Brakes",
+    "brand": "TRW",
+    "stock": 189,
+    "images": [
+      "https://m.media-amazon.com/images/I/61G3dH0m3gL.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 98,
+    "discount": 19,
+    "isFeatured": false
+  },
+  {
+    "id": 979,
+    "name": "Bosch Brake Hose",
+    "arabicName": "Brake Hose Bosch",
+    "description": "Brake Hose عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 55.06,
+    "originalPrice": 345.03,
+    "category": "Brakes",
+    "brand": "Bosch",
+    "stock": 235,
+    "images": [
+      "https://m.media-amazon.com/images/I/714zDqcKVYL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 329,
+    "discount": 5,
+    "isFeatured": true
+  },
+  {
+    "id": 980,
+    "name": "ATE Brake Caliper",
+    "arabicName": "Brake Caliper ATE",
+    "description": "Brake Caliper عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 193.81,
+    "originalPrice": 334.76,
+    "category": "Brakes",
+    "brand": "ATE",
+    "stock": 220,
+    "images": [
+      "https://m.media-amazon.com/images/I/81josbCGAYL.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 387,
+    "discount": 24,
+    "isFeatured": false
+  },
+  {
+    "id": 981,
+    "name": "Zimmermann Brake Disc",
+    "arabicName": "Brake Disc Zimmermann",
+    "description": "Brake Disc عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 207.43,
+    "originalPrice": 374.59,
+    "category": "Brakes",
+    "brand": "Zimmermann",
+    "stock": 102,
+    "images": [
+      "https://m.media-amazon.com/images/I/71vlTeLPBrL.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 260,
+    "discount": 30,
+    "isFeatured": true
+  },
+  {
+    "id": 982,
+    "name": "Zimmermann Brake Pads",
+    "arabicName": "Brake Pads Zimmermann",
+    "description": "Brake Pads عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 46.69,
+    "originalPrice": 332.17,
+    "category": "Brakes",
+    "brand": "Zimmermann",
+    "stock": 68,
+    "images": [
+      "https://m.media-amazon.com/images/I/71vlTeLPBrL.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 166,
+    "discount": 6,
+    "isFeatured": true
+  },
+  {
+    "id": 983,
+    "name": "Brembo Brake Hose",
+    "arabicName": "Brake Hose Brembo",
+    "description": "Brake Hose عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 233.57,
+    "originalPrice": 341.25,
+    "category": "Brakes",
+    "brand": "Brembo",
+    "stock": 295,
+    "images": [
+      "https://m.media-amazon.com/images/I/51x4+8qOoJL._AC_SL1024_.jpg"
+    ],
+    "rating": 5,
+    "reviews": 125,
+    "discount": 30,
+    "isFeatured": true
+  },
+  {
+    "id": 984,
+    "name": "Brembo Brake Hose",
+    "arabicName": "Brake Hose Brembo",
+    "description": "Brake Hose عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 118.07,
+    "originalPrice": 357.02,
+    "category": "Brakes",
+    "brand": "Brembo",
+    "stock": 163,
+    "images": [
+      "https://m.media-amazon.com/images/I/51x4+8qOoJL._AC_SL1024_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 137,
+    "discount": 12,
+    "isFeatured": false
+  },
+  {
+    "id": 985,
+    "name": "Bosch Brake Caliper",
+    "arabicName": "Brake Caliper Bosch",
+    "description": "Brake Caliper عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 48.27,
+    "originalPrice": 344.67,
+    "category": "Brakes",
+    "brand": "Bosch",
+    "stock": 12,
+    "images": [
+      "https://m.media-amazon.com/images/I/714zDqcKVYL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 385,
+    "discount": 30,
+    "isFeatured": false
+  },
+  {
+    "id": 986,
+    "name": "Zimmermann Brake Disc",
+    "arabicName": "Brake Disc Zimmermann",
+    "description": "Brake Disc عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 281.31,
+    "originalPrice": 330.97,
+    "category": "Brakes",
+    "brand": "Zimmermann",
+    "stock": 71,
+    "images": [
+      "https://m.media-amazon.com/images/I/71vlTeLPBrL.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 186,
+    "discount": 21,
+    "isFeatured": false
+  },
+  {
+    "id": 987,
+    "name": "Zimmermann Brake Disc",
+    "arabicName": "Brake Disc Zimmermann",
+    "description": "Brake Disc عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 138.1,
+    "originalPrice": 362.38,
+    "category": "Brakes",
+    "brand": "Zimmermann",
+    "stock": 266,
+    "images": [
+      "https://m.media-amazon.com/images/I/71vlTeLPBrL.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 136,
+    "discount": 28,
+    "isFeatured": false
+  },
+  {
+    "id": 988,
+    "name": "ATE Brake Disc",
+    "arabicName": "Brake Disc ATE",
+    "description": "Brake Disc عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 206.82,
+    "originalPrice": 334.44,
+    "category": "Brakes",
+    "brand": "ATE",
+    "stock": 45,
+    "images": [
+      "https://m.media-amazon.com/images/I/81josbCGAYL.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 456,
+    "discount": 23,
+    "isFeatured": true
+  },
+  {
+    "id": 989,
+    "name": "Brembo Brake Pads",
+    "arabicName": "Brake Pads Brembo",
+    "description": "Brake Pads عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 49.07,
+    "originalPrice": 354.38,
+    "category": "Brakes",
+    "brand": "Brembo",
+    "stock": 178,
+    "images": [
+      "https://m.media-amazon.com/images/I/51x4+8qOoJL._AC_SL1024_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 113,
+    "discount": 5,
+    "isFeatured": false
+  },
+  {
+    "id": 990,
+    "name": "TRW Brake Hose",
+    "arabicName": "Brake Hose TRW",
+    "description": "Brake Hose عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 266.97,
+    "originalPrice": 343.67,
+    "category": "Brakes",
+    "brand": "TRW",
+    "stock": 112,
+    "images": [
+      "https://m.media-amazon.com/images/I/61G3dH0m3gL.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 65,
+    "discount": 12,
+    "isFeatured": true
+  },
+  {
+    "id": 991,
+    "name": "PowerStop Brake Hose",
+    "arabicName": "Brake Hose PowerStop",
+    "description": "Brake Hose عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 184.95,
+    "originalPrice": 328.59,
+    "category": "Brakes",
+    "brand": "PowerStop",
+    "stock": 273,
+    "images": [
+      "https://m.media-amazon.com/images/I/616-tP2PzvL.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 176,
+    "discount": 21,
+    "isFeatured": false
+  },
+  {
+    "id": 992,
+    "name": "ATE Brake Disc",
+    "arabicName": "Brake Disc ATE",
+    "description": "Brake Disc عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 264.66,
+    "originalPrice": 374.14,
+    "category": "Brakes",
+    "brand": "ATE",
+    "stock": 251,
+    "images": [
+      "https://m.media-amazon.com/images/I/81josbCGAYL.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 175,
+    "discount": 7,
+    "isFeatured": true
+  },
+  {
+    "id": 993,
+    "name": "Ferodo Brake Pads",
+    "arabicName": "Brake Pads Ferodo",
+    "description": "Brake Pads عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 198.09,
+    "originalPrice": 360.99,
+    "category": "Brakes",
+    "brand": "Ferodo",
+    "stock": 226,
+    "images": [
+      "https://opsholders.com/wp-content/uploads/2025/01/Ferodo-2.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 231,
+    "discount": 17,
+    "isFeatured": false
+  },
+  {
+    "id": 994,
+    "name": "PowerStop Brake Disc",
+    "arabicName": "Brake Disc PowerStop",
+    "description": "Brake Disc عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 32.37,
+    "originalPrice": 347.47,
+    "category": "Brakes",
+    "brand": "PowerStop",
+    "stock": 94,
+    "images": [
+      "https://m.media-amazon.com/images/I/616-tP2PzvL.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 39,
+    "discount": 20,
+    "isFeatured": true
+  },
+  {
+    "id": 995,
+    "name": "PowerStop Brake Hose",
+    "arabicName": "Brake Hose PowerStop",
+    "description": "Brake Hose عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 176.87,
+    "originalPrice": 327.49,
+    "category": "Brakes",
+    "brand": "PowerStop",
+    "stock": 38,
+    "images": [
+      "https://m.media-amazon.com/images/I/616-tP2PzvL.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 477,
+    "discount": 5,
+    "isFeatured": false
+  },
+  {
+    "id": 996,
+    "name": "Brembo Brake Caliper",
+    "arabicName": "Brake Caliper Brembo",
+    "description": "Brake Caliper عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 106.72,
+    "originalPrice": 349.5,
+    "category": "Brakes",
+    "brand": "Brembo",
+    "stock": 279,
+    "images": [
+      "https://m.media-amazon.com/images/I/51x4+8qOoJL._AC_SL1024_.jpg"
+    ],
+    "rating": 4,
+    "reviews": 409,
+    "discount": 12,
+    "isFeatured": true
+  },
+  {
+    "id": 997,
+    "name": "Brembo Brake Caliper",
+    "arabicName": "Brake Caliper Brembo",
+    "description": "Brake Caliper عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 216.03,
+    "originalPrice": 353.78,
+    "category": "Brakes",
+    "brand": "Brembo",
+    "stock": 183,
+    "images": [
+      "https://m.media-amazon.com/images/I/51x4+8qOoJL._AC_SL1024_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 124,
+    "discount": 26,
+    "isFeatured": false
+  },
+  {
+    "id": 998,
+    "name": "Ferodo Brake Hose",
+    "arabicName": "Brake Hose Ferodo",
+    "description": "Brake Hose عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 258.05,
+    "originalPrice": 372.2,
+    "category": "Brakes",
+    "brand": "Ferodo",
+    "stock": 111,
+    "images": [
+      "https://opsholders.com/wp-content/uploads/2025/01/Ferodo-2.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 78,
+    "discount": 12,
+    "isFeatured": true
+  },
+  {
+    "id": 999,
+    "name": "Brembo Brake Hose",
+    "arabicName": "Brake Hose Brembo",
+    "description": "Brake Hose عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 82.62,
+    "originalPrice": 326.36,
+    "category": "Brakes",
+    "brand": "Brembo",
+    "stock": 284,
+    "images": [
+      "https://m.media-amazon.com/images/I/51x4+8qOoJL._AC_SL1024_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 475,
+    "discount": 21,
+    "isFeatured": false
+  },
+  {
+    "id": 1000,
+    "name": "Valeo Brake Hose",
+    "arabicName": "Brake Hose Valeo",
+    "description": "Brake Hose عالية الجودة توفر أداء كبح ثابت وأمان عالي",
+    "price": 192.74,
+    "originalPrice": 353.8,
+    "category": "Brakes",
+    "brand": "Valeo",
+    "stock": 20,
+    "images": [
+      "https://m.media-amazon.com/images/I/61W4Ro3ITUL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 20,
+    "discount": 15,
+    "isFeatured": false
   }
 ]
+
 
