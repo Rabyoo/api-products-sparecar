@@ -5551,8 +5551,36 @@
       "material": "Alloy Steel",
       "warranty": "2 years"
     }
+  },
+   {
+    "id": 1241,
+    "name": "Mahle Fuel Pump",
+    "arabicName": "Fuel Pump Mahle",
+    "description": "Fuel Pump عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 186.77,
+    "originalPrice": 412.44,
+    "category": "Car Parts",
+    "brand": "Mahle",
+    "stock": 66,
+    "images": [
+      "https://m.media-amazon.com/images/I/61xiX-mXciL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 69,
+    "discount": 25,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Fuel Pump",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2019",
+        "BMW 320i 2018"
+      ]
+    }
   }
 ]
+
 
 
 
