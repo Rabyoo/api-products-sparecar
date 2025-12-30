@@ -2199,7 +2199,450 @@
     "reviews": 20,
     "discount": 15,
     "isFeatured": false
+  },
+   {
+    "name": "Petronas Engine Oil 10W-40",
+    "arabicName": "زيت محرك Petronas 10W-40",
+    "description": "زيت محرك نصف تخليقي يوفر توازن مثالي بين الأداء والحماية",
+    "price": 47.12,
+    "originalPrice": 131.65,
+    "category": "Engine Oil",
+    "brand": "Petronas",
+    "partNumber": "PET-EO-1402",
+    "sku": "SKU-PETRONAS-EO-1402",
+    "stock": 284,
+    "images": [
+      "https://m.media-amazon.com/images/I/81sp7mgHBPL._AC_SY606_.jpg"
+    ],
+    "rating": 5,
+    "reviews": 205,
+    "discount": 14,
+    "isFeatured": false,
+    "specifications": {
+      "viscosity": "10W-40",
+      "type": "Semi-Synthetic",
+      "volume": "5L",
+      "standard": "API SP",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Petronas Engine Oil 5W-40",
+    "arabicName": "زيت محرك Petronas 5W-40",
+    "description": "زيت محرك عالي الأداء مناسب للقيادة القاسية والمحركات الحديثة",
+    "price": 71.14,
+    "originalPrice": 148.03,
+    "category": "Engine Oil",
+    "brand": "Petronas",
+    "partNumber": "PET-EO-1403",
+    "sku": "SKU-PETRONAS-EO-1403",
+    "stock": 117,
+    "images": [
+      "https://m.media-amazon.com/images/I/91IqLSofEiL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 5,
+    "reviews": 211,
+    "discount": 9,
+    "isFeatured": false,
+    "specifications": {
+      "viscosity": "5W-40",
+      "type": "Synthetic",
+      "volume": "1L",
+      "standard": "API SP",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Shell Engine Oil 5W-40",
+    "arabicName": "زيت محرك Shell 5W-40",
+    "description": "زيت محرك عالي الأداء مناسب للقيادة القاسية والمحركات الحديثة",
+    "price": 58.19,
+    "originalPrice": 149.35,
+    "category": "Engine Oil",
+    "brand": "Shell",
+    "partNumber": "SHE-EO-1404",
+    "sku": "SKU-SHELL-EO-1404",
+    "stock": 327,
+    "images": [
+      "https://m.media-amazon.com/images/I/71eduxsUN-L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 448,
+    "discount": 8,
+    "isFeatured": true,
+    "specifications": {
+      "viscosity": "5W-40",
+      "type": "Synthetic",
+      "volume": "4L",
+      "standard": "ACEA A3/B4",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Valvoline Engine Oil 15W-40",
+    "arabicName": "زيت محرك Valvoline 15W-40",
+    "description": "زيت محرك معدني مناسب للمحركات القديمة والاستخدام الشاق",
+    "price": 55.72,
+    "originalPrice": 142.97,
+    "category": "Engine Oil",
+    "brand": "Valvoline",
+    "partNumber": "VAL-EO-1405",
+    "sku": "SKU-VALVOLINE-EO-1405",
+    "stock": 294,
+    "images": [
+      "https://m.media-amazon.com/images/I/51X361jLjrL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 333,
+    "discount": 18,
+    "isFeatured": false,
+    "specifications": {
+      "viscosity": "15W-40",
+      "type": "Semi-Synthetic",
+      "volume": "4L",
+      "standard": "ACEA C3",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "Liqui Moly Engine Oil 5W-40",
+    "arabicName": "زيت محرك Liqui Moly 5W-40",
+    "description": "زيت محرك عالي الأداء مناسب للقيادة القاسية والمحركات الحديثة",
+    "price": 55.46,
+    "originalPrice": 127.52,
+    "category": "Engine Oil",
+    "brand": "Liqui Moly",
+    "partNumber": "LIQ-EO-1406",
+    "sku": "SKU-LIQUI MOLY-EO-1406",
+    "stock": 242,
+    "images": [
+      "https://m.media-amazon.com/images/I/612gYRN4ODL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 409,
+    "discount": 27,
+    "isFeatured": false,
+    "specifications": {
+      "viscosity": "5W-40",
+      "type": "Semi-Synthetic",
+      "volume": "5L",
+      "standard": "ACEA A3/B4",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Petronas Engine Oil 15W-40",
+    "arabicName": "زيت محرك Petronas 15W-40",
+    "description": "زيت محرك معدني مناسب للمحركات القديمة والاستخدام الشاق",
+    "price": 25.48,
+    "originalPrice": 134.29,
+    "category": "Engine Oil",
+    "brand": "Petronas",
+    "partNumber": "TOT-EO-1407",
+    "sku": "SKU-TOTAL-EO-1407",
+    "stock": 408,
+    "images": [
+      "https://cdn.pli-petronas.com/styles/image_340x315/s3/2023-10/70882_PETRONAS%20SYNTIUM%20HYBRID%20EU%200W-20%20C5.jpg?VersionId=cc23qTslH8wYbBAihc67FCTa0zgbsnjM&itok=RcWapquo"
+    ],
+    "rating": 4.6,
+    "reviews": 285,
+    "discount": 13,
+    "isFeatured": false,
+    "specifications": {
+      "viscosity": "15W-40",
+      "type": "Mineral",
+      "volume": "4L",
+      "standard": "API SN",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "Shell Engine Oil 10W-40",
+    "arabicName": "زيت محرك Shell 10W-40",
+    "description": "زيت محرك نصف تخليقي يوفر توازن مثالي بين الأداء والحماية",
+    "price": 25.79,
+    "originalPrice": 129.64,
+    "category": "Engine Oil",
+    "brand": "Shell",
+    "partNumber": "CAS-EO-1408",
+    "sku": "SKU-CASTROL-EO-1408",
+    "stock": 288,
+    "images": [
+      "https://m.media-amazon.com/images/I/61y5PocHwAL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 98,
+    "discount": 16,
+    "isFeatured": true,
+    "specifications": {
+      "viscosity": "10W-40",
+      "type": "Mineral",
+      "volume": "4L",
+      "standard": "API SP",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "Shell Engine Oil 10W-40",
+    "arabicName": "زيت محرك Shell 10W-40",
+    "description": "زيت محرك نصف تخليقي يوفر توازن مثالي بين الأداء والحماية",
+    "price": 85.6,
+    "originalPrice": 141.6,
+    "category": "Engine Oil",
+    "brand": "Shell",
+    "partNumber": "SHE-EO-1409",
+    "sku": "SKU-SHELL-EO-1409",
+    "stock": 444,
+    "images": [
+      "https://m.media-amazon.com/images/I/61tNgm0-A8L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 378,
+    "discount": 17,
+    "isFeatured": true,
+    "specifications": {
+      "viscosity": "10W-40",
+      "type": "Mineral",
+      "volume": "5L",
+      "standard": "ACEA C3",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Petronas Engine Oil 0W-20",
+    "arabicName": "زيت محرك Petronas 0W-20",
+    "description": "زيت محرك منخفض اللزوجة لتحسين استهلاك الوقود وحماية المحرك",
+    "price": 94.88,
+    "originalPrice": 140.93,
+    "category": "Engine Oil",
+    "brand": "Petronas",
+    "partNumber": "MOB-EO-1410",
+    "sku": "SKU-MOBIL-EO-1410",
+    "stock": 88,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 279,
+    "discount": 10,
+    "isFeatured": true,
+    "specifications": {
+      "viscosity": "0W-20",
+      "type": "Mineral",
+      "volume": "1L",
+      "standard": "ACEA A3/B4",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Motul Engine Oil 5W-40",
+    "arabicName": "زيت محرك Motul 5W-40",
+    "description": "زيت محرك عالي الأداء مناسب للقيادة القاسية والمحركات الحديثة",
+    "price": 112.15,
+    "originalPrice": 139.82,
+    "category": "Engine Oil",
+    "brand": "Motul",
+    "partNumber": "MOT-EO-1411",
+    "sku": "SKU-MOTUL-EO-1411",
+    "stock": 72,
+    "images": [
+      "https://m.media-amazon.com/images/I/615BhsvJaSL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 174,
+    "discount": 14,
+    "isFeatured": false,
+    "specifications": {
+      "viscosity": "5W-40",
+      "type": "Semi-Synthetic",
+      "volume": "4L",
+      "standard": "API SN",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Shell Engine Oil 0W-20",
+    "arabicName": "زيت محرك Shell 0W-20",
+    "description": "زيت محرك منخفض اللزوجة لتحسين استهلاك الوقود وحماية المحرك",
+    "price": 74.58,
+    "originalPrice": 132.01,
+    "category": "Engine Oil",
+    "brand": "Shell",
+    "partNumber": "SHE-EO-1412",
+    "sku": "SKU-SHELL-EO-1412",
+    "stock": 78,
+    "images": [
+      "https://m.media-amazon.com/images/I/61y5PocHwAL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 335,
+    "discount": 21,
+    "isFeatured": true,
+    "specifications": {
+      "viscosity": "0W-20",
+      "type": "Mineral",
+      "volume": "4L",
+      "standard": "API SN",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "Shell Engine Oil 15W-40",
+    "arabicName": "زيت محرك Shell 15W-40",
+    "description": "زيت محرك معدني مناسب للمحركات القديمة والاستخدام الشاق",
+    "price": 106.84,
+    "originalPrice": 143.14,
+    "category": "Engine Oil",
+    "brand": "Shell",
+    "partNumber": "MOB-EO-1413",
+    "sku": "SKU-MOBIL-EO-1413",
+    "stock": 203,
+    "images": [
+      "https://m.media-amazon.com/images/I/71U+ChTS3nL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 460,
+    "discount": 9,
+    "isFeatured": false,
+    "specifications": {
+      "viscosity": "15W-40",
+      "type": "Semi-Synthetic",
+      "volume": "4L",
+      "standard": "ACEA A3/B4",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "Valvoline Engine Oil 5W-30",
+    "arabicName": "زيت محرك Valvoline 5W-30",
+    "description": "زيت محرك تخليقي يوفر حماية ممتازة للمحرك في درجات الحرارة المختلفة",
+    "price": 56.04,
+    "originalPrice": 137.04,
+    "category": "Engine Oil",
+    "brand": "Valvoline",
+    "partNumber": "MOB-EO-1414",
+    "sku": "SKU-MOBIL-EO-1414",
+    "stock": 475,
+    "images": [
+      "https://m.media-amazon.com/images/I/71-RyvbJrXL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 179,
+    "discount": 17,
+    "isFeatured": true,
+    "specifications": {
+      "viscosity": "5W-30",
+      "type": "Synthetic",
+      "volume": "4L",
+      "standard": "ACEA A3/B4",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "Shell Engine Oil 15W-40",
+    "arabicName": "زيت محرك Shell 15W-40",
+    "description": "زيت محرك معدني مناسب للمحركات القديمة والاستخدام الشاق",
+    "price": 15.3,
+    "originalPrice": 131.68,
+    "category": "Engine Oil",
+    "brand": "Shell",
+    "partNumber": "SHE-EO-1415",
+    "sku": "SKU-SHELL-EO-1415",
+    "stock": 410,
+    "images": [
+      "https://m.media-amazon.com/images/I/71U+ChTS3nL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 126,
+    "discount": 14,
+    "isFeatured": false,
+    "specifications": {
+      "viscosity": "15W-40",
+      "type": "Semi-Synthetic",
+      "volume": "4L",
+      "standard": "API SP",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Valvoline Engine Oil 10W-40",
+    "arabicName": "زيت محرك Valvoline 10W-40",
+    "description": "زيت محرك نصف تخليقي يوفر توازن مثالي بين الأداء والحماية",
+    "price": 112.66,
+    "originalPrice": 148.57,
+    "category": "Engine Oil",
+    "brand": "Valvoline",
+    "partNumber": "VAL-EO-1416",
+    "sku": "SKU-VALVOLINE-EO-1416",
+    "stock": 309,
+    "images": [
+      "https://m.media-amazon.com/images/I/51WtT1Hna6L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 333,
+    "discount": 10,
+    "isFeatured": true,
+    "specifications": {
+      "viscosity": "10W-40",
+      "type": "Synthetic",
+      "volume": "1L",
+      "standard": "API SN",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "Valvoline Engine Oil 5W-40",
+    "arabicName": "زيت محرك Valvoline 5W-40",
+    "description": "زيت محرك عالي الأداء مناسب للقيادة القاسية والمحركات الحديثة",
+    "price": 21.16,
+    "originalPrice": 137.2,
+    "category": "Engine Oil",
+    "brand": "Valvoline",
+    "partNumber": "CAS-EO-1417",
+    "sku": "SKU-CASTROL-EO-1417",
+    "stock": 108,
+    "images": [
+      "https://m.media-amazon.com/images/I/51X361jLjrL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 60,
+    "discount": 8,
+    "isFeatured": true,
+    "specifications": {
+      "viscosity": "5W-40",
+      "type": "Semi-Synthetic",
+      "volume": "4L",
+      "standard": "ACEA A3/B4",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Motul Engine Oil 0W-20",
+    "arabicName": "زيت محرك Motul 0W-20",
+    "description": "زيت محرك منخفض اللزوجة لتحسين استهلاك الوقود وحماية المحرك",
+    "price": 47.49,
+    "originalPrice": 137.3,
+    "category": "Engine Oil",
+    "brand": "Motul",
+    "partNumber": "MOT-EO-1418",
+    "sku": "SKU-MOTUL-EO-1418",
+    "stock": 76,
+    "images": [
+      "https://m.media-amazon.com/images/I/615BhsvJaSL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 26,
+    "discount": 28,
+    "isFeatured": true,
+    "specifications": {
+      "viscosity": "0W-20",
+      "type": "Semi-Synthetic",
+      "volume": "4L",
+      "standard": "API SP",
+      "warranty": "1 year"
+    }
   }
 ]
+
 
 
