@@ -2641,8 +2641,289 @@
       "standard": "API SP",
       "warranty": "1 year"
     }
+  },
+   {
+    "name": "ACDelco Fuel Filter",
+    "arabicName": "Fuel Filter ACDelco",
+    "description": "فلتر وقود يمنع الشوائب من الوصول إلى نظام الحقن",
+    "price": 47.89,
+    "originalPrice": 101.12,
+    "category": "Filters",
+    "brand": "ACDelco",
+    "carBrand": "Toyota",
+    "carModel": "Land Cruiser",
+    "year": "2016-2024",
+    "partNumber": "ACD-FL-1602",
+    "sku": "SKU-ACDELCO-FL-1602",
+    "stock": 467,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-2scTngnX_Txv6NHmcYrLYDSgXibVXdQbg&s"
+    ],
+    "rating": 4.5,
+    "reviews": 514,
+    "discount": 28,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Fuel Filter",
+      "material": "Synthetic",
+      "warranty": "1 year",
+      "compatibility": ["Toyota Land Cruiser 2019", "Toyota Land Cruiser 2022"]
+    }
+  },
+  {
+    "name": "K&N Performance Air Filter",
+    "arabicName": "Performance Air Filter K&N",
+    "description": "فلتر هواء رياضي لزيادة تدفق الهواء وتحسين الأداء",
+    "price": 49.83,
+    "originalPrice": 99.8,
+    "category": "Filters",
+    "brand": "K&N",
+    "carBrand": "Chevrolet",
+    "carModel": "Malibu",
+    "year": "2016-2024",
+    "partNumber": "K&N-FL-1603",
+    "sku": "SKU-K&N-FL-1603",
+    "stock": 278,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3PitsH17UBF1HNaz0TExC2GVUs9RxNx1Ow&s"
+    ],
+    "rating": 4,
+    "reviews": 511,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Performance Air Filter",
+      "material": "Cotton",
+      "warranty": "6 months",
+      "compatibility": ["Chevrolet Malibu 2019", "Chevrolet Malibu 2022"]
+    }
+  },
+  {
+    "name": "Hengst Fuel Filter",
+    "arabicName": "Fuel Filter Hengst",
+    "description": "فلتر وقود يمنع الشوائب من الوصول إلى نظام الحقن",
+    "price": 9.07,
+    "originalPrice": 107.2,
+    "category": "Filters",
+    "brand": "Hengst",
+    "carBrand": "Mercedes",
+    "carModel": "C-Class",
+    "year": "2016-2024",
+    "partNumber": "HEN-FL-1604",
+    "sku": "SKU-HENGST-FL-1604",
+    "stock": 592,
+    "images": [
+      "https://m.media-amazon.com/images/I/61iCBmnm9UL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "rating": 5,
+    "reviews": 667,
+    "discount": 20,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Fuel Filter",
+      "material": "Cotton",
+      "warranty": "6 months",
+      "compatibility": ["Mercedes C-Class 2019", "Mercedes C-Class 2022"]
+    }
+  },
+  {
+    "name": "Purflux Cabin Filter",
+    "arabicName": "Cabin Filter Purflux",
+    "description": "فلتر تكييف ينقي الهواء داخل السيارة من الأتربة والروائح",
+    "price": 87.75,
+    "originalPrice": 107.97,
+    "category": "Filters",
+    "brand": "Purflux",
+    "carBrand": "Hyundai",
+    "carModel": "Tucson",
+    "year": "2016-2024",
+    "partNumber": "PUR-FL-1605",
+    "sku": "SKU-PURFLUX-FL-1605",
+    "stock": 461,
+    "images": [
+      "https://m.media-amazon.com/images/I/91Yz-tu-TrL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 578,
+    "discount": 21,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Cabin Filter",
+      "material": "Synthetic",
+      "warranty": "1 year",
+      "compatibility": ["Hyundai Tucson 2019", "Hyundai Tucson 2022"]
+    }
+  },
+  {
+    "name": "ACDelco Fuel Filter",
+    "arabicName": "Fuel Filter ACDelco",
+    "description": "فلتر وقود يمنع الشوائب من الوصول إلى نظام الحقن",
+    "price": 54.8,
+    "originalPrice": 116.91,
+    "category": "Filters",
+    "brand": "ACDelco",
+    "carBrand": "Chevrolet",
+    "carModel": "Tahoe",
+    "year": "2016-2024",
+    "partNumber": "ACD-FL-1606",
+    "sku": "SKU-ACDELCO-FL-1606",
+    "stock": 317,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-2scTngnX_Txv6NHmcYrLYDSgXibVXdQbg&s"
+    ],
+    "rating": 4.2,
+    "reviews": 230,
+    "discount": 21,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Fuel Filter",
+      "material": "Synthetic",
+      "warranty": "1 year",
+      "compatibility": ["Chevrolet Tahoe 2019", "Chevrolet Tahoe 2022"]
+    }
+  },
+  {
+    "name": "ACDelco Air Filter",
+    "arabicName": "Air Filter ACDelco",
+    "description": "فلتر هواء يحسن تدفق الهواء النظيف للمحرك ويزيد كفاءة الاحتراق",
+    "price": 52.69,
+    "originalPrice": 97.58,
+    "category": "Filters",
+    "brand": "ACDelco",
+    "carBrand": "BMW",
+    "carModel": "320i",
+    "year": "2016-2024",
+    "partNumber": "ACD-FL-1607",
+    "sku": "SKU-ACDELCO-FL-1607",
+    "stock": 28,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--76KkBd1tlLkcjbjh1DuME2mGI5_auLUIw&s"
+    ],
+    "rating": 4.6,
+    "reviews": 585,
+    "discount": 7,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Paper",
+      "warranty": "6 months",
+      "compatibility": ["BMW 320i 2019", "BMW 320i 2022"]
+    }
+  },
+  {
+    "name": "Bosch Performance Air Filter",
+    "arabicName": "Performance Air Filter Bosch",
+    "description": "فلتر هواء رياضي لزيادة تدفق الهواء وتحسين الأداء",
+    "price": 14.36,
+    "originalPrice": 118.64,
+    "category": "Filters",
+    "brand": "Bosch",
+    "carBrand": "Ford",
+    "carModel": "Focus",
+    "year": "2016-2024",
+    "partNumber": "BOS-FL-1608",
+    "sku": "SKU-BOSCH-FL-1608",
+    "stock": 273,
+    "images": [
+      "https://m.media-amazon.com/images/I/81PVzupw4ML._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 570,
+    "discount": 30,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Performance Air Filter",
+      "material": "Synthetic",
+      "warranty": "6 months",
+      "compatibility": ["Ford Focus 2019", "Ford Focus 2022"]
+    }
+  },
+  {
+    "name": "Fram Oil Filter",
+    "arabicName": "Oil Filter Fram",
+    "description": "فلتر زيت عالي الكفاءة لتنقية الزيت من الشوائب وحماية المحرك",
+    "price": 35.19,
+    "originalPrice": 118.67,
+    "category": "Filters",
+    "brand": "Fram",
+    "carBrand": "Hyundai",
+    "carModel": "Tucson",
+    "year": "2016-2024",
+    "partNumber": "FRA-FL-1609",
+    "sku": "SKU-FRAM-FL-1609",
+    "stock": 174,
+    "images": [
+      "https://m.media-amazon.com/images/I/71wyWPz-r8L._AC_UF894,1000_QL80_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 234,
+    "discount": 27,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Cotton",
+      "warranty": "6 months",
+      "compatibility": ["Hyundai Tucson 2019", "Hyundai Tucson 2022"]
+    }
+  },
+  {
+    "name": "ACDelco Oil Filter",
+    "arabicName": "Oil Filter ACDelco",
+    "description": "فلتر زيت عالي الكفاءة لتنقية الزيت من الشوائب وحماية المحرك",
+    "price": 29.54,
+    "originalPrice": 109.14,
+    "category": "Filters",
+    "brand": "ACDelco",
+    "carBrand": "Volkswagen",
+    "carModel": "Passat",
+    "year": "2016-2024",
+    "partNumber": "ACD-FL-1610",
+    "sku": "SKU-ACDELCO-FL-1610",
+    "stock": 238,
+    "images": [
+      "https://www.gmparts.com/content/dam/gmparts/na/us/en/index/parts/filters/01-images/gmp-oil-filter-no-bkgrnd-l-xl-v2.jpg?imwidth=1200"
+    ],
+    "rating": 5,
+    "reviews": 487,
+    "discount": 6,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Synthetic",
+      "warranty": "1 year",
+      "compatibility": ["Volkswagen Passat 2019", "Volkswagen Passat 2022"]
+    }
+  },
+  {
+    "name": "Bosch Performance Air Filter",
+    "arabicName": "Performance Air Filter Bosch",
+    "description": "فلتر هواء رياضي لزيادة تدفق الهواء وتحسين الأداء",
+    "price": 36.8,
+    "originalPrice": 118.43,
+    "category": "Filters",
+    "brand": "Bosch",
+    "carBrand": "Kia",
+    "carModel": "Cerato",
+    "year": "2016-2024",
+    "partNumber": "BOS-FL-1611",
+    "sku": "SKU-BOSCH-FL-1611",
+    "stock": 100,
+    "images": [
+      "https://m.media-amazon.com/images/I/81PVzupw4ML._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 176,
+    "discount": 9,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Performance Air Filter",
+      "material": "Paper",
+      "warranty": "6 months",
+      "compatibility": ["Kia Cerato 2019", "Kia Cerato 2022"]
+    }
   }
 ]
+
 
 
 
