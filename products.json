@@ -3875,5 +3875,533 @@
       "warranty": "1 year",
       "compatibility": ["Volkswagen Golf 2018", "Volkswagen Golf 2021"]
     }
+  },
+   {
+    "name": "Enkei Forged Wheel",
+    "arabicName": "جنط Forged Enkei",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 1044.3,
+    "originalPrice": 1263.01,
+    "category": "Wheels",
+    "brand": "Enkei",
+    "carBrand": "Honda",
+    "carModel": "Civic",
+    "year": "2016-2024",
+    "partNumber": "ENK-WH-0802",
+    "sku": "SKU-ENKEI-WH-0802",
+    "stock": 5,
+    "images": [
+      "https://enkei.com/wp-content/uploads/2019/12/ENKEI-WHEELS-gtc02-hyper-silver-side-2.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 38,
+    "discount": 13,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Forged",
+      "size": "16",
+      "boltPattern": "5x114.3",
+      "offset": "ET50",
+      "finish": "Gunmetal",
+      "warranty": "3 years",
+      "compatibility": ["Honda Civic 2019", "Honda Civic 2022"]
+    }
+  },
+  {
+    "name": "Borbet Forged Wheel",
+    "arabicName": "جنط Forged Borbet",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 417.78,
+    "originalPrice": 1259.52,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Mercedes",
+    "carModel": "E-Class",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0803",
+    "sku": "SKU-BORBET-WH-0803",
+    "stock": 95,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDE4s5g6FNPOnjbHPcCvfpKI7SpqR9LysQw&s"
+    ],
+    "rating": 4.4,
+    "reviews": 179,
+    "discount": 6,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Forged",
+      "size": "18",
+      "boltPattern": "5x114.3",
+      "offset": "ET45",
+      "finish": "Silver",
+      "warranty": "3 years",
+      "compatibility": ["Mercedes E-Class 2019", "Mercedes E-Class 2022"]
+    }
+  },
+  {
+    "name": "HRE Forged Wheel",
+    "arabicName": "جنط Forged HRE",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 830.4,
+    "originalPrice": 1311.21,
+    "category": "Wheels",
+    "brand": "HRE",
+    "carBrand": "Mercedes",
+    "carModel": "E-Class",
+    "year": "2016-2024",
+    "partNumber": "HRE-WH-0804",
+    "sku": "SKU-HRE-WH-0804",
+    "stock": 104,
+    "images": [
+      "https://baanvelgen.com/cdn/shop/products/hre_p101_forged_wheel_421x.jpg?v=1671456683"
+    ],
+    "rating": 4.3,
+    "reviews": 120,
+    "discount": 25,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Forged",
+      "size": "15",
+      "boltPattern": "6x139.7",
+      "offset": "ET35",
+      "finish": "Gloss Black",
+      "warranty": "1 year",
+      "compatibility": ["Mercedes E-Class 2019", "Mercedes E-Class 2022"]
+    }
+  },
+  {
+    "name": "Enkei Steel Wheel",
+    "arabicName": "جنط Steel Enkei",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 843.67,
+    "originalPrice": 1283.62,
+    "category": "Wheels",
+    "brand": "Enkei",
+    "carBrand": "Toyota",
+    "carModel": "Corolla",
+    "year": "2016-2024",
+    "partNumber": "ENK-WH-0805",
+    "sku": "SKU-ENKEI-WH-0805",
+    "stock": 13,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwvT_6xOdllpL53nKqkSo5nDWNc41XFFZJg&s"
+    ],
+    "rating": 4,
+    "reviews": 151,
+    "discount": 21,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Steel",
+      "size": "18",
+      "boltPattern": "6x139.7",
+      "offset": "ET40",
+      "finish": "Matte Black",
+      "warranty": "3 years",
+      "compatibility": ["Toyota Corolla 2019", "Toyota Corolla 2022"]
+    }
+  },
+  {
+    "name": "HRE Forged Wheel",
+    "arabicName": "جنط Forged HRE",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 792.16,
+    "originalPrice": 1308.2,
+    "category": "Wheels",
+    "brand": "HRE",
+    "carBrand": "Kia",
+    "carModel": "Cerato",
+    "year": "2016-2024",
+    "partNumber": "HRE-WH-0806",
+    "sku": "SKU-HRE-WH-0806",
+    "stock": 55,
+    "images": [
+      "https://baanvelgen.com/cdn/shop/products/hre_p101_forged_wheel_421x.jpg?v=1671456683"
+    ],
+    "rating": 4.8,
+    "reviews": 68,
+    "discount": 24,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Forged",
+      "size": "16",
+      "boltPattern": "5x114.3",
+      "offset": "ET50",
+      "finish": "Gunmetal",
+      "warranty": "1 year",
+      "compatibility": ["Kia Cerato 2019", "Kia Cerato 2022"]
+    }
+  },
+  {
+    "name": "Rotiform Steel Wheel",
+    "arabicName": "جنط Steel Rotiform",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 502.81,
+    "originalPrice": 1292.13,
+    "category": "Wheels",
+    "brand": "Rotiform",
+    "carBrand": "Honda",
+    "carModel": "CR-V",
+    "year": "2016-2024",
+    "partNumber": "ROT-WH-0807",
+    "sku": "SKU-ROTIFORM-WH-0807",
+    "stock": 101,
+    "images": [
+      "https://www.plush-automotive.com/wp-content/uploads/2024/03/las-r-silver.webp"
+    ],
+    "rating": 4.9,
+    "reviews": 133,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Steel",
+      "size": "15",
+      "boltPattern": "5x114.3",
+      "offset": "ET50",
+      "finish": "Matte Black",
+      "warranty": "3 years",
+      "compatibility": ["Honda CR-V 2019", "Honda CR-V 2022"]
+    }
+  },
+  {
+    "name": "Borbet Performance Wheel",
+    "arabicName": "جنط Performance Borbet",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 567.77,
+    "originalPrice": 1315.72,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Mercedes",
+    "carModel": "G-Class",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0808",
+    "sku": "SKU-BORBET-WH-0808",
+    "stock": 27,
+    "images": [
+      "https://www.felgenoutlet.com/felgenbilder/19937_12/seo/borbet_n_bronze.jpg?1749199501"
+    ],
+    "rating": 4.4,
+    "reviews": 191,
+    "discount": 17,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Performance",
+      "size": "15",
+      "boltPattern": "5x112",
+      "offset": "ET35",
+      "finish": "Matte Black",
+      "warranty": "3 years",
+      "compatibility": ["Mercedes G-Class 2019", "Mercedes G-Class 2022"]
+    }
+  },
+  {
+    "name": "OZ Racing Steel Wheel",
+    "arabicName": "جنط Steel OZ Racing",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 614.68,
+    "originalPrice": 1270.9,
+    "category": "Wheels",
+    "brand": "OZ Racing",
+    "carBrand": "Mercedes",
+    "carModel": "G-Class",
+    "year": "2016-2024",
+    "partNumber": "OZ -WH-0809",
+    "sku": "SKU-OZ RACING-WH-0809",
+    "stock": 104,
+    "images": [
+      "https://www.felgenoutlet.com/felgenbilder/9291_3/seo/oz_rally_racing_dark_graphite_-_silver_lettering.jpg?1589866176"
+    ],
+    "rating": 4.1,
+    "reviews": 170,
+    "discount": 9,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Steel",
+      "size": "19",
+      "boltPattern": "5x112",
+      "offset": "ET40",
+      "finish": "Gunmetal",
+      "warranty": "3 years",
+      "compatibility": ["Mercedes G-Class 2019", "Mercedes G-Class 2022"]
+    }
+  },
+  {
+    "name": "Enkei Forged Wheel",
+    "arabicName": "جنط Forged Enkei",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 638.47,
+    "originalPrice": 1345.74,
+    "category": "Wheels",
+    "brand": "Enkei",
+    "carBrand": "Kia",
+    "carModel": "Cerato",
+    "year": "2016-2024",
+    "partNumber": "ENK-WH-0810",
+    "sku": "SKU-ENKEI-WH-0810",
+    "stock": 58,
+    "images": [
+      "https://enkei.com/wp-content/uploads/2019/12/ENKEI-WHEELS-gtc02-hyper-silver-side-2.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 198,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Forged",
+      "size": "16",
+      "boltPattern": "5x112",
+      "offset": "ET40",
+      "finish": "Silver",
+      "warranty": "1 year",
+      "compatibility": ["Kia Cerato 2019", "Kia Cerato 2022"]
+    }
+  },
+  {
+    "name": "Vossen Forged Wheel",
+    "arabicName": "جنط Forged Vossen",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 227.22,
+    "originalPrice": 1273.52,
+    "category": "Wheels",
+    "brand": "Vossen",
+    "carBrand": "Toyota",
+    "carModel": "Camry",
+    "year": "2016-2024",
+    "partNumber": "VOS-WH-0811",
+    "sku": "SKU-VOSSEN-WH-0811",
+    "stock": 68,
+    "images": [
+      "https://vossenwheels.com/wp-content/uploads/2024/06/VossenForgedGEN-04-3PFeatureImage.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 179,
+    "discount": 8,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Forged",
+      "size": "17",
+      "boltPattern": "5x112",
+      "offset": "ET50",
+      "finish": "Silver",
+      "warranty": "3 years",
+      "compatibility": ["Toyota Camry 2019", "Toyota Camry 2022"]
+    }
+  },
+  {
+    "name": "Borbet Forged Wheel",
+    "arabicName": "جنط Forged Borbet",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 902.01,
+    "originalPrice": 1260.14,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Ford",
+    "carModel": "Focus",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0812",
+    "sku": "SKU-BORBET-WH-0812",
+    "stock": 110,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDE4s5g6FNPOnjbHPcCvfpKI7SpqR9LysQw&s"
+    ],
+    "rating": 4.6,
+    "reviews": 59,
+    "discount": 15,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Forged",
+      "size": "17",
+      "boltPattern": "5x112",
+      "offset": "ET40",
+      "finish": "Silver",
+      "warranty": "3 years",
+      "compatibility": ["Ford Focus 2019", "Ford Focus 2022"]
+    }
+  },
+  {
+    "name": "Rays Off Road Wheel",
+    "arabicName": "جنط Off Road Rays",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 637.98,
+    "originalPrice": 1280.78,
+    "category": "Wheels",
+    "brand": "Rays",
+    "carBrand": "Volkswagen",
+    "carModel": "Golf",
+    "year": "2016-2024",
+    "partNumber": "RAY-WH-0813",
+    "sku": "SKU-RAYS-WH-0813",
+    "stock": 5,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2141/1565/files/rays-offroad-m9-16x6-5-5x139-7-black-disk-clear-smoke-beq-wheels-922.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 251,
+    "discount": 11,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Off Road",
+      "size": "15",
+      "boltPattern": "5x114.3",
+      "offset": "ET45",
+      "finish": "Gunmetal",
+      "warranty": "3 years",
+      "compatibility": ["Volkswagen Golf 2019", "Volkswagen Golf 2022"]
+    }
+  },
+  {
+    "name": "BBS Steel Wheel",
+    "arabicName": "جنط Steel BBS",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 715.91,
+    "originalPrice": 1277.5,
+    "category": "Wheels",
+    "brand": "BBS",
+    "carBrand": "Toyota",
+    "carModel": "Corolla",
+    "year": "2016-2024",
+    "partNumber": "BBS-WH-0814",
+    "sku": "SKU-BBS-WH-0814",
+    "stock": 11,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnanFGKzuf1Eb_FkQQv7LBoiuKCAge7LhY_Q&s"
+    ],
+    "rating": 4.7,
+    "reviews": 48,
+    "discount": 24,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Steel",
+      "size": "15",
+      "boltPattern": "5x112",
+      "offset": "ET35",
+      "finish": "Matte Black",
+      "warranty": "3 years",
+      "compatibility": ["Toyota Corolla 2019", "Toyota Corolla 2022"]
+    }
+  },
+  {
+    "name": "Borbet Off Road Wheel",
+    "arabicName": "جنط Off Road Borbet",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 1020.28,
+    "originalPrice": 1262.21,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Honda",
+    "carModel": "CR-V",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0815",
+    "sku": "SKU-BORBET-WH-0815",
+    "stock": 49,
+    "images": [
+      "https://www.borbet.de/medien/img/wheels/borbet-cw8-red-rim-window-polished-matt/borbet_cw8_black-rim-window-polished-matt-2_5972_500_500.webp"
+    ],
+    "rating": 4.6,
+    "reviews": 109,
+    "discount": 25,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Off Road",
+      "size": "19",
+      "boltPattern": "5x114.3",
+      "offset": "ET40",
+      "finish": "Matte Black",
+      "warranty": "3 years",
+      "compatibility": ["Honda CR-V 2019", "Honda CR-V 2022"]
+    }
+  },
+  {
+    "name": "Vossen Forged Wheel",
+    "arabicName": "جنط Forged Vossen",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 862.63,
+    "originalPrice": 1292.45,
+    "category": "Wheels",
+    "brand": "Vossen",
+    "carBrand": "Volkswagen",
+    "carModel": "Passat",
+    "year": "2016-2024",
+    "partNumber": "VOS-WH-0816",
+    "sku": "SKU-VOSSEN-WH-0816",
+    "stock": 21,
+    "images": [
+      "https://vossenwheels.com/wp-content/uploads/2024/06/VossenForgedGEN-04-3PFeatureImage.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 290,
+    "discount": 7,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Forged",
+      "size": "18",
+      "boltPattern": "5x114.3",
+      "offset": "ET50",
+      "finish": "Silver",
+      "warranty": "2 years",
+      "compatibility": ["Volkswagen Passat 2019", "Volkswagen Passat 2022"]
+    }
+  },
+  {
+    "name": "BBS Steel Wheel",
+    "arabicName": "جنط Steel BBS",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 325.69,
+    "originalPrice": 1257.02,
+    "category": "Wheels",
+    "brand": "BBS",
+    "carBrand": "Toyota",
+    "carModel": "Land Cruiser",
+    "year": "2016-2024",
+    "partNumber": "BBS-WH-0817",
+    "sku": "SKU-BBS-WH-0817",
+    "stock": 32,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnanFGKzuf1Eb_FkQQv7LBoiuKCAge7LhY_Q&s"
+    ],
+    "rating": 4.9,
+    "reviews": 154,
+    "discount": 11,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Steel",
+      "size": "17",
+      "boltPattern": "5x112",
+      "offset": "ET40",
+      "finish": "Matte Black",
+      "warranty": "3 years",
+      "compatibility": ["Toyota Land Cruiser 2019", "Toyota Land Cruiser 2022"]
+    }
+  },
+  {
+    "name": "OZ Racing Forged Wheel",
+    "arabicName": "جنط Forged OZ Racing",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 353.4,
+    "originalPrice": 1269.83,
+    "category": "Wheels",
+    "brand": "OZ Racing",
+    "carBrand": "Chevrolet",
+    "carModel": "Malibu",
+    "year": "2016-2024",
+    "partNumber": "OZ -WH-0818",
+    "sku": "SKU-OZ RACING-WH-0818",
+    "stock": 60,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVb_fls0iSwMtxJxuUL5AoqSHPPtCQawM6ZQ&s"
+    ],
+    "rating": 4.7,
+    "reviews": 12,
+    "discount": 7,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Forged",
+      "size": "17",
+      "boltPattern": "5x114.3",
+      "offset": "ET45",
+      "finish": "Matte Black",
+      "warranty": "3 years",
+      "compatibility": ["Chevrolet Malibu 2019", "Chevrolet Malibu 2022"]
+    }
   }
 ]
+
