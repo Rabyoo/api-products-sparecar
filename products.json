@@ -2921,8 +2921,453 @@
       "warranty": "6 months",
       "compatibility": ["Kia Cerato 2019", "Kia Cerato 2022"]
     }
+  },
+   {
+    "name": "K&N Motorcycle Chain Kit",
+    "arabicName": "Chain Kit موتوسيكل K&N",
+    "description": "طقم جنزير متكامل مصمم لتحمل السرعات العالية والاستخدام الشاق",
+    "price": 39.95,
+    "originalPrice": 462.93,
+    "category": "Motorcycle Parts",
+    "brand": "K&N",
+    "motorcycleBrand": "BMW",
+    "motorcycleModel": "S1000RR",
+    "year": "2015-2024",
+    "partNumber": "K&N-MC-0402",
+    "sku": "SKU-K&N-MC-0402",
+    "stock": 157,
+    "images": [
+      "https://www.mvh-shop.de/media/image/product/447720/lg/motorcycle-chain-set-x-ringchain-with-rivet-lock-standard-114-links-520-pitch-did-520vx3-114-with-pinion-and-sprocket_1.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 31,
+    "discount": 28,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Chain Kit",
+      "material": "Metal",
+      "warranty": "2 years",
+      "compatibility": ["BMW S1000RR 2018", "BMW S1000RR 2021"]
+    }
+  },
+  {
+    "name": "NGK Motorcycle Clutch Plate",
+    "arabicName": "Clutch Plate موتوسيكل NGK",
+    "description": "ديسك دبرياج للموتوسيكل يضمن نقل حركة سلس وتحكم أفضل",
+    "price": 85.16,
+    "originalPrice": 434.95,
+    "category": "Motorcycle Parts",
+    "brand": "NGK",
+    "motorcycleBrand": "KTM",
+    "motorcycleModel": "RC 390",
+    "year": "2015-2024",
+    "partNumber": "NGK-MC-0403",
+    "sku": "SKU-NGK-MC-0403",
+    "stock": 79,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWFvpJdCVtNW4o2aOMf6N3qSduxXkiNZd-xg&s"
+    ],
+    "rating": 4.6,
+    "reviews": 26,
+    "discount": 30,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Clutch Plate",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": ["KTM RC 390 2018", "KTM RC 390 2021"]
+    }
+  },
+  {
+    "name": "SKF Motorcycle Engine Oil",
+    "arabicName": "Engine Oil موتوسيكل SKF",
+    "description": "زيت محرك موتوسيكلات مخصص للحفاظ على الأداء وتقليل الاحتكاك",
+    "price": 285.07,
+    "originalPrice": 439.59,
+    "category": "Motorcycle Parts",
+    "brand": "SKF",
+    "motorcycleBrand": "Suzuki",
+    "motorcycleModel": "GSX-R750",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0404",
+    "sku": "SKU-SKF-MC-0404",
+    "stock": 35,
+    "images": ["https://m.media-amazon.com/images/I/81bTdjMicrL.jpg"],
+    "rating": 4.7,
+    "reviews": 178,
+    "discount": 15,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Engine Oil",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": ["Suzuki GSX-R750 2018", "Suzuki GSX-R750 2021"]
+    }
+  },
+  {
+    "name": "NGK Motorcycle Clutch Plate",
+    "arabicName": "Clutch Plate موتوسيكل NGK",
+    "description": "ديسك دبرياج للموتوسيكل يضمن نقل حركة سلس وتحكم أفضل",
+    "price": 226.18,
+    "originalPrice": 473.52,
+    "category": "Motorcycle Parts",
+    "brand": "NGK",
+    "motorcycleBrand": "Benelli",
+    "motorcycleModel": "TNT 600",
+    "year": "2015-2024",
+    "partNumber": "NGK-MC-0405",
+    "sku": "SKU-NGK-MC-0405",
+    "stock": 38,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWFvpJdCVtNW4o2aOMf6N3qSduxXkiNZd-xg&s"
+    ],
+    "rating": 4.9,
+    "reviews": 45,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Clutch Plate",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": ["Benelli TNT 600 2018", "Benelli TNT 600 2021"]
+    }
+  },
+  {
+    "name": "SKF Motorcycle Air Filter",
+    "arabicName": "Air Filter موتوسيكل SKF",
+    "description": "فلتر هواء للموتوسيكل يسمح بتدفق هواء نظيف لتحسين كفاءة المحرك",
+    "price": 292.67,
+    "originalPrice": 453.39,
+    "category": "Motorcycle Parts",
+    "brand": "SKF",
+    "motorcycleBrand": "Benelli",
+    "motorcycleModel": "TNT 600",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0406",
+    "sku": "SKU-SKF-MC-0406",
+    "stock": 162,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7nL3n3WpNSekDeSZ9zYxhEIe-13cmybTHg&s"
+    ],
+    "rating": 4.2,
+    "reviews": 37,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": ["Benelli TNT 600 2018", "Benelli TNT 600 2021"]
+    }
+  },
+  {
+    "name": "DID Motorcycle Chain Kit",
+    "arabicName": "Chain Kit موتوسيكل DID",
+    "description": "طقم جنزير متكامل مصمم لتحمل السرعات العالية والاستخدام الشاق",
+    "price": 215.58,
+    "originalPrice": 444.13,
+    "category": "Motorcycle Parts",
+    "brand": "DID",
+    "motorcycleBrand": "Ducati",
+    "motorcycleModel": "Monster 821",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0407",
+    "sku": "SKU-DID-MC-0407",
+    "stock": 177,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldTJSwWaEDgn6hFW1QcDv8OoP0FJrjO5AGw&s"
+    ],
+    "rating": 4.1,
+    "reviews": 120,
+    "discount": 30,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Chain Kit",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": ["Ducati Monster 821 2018", "Ducati Monster 821 2021"]
+    }
+  },
+  {
+    "name": "EBC Motorcycle Battery",
+    "arabicName": "Battery موتوسيكل EBC",
+    "description": "بطارية موتوسيكل قوية توفر تشغيل موثوق وعمر افتراضي طويل",
+    "price": 49.48,
+    "originalPrice": 457.54,
+    "category": "Motorcycle Parts",
+    "brand": "EBC",
+    "motorcycleBrand": "Suzuki",
+    "motorcycleModel": "SV650",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0408",
+    "sku": "SKU-EBC-MC-0408",
+    "stock": 155,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTQOISQ2UpxFdU8_jOzGaKZ4buf-5C9NnFhQ&s"
+    ],
+    "rating": 4.9,
+    "reviews": 154,
+    "discount": 20,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Battery",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": ["Suzuki SV650 2018", "Suzuki SV650 2021"]
+    }
+  },
+  {
+    "name": "Bosch Motorcycle Brake Pads",
+    "arabicName": "Brake Pads موتوسيكل Bosch",
+    "description": "وسادات فرامل للموتوسيكل توفر قوة كبح عالية وثبات في جميع الظروف",
+    "price": 39.91,
+    "originalPrice": 444.78,
+    "category": "Motorcycle Parts",
+    "brand": "Bosch",
+    "motorcycleBrand": "Kawasaki",
+    "motorcycleModel": "Ninja 400",
+    "year": "2015-2024",
+    "partNumber": "BOS-MC-0409",
+    "sku": "SKU-BOSCH-MC-0409",
+    "stock": 149,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkWoWxV0i7tk0qUwLNwz1dN7Fs78j2fYGsjQ&s"
+    ],
+    "rating": 4.8,
+    "reviews": 61,
+    "discount": 7,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": ["Kawasaki Ninja 400 2018", "Kawasaki Ninja 400 2021"]
+    }
+  },
+  {
+    "name": "DID Motorcycle Battery",
+    "arabicName": "Battery موتوسيكل DID",
+    "description": "بطارية موتوسيكل قوية توفر تشغيل موثوق وعمر افتراضي طويل",
+    "price": 305.2,
+    "originalPrice": 460.89,
+    "category": "Motorcycle Parts",
+    "brand": "DID",
+    "motorcycleBrand": "KTM",
+    "motorcycleModel": "Duke 390",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0410",
+    "sku": "SKU-DID-MC-0410",
+    "stock": 104,
+    "images": [
+      "https://cdn-fastly.motorcycle.com/media/2023/03/28/11340376/lithium-motorcycle-batteries-myths-vs-realities-updated.jpg?size=720x845&nocrop=1"
+    ],
+    "rating": 4.6,
+    "reviews": 284,
+    "discount": 23,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Battery",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": ["KTM Duke 390 2018", "KTM Duke 390 2021"]
+    }
+  },
+  {
+    "name": "DID Motorcycle Suspension Bearing",
+    "arabicName": "Suspension Bearing موتوسيكل DID",
+    "description": "رولمان بلي تعليق للموتوسيكل لتحسين الثبات وراحة القيادة",
+    "price": 305.06,
+    "originalPrice": 477.96,
+    "category": "Motorcycle Parts",
+    "brand": "DID",
+    "motorcycleBrand": "Benelli",
+    "motorcycleModel": "TNT 600",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0411",
+    "sku": "SKU-DID-MC-0411",
+    "stock": 15,
+    "images": [
+      "https://www.dirtbikes.com/wp-content/uploads/2017/02/linkage-bearing-service-B-All-Balls-Kit-02-10-2017.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 146,
+    "discount": 25,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Suspension Bearing",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": ["Benelli TNT 600 2018", "Benelli TNT 600 2021"]
+    }
+  },
+  {
+    "name": "Brembo Motorcycle Clutch Plate",
+    "arabicName": "Clutch Plate موتوسيكل Brembo",
+    "description": "ديسك دبرياج للموتوسيكل يضمن نقل حركة سلس وتحكم أفضل",
+    "price": 263.27,
+    "originalPrice": 479.86,
+    "category": "Motorcycle Parts",
+    "brand": "Brembo",
+    "motorcycleBrand": "KTM",
+    "motorcycleModel": "Duke 390",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0412",
+    "sku": "SKU-BREMBO-MC-0412",
+    "stock": 31,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-FR8N086msPV0nzNQ_dWvcr4cO2ND0JjHAA&s"
+    ],
+    "rating": 4.1,
+    "reviews": 139,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Clutch Plate",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": ["KTM Duke 390 2018", "KTM Duke 390 2021"]
+    }
+  },
+  {
+    "name": "DID Motorcycle Suspension Bearing",
+    "arabicName": "Suspension Bearing موتوسيكل DID",
+    "description": "رولمان بلي تعليق للموتوسيكل لتحسين الثبات وراحة القيادة",
+    "price": 244.47,
+    "originalPrice": 451.19,
+    "category": "Motorcycle Parts",
+    "brand": "DID",
+    "motorcycleBrand": "Honda",
+    "motorcycleModel": "Hornet",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0413",
+    "sku": "SKU-DID-MC-0413",
+    "stock": 165,
+    "images": [
+      "https://www.dirtbikes.com/wp-content/uploads/2017/02/linkage-bearing-service-B-All-Balls-Kit-02-10-2017.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 95,
+    "discount": 27,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Suspension Bearing",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": ["Honda Hornet 2018", "Honda Hornet 2021"]
+    }
+  },
+  {
+    "name": "EBC Motorcycle Brake Disc",
+    "arabicName": "Brake Disc موتوسيكل EBC",
+    "description": "ديسك فرامل موتوسيكل عالي الجودة لمقاومة الحرارة والتآكل",
+    "price": 310.71,
+    "originalPrice": 452.29,
+    "category": "Motorcycle Parts",
+    "brand": "EBC",
+    "motorcycleBrand": "Kawasaki",
+    "motorcycleModel": "Z900",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0414",
+    "sku": "SKU-EBC-MC-0414",
+    "stock": 161,
+    "images": [
+      "https://www.ebcbrakes.com/wp-content/uploads/2021/06/Sportbike_Superbike_Generic.png"
+    ],
+    "rating": 4.7,
+    "reviews": 296,
+    "discount": 5,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": ["Kawasaki Z900 2018", "Kawasaki Z900 2021"]
+    }
+  },
+  {
+    "name": "EBC Motorcycle Oil Filter",
+    "arabicName": "Oil Filter موتوسيكل EBC",
+    "description": "فلتر زيت للموتوسيكلات لتنقية الزيت وحماية أجزاء المحرك",
+    "price": 143.89,
+    "originalPrice": 464.21,
+    "category": "Motorcycle Parts",
+    "brand": "EBC",
+    "motorcycleBrand": "BMW",
+    "motorcycleModel": "F750GS",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0415",
+    "sku": "SKU-EBC-MC-0415",
+    "stock": 41,
+    "images": ["https://ic.carid.com/wp/full/w01331630373ful_1.jpg"],
+    "rating": 4.3,
+    "reviews": 228,
+    "discount": 7,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": ["BMW F750GS 2018", "BMW F750GS 2021"]
+    }
+  },
+  {
+    "name": "Bosch Motorcycle Brake Pads",
+    "arabicName": "Brake Pads موتوسيكل Bosch",
+    "description": "وسادات فرامل للموتوسيكل توفر قوة كبح عالية وثبات في جميع الظروف",
+    "price": 37.37,
+    "originalPrice": 464.22,
+    "category": "Motorcycle Parts",
+    "brand": "Bosch",
+    "motorcycleBrand": "Ducati",
+    "motorcycleModel": "Panigale V2",
+    "year": "2015-2024",
+    "partNumber": "BOS-MC-0416",
+    "sku": "SKU-BOSCH-MC-0416",
+    "stock": 104,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkWoWxV0i7tk0qUwLNwz1dN7Fs78j2fYGsjQ&s"
+    ],
+    "rating": 4.6,
+    "reviews": 190,
+    "discount": 13,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Metal",
+      "warranty": "2 years",
+      "compatibility": ["Ducati Panigale V2 2018", "Ducati Panigale V2 2021"]
+    }
+  },
+  {
+    "name": "Brembo Motorcycle Brake Disc",
+    "arabicName": "Brake Disc موتوسيكل Brembo",
+    "description": "ديسك فرامل موتوسيكل عالي الجودة لمقاومة الحرارة والتآكل",
+    "price": 272.24,
+    "originalPrice": 452.79,
+    "category": "Motorcycle Parts",
+    "brand": "Brembo",
+    "motorcycleBrand": "Benelli",
+    "motorcycleModel": "TRK 502",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0417",
+    "sku": "SKU-BREMBO-MC-0417",
+    "stock": 7,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHVAHwsIFa4RNncOGKKdLb2TsTdIlEz9KkIQ&s"
+    ],
+    "rating": 4.6,
+    "reviews": 118,
+    "discount": 7,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": ["Benelli TRK 502 2018", "Benelli TRK 502 2021"]
+    }
   }
 ]
+
 
 
 
