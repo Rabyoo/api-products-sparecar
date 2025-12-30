@@ -5126,8 +5126,434 @@
         "Mercedes-Benz Actros 2021"
       ]
     }
+  },
+   {
+    "name": "Stanley Drill",
+    "arabicName": "Drill Stanley",
+    "description": "شنيور كهربائي للحفر وفك وربط المسامير بكفاءة عالية",
+    "price": 603.54,
+    "originalPrice": 1671.79,
+    "category": "Tools",
+    "brand": "Stanley",
+    "partNumber": "STA-TL-1002",
+    "sku": "SKU-STANLEY-TL-1002",
+    "stock": 59,
+    "images": [
+      "https://m.media-amazon.com/images/I/619s0JdfbAL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 241,
+    "discount": 25,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Drill",
+      "power": "Air",
+      "material": "Steel",
+      "warranty": "3 years"
+    }
+  },
+  {
+    "name": "Ingco Angle Grinder",
+    "arabicName": "Angle Grinder Ingco",
+    "description": "صاروخ جلخ وقطع قوي للأعمال الثقيلة",
+    "price": 505.81,
+    "originalPrice": 1654.58,
+    "category": "Tools",
+    "brand": "Ingco",
+    "partNumber": "ING-TL-1003",
+    "sku": "SKU-INGCO-TL-1003",
+    "stock": 125,
+    "images": [
+      "https://m.media-amazon.com/images/I/618yo2JqEjL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 328,
+    "discount": 25,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Angle Grinder",
+      "power": "Electric",
+      "material": "Alloy Steel",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Stanley Socket Set",
+    "arabicName": "Socket Set Stanley",
+    "description": "طقم لقم ومفاتيح متكامل لفك وربط المسامير بدقة وسهولة",
+    "price": 574.79,
+    "originalPrice": 1642.57,
+    "category": "Tools",
+    "brand": "Stanley",
+    "partNumber": "STA-TL-1004",
+    "sku": "SKU-STANLEY-TL-1004",
+    "stock": 58,
+    "images": [
+      "https://m.media-amazon.com/images/I/61-e9ziFtcL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 228,
+    "discount": 27,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Socket Set",
+      "power": "Electric",
+      "material": "Alloy Steel",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Milwaukee Screwdriver Set",
+    "arabicName": "Screwdriver Set Milwaukee",
+    "description": "طقم مفكات متعدد المقاسات لأعمال الصيانة المختلفة",
+    "price": 864.71,
+    "originalPrice": 1682.6,
+    "category": "Tools",
+    "brand": "Milwaukee",
+    "partNumber": "MIL-TL-1005",
+    "sku": "SKU-MILWAUKEE-TL-1005",
+    "stock": 167,
+    "images": [
+      "https://m.media-amazon.com/images/I/81Ug-r625EL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 334,
+    "discount": 22,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Screwdriver Set",
+      "power": "Battery",
+      "material": "Steel",
+      "warranty": "3 years"
+    }
+  },
+  {
+    "name": "Makita Torque Wrench",
+    "arabicName": "Torque Wrench Makita",
+    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
+    "price": 160.31,
+    "originalPrice": 1693.92,
+    "category": "Tools",
+    "brand": "Makita",
+    "partNumber": "MAK-TL-1006",
+    "sku": "SKU-MAKITA-TL-1006",
+    "stock": 168,
+    "images": [
+      "https://m.media-amazon.com/images/I/41MP-Bsr9-L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 101,
+    "discount": 21,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Torque Wrench",
+      "power": "Air",
+      "material": "Alloy Steel",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "Makita Air Compressor",
+    "arabicName": "Air Compressor Makita",
+    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
+    "price": 373.3,
+    "originalPrice": 1599.98,
+    "category": "Tools",
+    "brand": "Makita",
+    "partNumber": "MAK-TL-1007",
+    "sku": "SKU-MAKITA-TL-1007",
+    "stock": 159,
+    "images": [
+      "https://m.media-amazon.com/images/I/71fbYghSF2L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 19,
+    "discount": 14,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Compressor",
+      "power": "Air",
+      "material": "Alloy Steel",
+      "warranty": "3 years"
+    }
+  },
+  {
+    "name": "Total Screwdriver Set",
+    "arabicName": "Screwdriver Set Total",
+    "description": "طقم مفكات متعدد المقاسات لأعمال الصيانة المختلفة",
+    "price": 507.1,
+    "originalPrice": 1678.78,
+    "category": "Tools",
+    "brand": "Total",
+    "partNumber": "TOT-TL-1008",
+    "sku": "SKU-TOTAL-TL-1008",
+    "stock": 64,
+    "images": [
+      "https://m.media-amazon.com/images/I/610Mzzj0wjL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 382,
+    "discount": 28,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Screwdriver Set",
+      "power": "Electric",
+      "material": "Plastic",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "Total Drill",
+    "arabicName": "Drill Total",
+    "description": "شنيور كهربائي للحفر وفك وربط المسامير بكفاءة عالية",
+    "price": 657.82,
+    "originalPrice": 1553.96,
+    "category": "Tools",
+    "brand": "Total",
+    "partNumber": "TOT-TL-1009",
+    "sku": "SKU-TOTAL-TL-1009",
+    "stock": 177,
+    "images": [
+      "https://m.media-amazon.com/images/I/31m3IUOtnNL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 81,
+    "discount": 21,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Drill",
+      "power": "Battery",
+      "material": "Alloy Steel",
+      "warranty": "3 years"
+    }
+  },
+  {
+    "name": "Stanley Air Compressor",
+    "arabicName": "Air Compressor Stanley",
+    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
+    "price": 1255.78,
+    "originalPrice": 1619.21,
+    "category": "Tools",
+    "brand": "Stanley",
+    "partNumber": "STA-TL-1010",
+    "sku": "SKU-STANLEY-TL-1010",
+    "stock": 144,
+    "images": [
+      "https://m.media-amazon.com/images/I/81xkJMMLrvL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 257,
+    "discount": 24,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Compressor",
+      "power": "Battery",
+      "material": "Plastic",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "Ingco Wrench",
+    "arabicName": "Wrench Ingco",
+    "description": "مفتاح ربط قوي مصنوع من مواد عالية الجودة لتحمل الاستخدام الشاق",
+    "price": 511.34,
+    "originalPrice": 1609.54,
+    "category": "Tools",
+    "brand": "Ingco",
+    "partNumber": "ING-TL-1011",
+    "sku": "SKU-INGCO-TL-1011",
+    "stock": 99,
+    "images": [
+      "https://m.media-amazon.com/images/I/61eoP9Jb-cL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 290,
+    "discount": 30,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Wrench",
+      "power": "Air",
+      "material": "Alloy Steel",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "DeWalt Jack",
+    "arabicName": "Jack DeWalt",
+    "description": "كوريك هيدروليك لرفع السيارات بأمان أثناء الصيانة",
+    "price": 222.13,
+    "originalPrice": 1671.16,
+    "category": "Tools",
+    "brand": "DeWalt",
+    "partNumber": "DEW-TL-1012",
+    "sku": "SKU-DEWALT-TL-1012",
+    "stock": 59,
+    "images": [
+      "https://m.media-amazon.com/images/I/61bgJKYVpVL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 398,
+    "discount": 6,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Jack",
+      "power": "Electric",
+      "material": "Alloy Steel",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "DeWalt Tool Box",
+    "arabicName": "Tool Box DeWalt",
+    "description": "شنطة عدة متينة لتنظيم وحفظ أدوات الصيانة",
+    "price": 856.71,
+    "originalPrice": 1621.92,
+    "category": "Tools",
+    "brand": "DeWalt",
+    "partNumber": "DEW-TL-1013",
+    "sku": "SKU-DEWALT-TL-1013",
+    "stock": 32,
+    "images": [
+      "https://m.media-amazon.com/images/I/7165V6S8hIL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 148,
+    "discount": 24,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Tool Box",
+      "power": "Air",
+      "material": "Steel",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "Stanley Air Compressor",
+    "arabicName": "Air Compressor Stanley",
+    "description": "كمبروسر هواء لتشغيل العدد الهوائية ونفخ الإطارات",
+    "price": 79.9,
+    "originalPrice": 1602.24,
+    "category": "Tools",
+    "brand": "Stanley",
+    "partNumber": "BLA-TL-1014",
+    "sku": "SKU-BLACK+DECKER-TL-1014",
+    "stock": 198,
+    "images": [
+      "https://m.media-amazon.com/images/I/81xkJMMLrvL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 155,
+    "discount": 6,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Compressor",
+      "power": "Battery",
+      "material": "Steel",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "name": "DeWalt Torque Wrench",
+    "arabicName": "Torque Wrench DeWalt",
+    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
+    "price": 1274.56,
+    "originalPrice": 1686.64,
+    "category": "Tools",
+    "brand": "DeWalt",
+    "partNumber": "DEW-TL-1015",
+    "sku": "SKU-DEWALT-TL-1015",
+    "stock": 64,
+    "images": [
+      "https://m.media-amazon.com/images/I/71mAqDnvCbL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 45,
+    "discount": 25,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Torque Wrench",
+      "power": "Manual",
+      "material": "Steel",
+      "warranty": "3 years"
+    }
+  },
+  {
+    "name": "Makita Angle Grinder",
+    "arabicName": "Angle Grinder Makita",
+    "description": "صاروخ جلخ وقطع قوي للأعمال الثقيلة",
+    "price": 556.52,
+    "originalPrice": 1550.96,
+    "category": "Tools",
+    "brand": "Makita",
+    "partNumber": "MAK-TL-1016",
+    "sku": "SKU-MAKITA-TL-1016",
+    "stock": 150,
+    "images": [
+      "https://m.media-amazon.com/images/I/71wtgKwXqFL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 150,
+    "discount": 28,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Angle Grinder",
+      "power": "Battery",
+      "material": "Steel",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "name": "Makita Torque Wrench",
+    "arabicName": "Torque Wrench Makita",
+    "description": "مفتاح عزم لضبط شد المسامير بالقيمة الصحيحة",
+    "price": 1004.25,
+    "originalPrice": 1636.92,
+    "category": "Tools",
+    "brand": "Makita",
+    "partNumber": "MAK-TL-1017",
+    "sku": "SKU-MAKITA-TL-1017",
+    "stock": 142,
+    "images": [
+      "https://m.media-amazon.com/images/I/41MP-Bsr9-L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 176,
+    "discount": 19,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Torque Wrench",
+      "power": "Air",
+      "material": "Steel",
+      "warranty": "3 years"
+    }
+  },
+  {
+    "name": "DeWalt Wrench",
+    "arabicName": "Wrench DeWalt",
+    "description": "مفتاح ربط قوي مصنوع من مواد عالية الجودة لتحمل الاستخدام الشاق",
+    "price": 363.57,
+    "originalPrice": 1572.67,
+    "category": "Tools",
+    "brand": "DeWalt",
+    "partNumber": "DEW-TL-1018",
+    "sku": "SKU-DEWALT-TL-1018",
+    "stock": 59,
+    "images": [
+      "https://m.media-amazon.com/images/I/7182TNI-KML._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 5,
+    "reviews": 143,
+    "discount": 21,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Wrench",
+      "power": "Manual",
+      "material": "Alloy Steel",
+      "warranty": "2 years"
+    }
   }
 ]
+
 
 
 
