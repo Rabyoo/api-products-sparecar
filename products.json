@@ -5576,8 +5576,3446 @@
         "BMW 320i 2018"
       ]
     }
+  },
+   {
+    "name": "HRE Off Road Wheel",
+    "arabicName": "جنط Off Road HRE",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 1136.08,
+    "originalPrice": 1283.43,
+    "category": "Wheels",
+    "brand": "HRE",
+    "carBrand": "Honda",
+    "carModel": "Civic",
+    "year": "2016-2024",
+    "partNumber": "HRE-WH-0928",
+    "sku": "SKU-HRE-WH-0928",
+    "stock": 13,
+    "images": [
+      "https://audiocityusa.com/shop/images/P/hre-performance-wheels-ft1-ore-flow-form-rims-audiocityusa-0.jpg"
+    ],
+    "rating": 4,
+    "reviews": 20,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Off Road",
+      "size": "17",
+      "boltPattern": "6x139.7",
+      "offset": "ET50",
+      "finish": "Gunmetal",
+      "warranty": "1 year",
+      "compatibility": ["Honda Civic 2019", "Honda Civic 2022"]
+    }
+  },
+   {
+    "name": "HRE Off Road Wheel",
+    "arabicName": "جنط Off Road HRE",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 978.07,
+    "originalPrice": 1346.35,
+    "category": "Wheels",
+    "brand": "HRE",
+    "carBrand": "Hyundai",
+    "carModel": "Elantra",
+    "year": "2016-2024",
+    "partNumber": "HRE-WH-0935",
+    "sku": "SKU-HRE-WH-0935",
+    "stock": 97,
+    "images": [
+      "https://audiocityusa.com/shop/images/P/hre-performance-wheels-ft1-ore-flow-form-rims-audiocityusa-0.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 83,
+    "discount": 11,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Off Road",
+      "size": "18",
+      "boltPattern": "6x139.7",
+      "offset": "ET35",
+      "finish": "Gunmetal",
+      "warranty": "3 years",
+      "compatibility": ["Hyundai Elantra 2019", "Hyundai Elantra 2022"]
+    }
+  },
+   {
+    "name": "Vossen Off Road Wheel",
+    "arabicName": "جنط Off Road Vossen",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 757.75,
+    "originalPrice": 1330.57,
+    "category": "Wheels",
+    "brand": "Vossen",
+    "carBrand": "BMW",
+    "carModel": "X5",
+    "year": "2016-2024",
+    "partNumber": "VOS-WH-0946",
+    "sku": "SKU-VOSSEN-WH-0946",
+    "stock": 39,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl_6uEJbKu8xp0PraREPEu7qdAdrTbCfHDbg&s"
+    ],
+    "rating": 4.3,
+    "reviews": 161,
+    "discount": 15,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Off Road",
+      "size": "16",
+      "boltPattern": "5x112",
+      "offset": "ET45",
+      "finish": "Matte Black",
+      "warranty": "2 years",
+      "compatibility": ["BMW X5 2019", "BMW X5 2022"]
+    }
+  },
+   {
+    "name": "Vossen Off Road Wheel",
+    "arabicName": "جنط Off Road Vossen",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 573.18,
+    "originalPrice": 1304.79,
+    "category": "Wheels",
+    "brand": "Vossen",
+    "carBrand": "BMW",
+    "carModel": "X5",
+    "year": "2016-2024",
+    "partNumber": "VOS-WH-0947",
+    "sku": "SKU-VOSSEN-WH-0947",
+    "stock": 5,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl_6uEJbKu8xp0PraREPEu7qdAdrTbCfHDbg&s"
+    ],
+    "rating": 4.8,
+    "reviews": 54,
+    "discount": 22,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Off Road",
+      "size": "19",
+      "boltPattern": "5x112",
+      "offset": "ET40",
+      "finish": "Gloss Black",
+      "warranty": "3 years",
+      "compatibility": ["BMW X5 2019", "BMW X5 2022"]
+    }
+  },
+   {
+    "name": "HRE Performance Wheel",
+    "arabicName": "جنط Performance HRE",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 520.83,
+    "originalPrice": 1252.65,
+    "category": "Wheels",
+    "brand": "HRE",
+    "carBrand": "BMW",
+    "carModel": "X5",
+    "year": "2016-2024",
+    "partNumber": "HRE-WH-0949",
+    "sku": "SKU-HRE-WH-0949",
+    "stock": 10,
+    "images": [
+      "https://s3.amazonaws.com/cdn.hrewheels.com/img/wheel-original/a80d7c51cbd1fad8c993c2d5ed7718bb.png"
+    ],
+    "rating": 4.9,
+    "reviews": 145,
+    "discount": 19,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Performance",
+      "size": "16",
+      "boltPattern": "5x114.3",
+      "offset": "ET50",
+      "finish": "Gloss Black",
+      "warranty": "1 year",
+      "compatibility": ["BMW X5 2019", "BMW X5 2022"]
+    }
+  },
+   {
+    "name": "BBS Alloy Wheel",
+    "arabicName": "جنط Alloy BBS",
+    "description": "جنوط سبور مصنوعة من الألومنيوم خفيفة الوزن لتحسين الأداء والشكل",
+    "price": 708.73,
+    "originalPrice": 1320.27,
+    "category": "Wheels",
+    "brand": "BBS",
+    "carBrand": "Mercedes",
+    "carModel": "E-Class",
+    "year": "2016-2024",
+    "partNumber": "BBS-WH-0950",
+    "sku": "SKU-BBS-WH-0950",
+    "stock": 70,
+    "images": [
+      "https://i5.walmartimages.com/seo/BBS-CI-R-20x11-5-5x120-ET52-Bronze-Rim-Protector-Wheel-82mm-PFS-Clip-Required_e9dd4432-b3fd-466a-9c28-40b4cc633833.a93f6edafc96af6889ee6082812dc203.jpeg"
+    ],
+    "rating": 4.8,
+    "reviews": 20,
+    "discount": 14,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Alloy",
+      "size": "17",
+      "boltPattern": "5x112",
+      "offset": "ET35",
+      "finish": "Gloss Black",
+      "warranty": "2 years",
+      "compatibility": ["Mercedes E-Class 2019", "Mercedes E-Class 2022"]
+    }
+  },
+   {
+    "name": "HRE Alloy Wheel",
+    "arabicName": "جنط Alloy HRE",
+    "description": "جنوط سبور مصنوعة من الألومنيوم خفيفة الوزن لتحسين الأداء والشكل",
+    "price": 1099.71,
+    "originalPrice": 1315.7,
+    "category": "Wheels",
+    "brand": "HRE",
+    "carBrand": "Mercedes",
+    "carModel": "C-Class",
+    "year": "2016-2024",
+    "partNumber": "HRE-WH-0983",
+    "sku": "SKU-HRE-WH-0983",
+    "stock": 11,
+    "images": [
+      "https://cdn4.wheelbasealloys.com/product-images/product-515232_20519_600.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 250,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Alloy",
+      "size": "20",
+      "boltPattern": "6x139.7",
+      "offset": "ET40",
+      "finish": "Gloss Black",
+      "warranty": "2 years",
+      "compatibility": ["Mercedes C-Class 2019", "Mercedes C-Class 2022"]
+    }
+  },
+   {
+    "name": "Borbet Forged Wheel",
+    "arabicName": "جنط Forged Borbet",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 417.78,
+    "originalPrice": 1259.52,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Mercedes",
+    "carModel": "E-Class",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0803",
+    "sku": "SKU-BORBET-WH-0803",
+    "stock": 95,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDE4s5g6FNPOnjbHPcCvfpKI7SpqR9LysQw&s"
+    ],
+    "rating": 4.4,
+    "reviews": 179,
+    "discount": 6,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Forged",
+      "size": "18",
+      "boltPattern": "5x114.3",
+      "offset": "ET45",
+      "finish": "Silver",
+      "warranty": "3 years",
+      "compatibility": ["Mercedes E-Class 2019", "Mercedes E-Class 2022"]
+    }
+  },
+   {
+    "name": "Rays Off Road Wheel",
+    "arabicName": "جنط Off Road Rays",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 637.98,
+    "originalPrice": 1280.78,
+    "category": "Wheels",
+    "brand": "Rays",
+    "carBrand": "Volkswagen",
+    "carModel": "Golf",
+    "year": "2016-2024",
+    "partNumber": "RAY-WH-0813",
+    "sku": "SKU-RAYS-WH-0813",
+    "stock": 5,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2141/1565/files/rays-offroad-m9-16x6-5-5x139-7-black-disk-clear-smoke-beq-wheels-922.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 251,
+    "discount": 11,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Off Road",
+      "size": "15",
+      "boltPattern": "5x114.3",
+      "offset": "ET45",
+      "finish": "Gunmetal",
+      "warranty": "3 years",
+      "compatibility": ["Volkswagen Golf 2019", "Volkswagen Golf 2022"]
+    }
+  },
+   {
+    "name": "Vossen Forged Wheel",
+    "arabicName": "جنط Forged Vossen",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 862.63,
+    "originalPrice": 1292.45,
+    "category": "Wheels",
+    "brand": "Vossen",
+    "carBrand": "Volkswagen",
+    "carModel": "Passat",
+    "year": "2016-2024",
+    "partNumber": "VOS-WH-0816",
+    "sku": "SKU-VOSSEN-WH-0816",
+    "stock": 21,
+    "images": [
+      "https://vossenwheels.com/wp-content/uploads/2024/06/VossenForgedGEN-04-3PFeatureImage.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 290,
+    "discount": 7,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Forged",
+      "size": "18",
+      "boltPattern": "5x114.3",
+      "offset": "ET50",
+      "finish": "Silver",
+      "warranty": "2 years",
+      "compatibility": ["Volkswagen Passat 2019", "Volkswagen Passat 2022"]
+    }
+  },
+   {
+    "name": "BBS Steel Wheel",
+    "arabicName": "جنط Steel BBS",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 325.69,
+    "originalPrice": 1257.02,
+    "category": "Wheels",
+    "brand": "BBS",
+    "carBrand": "Toyota",
+    "carModel": "Land Cruiser",
+    "year": "2016-2024",
+    "partNumber": "BBS-WH-0817",
+    "sku": "SKU-BBS-WH-0817",
+    "stock": 32,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnanFGKzuf1Eb_FkQQv7LBoiuKCAge7LhY_Q&s"
+    ],
+    "rating": 4.9,
+    "reviews": 154,
+    "discount": 11,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Steel",
+      "size": "17",
+      "boltPattern": "5x112",
+      "offset": "ET40",
+      "finish": "Matte Black",
+      "warranty": "3 years",
+      "compatibility": ["Toyota Land Cruiser 2019", "Toyota Land Cruiser 2022"]
+    }
+  },
+   {
+    "name": "Borbet Off Road Wheel",
+    "arabicName": "جنط Off Road Borbet",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 406.71,
+    "originalPrice": 1345.05,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Ford",
+    "carModel": "Ranger",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0819",
+    "sku": "SKU-BORBET-WH-0819",
+    "stock": 88,
+    "images": [
+      "https://www.borbet.de/medien/img/wheels/borbet-cw8-red-rim-window-polished-matt/borbet_cw8_black-rim-window-polished-matt-2_5972_500_500.webp"
+    ],
+    "rating": 4.7,
+    "reviews": 75,
+    "discount": 7,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Off Road",
+      "size": "19",
+      "boltPattern": "6x139.7",
+      "offset": "ET50",
+      "finish": "Silver",
+      "warranty": "3 years",
+      "compatibility": ["Ford Ranger 2019", "Ford Ranger 2022"]
+    }
+  },
+   {
+    "name": "BBS Steel Wheel",
+    "arabicName": "جنط Steel BBS",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 407.69,
+    "originalPrice": 1318.88,
+    "category": "Wheels",
+    "brand": "BBS",
+    "carBrand": "Ford",
+    "carModel": "Ranger",
+    "year": "2016-2024",
+    "partNumber": "BBS-WH-0820",
+    "sku": "SKU-BBS-WH-0820",
+    "stock": 88,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnanFGKzuf1Eb_FkQQv7LBoiuKCAge7LhY_Q&s"
+    ],
+    "rating": 4.9,
+    "reviews": 102,
+    "discount": 17,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Steel",
+      "size": "20",
+      "boltPattern": "5x112",
+      "offset": "ET45",
+      "finish": "Gloss Black",
+      "warranty": "2 years",
+      "compatibility": ["Ford Ranger 2019", "Ford Ranger 2022"]
+    }
+  },
+  {
+    "name": "Vossen Steel Wheel",
+    "arabicName": "جنط Steel Vossen",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 966.57,
+    "originalPrice": 1296.17,
+    "category": "Wheels",
+    "brand": "Vossen",
+    "carBrand": "Volkswagen",
+    "carModel": "Golf",
+    "year": "2016-2024",
+    "partNumber": "VOS-WH-0821",
+    "sku": "SKU-VOSSEN-WH-0821",
+    "stock": 84,
+    "images": [
+      "https://www.plush-automotive.com/wp-content/uploads/2025/01/hf-7-satin-silver-1-1.jpeg"
+    ],
+    "rating": 4.7,
+    "reviews": 119,
+    "discount": 13,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Steel",
+      "size": "19",
+      "boltPattern": "5x114.3",
+      "offset": "ET35",
+      "finish": "Matte Black",
+      "warranty": "3 years",
+      "compatibility": ["Volkswagen Golf 2019", "Volkswagen Golf 2022"]
+    }
+  },
+  {
+    "name": "OZ Racing Steel Wheel",
+    "arabicName": "جنط Steel OZ Racing",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 1036.02,
+    "originalPrice": 1319.45,
+    "category": "Wheels",
+    "brand": "OZ Racing",
+    "carBrand": "Honda",
+    "carModel": "CR-V",
+    "year": "2016-2024",
+    "partNumber": "OZ -WH-0822",
+    "sku": "SKU-OZ RACING-WH-0822",
+    "stock": 97,
+    "images": [
+      "https://www.felgenoutlet.com/felgenbilder/9291_3/seo/oz_rally_racing_dark_graphite_-_silver_lettering.jpg?1589866176"
+    ],
+    "rating": 4.2,
+    "reviews": 164,
+    "discount": 10,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Steel",
+      "size": "18",
+      "boltPattern": "6x139.7",
+      "offset": "ET45",
+      "finish": "Silver",
+      "warranty": "3 years",
+      "compatibility": ["Honda CR-V 2019", "Honda CR-V 2022"]
+    }
+  },
+  {
+    "name": "Enkei Forged Wheel",
+    "arabicName": "جنط Forged Enkei",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 1039.57,
+    "originalPrice": 1271.95,
+    "category": "Wheels",
+    "brand": "Enkei",
+    "carBrand": "Chevrolet",
+    "carModel": "Malibu",
+    "year": "2016-2024",
+    "partNumber": "ENK-WH-0823",
+    "sku": "SKU-ENKEI-WH-0823",
+    "stock": 27,
+    "images": [
+      "https://enkei.com/wp-content/uploads/2019/12/ENKEI-WHEELS-gtc02-hyper-silver-side-2.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 217,
+    "discount": 5,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Forged",
+      "size": "15",
+      "boltPattern": "5x112",
+      "offset": "ET40",
+      "finish": "Silver",
+      "warranty": "3 years",
+      "compatibility": ["Chevrolet Malibu 2019", "Chevrolet Malibu 2022"]
+    }
+  },
+  {
+    "name": "Vossen Forged Wheel",
+    "arabicName": "جنط Forged Vossen",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 178.46,
+    "originalPrice": 1284.7,
+    "category": "Wheels",
+    "brand": "Vossen",
+    "carBrand": "Nissan",
+    "carModel": "Altima",
+    "year": "2016-2024",
+    "partNumber": "VOS-WH-0824",
+    "sku": "SKU-VOSSEN-WH-0824",
+    "stock": 51,
+    "images": [
+      "https://vossenwheels.com/wp-content/uploads/2024/06/VossenForgedGEN-04-3PFeatureImage.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 195,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Forged",
+      "size": "20",
+      "boltPattern": "5x114.3",
+      "offset": "ET50",
+      "finish": "Matte Black",
+      "warranty": "2 years",
+      "compatibility": ["Nissan Altima 2019", "Nissan Altima 2022"]
+    }
+  },
+  {
+    "name": "Rotiform Alloy Wheel",
+    "arabicName": "جنط Alloy Rotiform",
+    "description": "جنوط سبور مصنوعة من الألومنيوم خفيفة الوزن لتحسين الأداء والشكل",
+    "price": 239.99,
+    "originalPrice": 1279.69,
+    "category": "Wheels",
+    "brand": "Rotiform",
+    "carBrand": "Mercedes",
+    "carModel": "G-Class",
+    "year": "2016-2024",
+    "partNumber": "ROT-WH-0825",
+    "sku": "SKU-ROTIFORM-WH-0825",
+    "stock": 108,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQjPCqiclYM17Vk6BVs69qivOh3zZqBJICQ&s"
+    ],
+    "rating": 5,
+    "reviews": 274,
+    "discount": 25,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Alloy",
+      "size": "17",
+      "boltPattern": "6x139.7",
+      "offset": "ET35",
+      "finish": "Matte Black",
+      "warranty": "1 year",
+      "compatibility": ["Mercedes G-Class 2019", "Mercedes G-Class 2022"]
+    }
+  },
+  {
+    "name": "Rotiform Performance Wheel",
+    "arabicName": "جنط Performance Rotiform",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 1150.69,
+    "originalPrice": 1340.46,
+    "category": "Wheels",
+    "brand": "Rotiform",
+    "carBrand": "Toyota",
+    "carModel": "Camry",
+    "year": "2016-2024",
+    "partNumber": "ROT-WH-0826",
+    "sku": "SKU-ROTIFORM-WH-0826",
+    "stock": 33,
+    "images": [
+      "https://www.lkperformance.co.uk/media/ProductImage/166563/image/resized/large.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 18,
+    "discount": 19,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Performance",
+      "size": "20",
+      "boltPattern": "5x114.3",
+      "offset": "ET45",
+      "finish": "Gunmetal",
+      "warranty": "2 years",
+      "compatibility": ["Toyota Camry 2019", "Toyota Camry 2022"]
+    }
+  },
+  {
+    "name": "Rotiform Performance Wheel",
+    "arabicName": "جنط Performance Rotiform",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 892.38,
+    "originalPrice": 1276.23,
+    "category": "Wheels",
+    "brand": "Rotiform",
+    "carBrand": "Ford",
+    "carModel": "Ranger",
+    "year": "2016-2024",
+    "partNumber": "ROT-WH-0827",
+    "sku": "SKU-ROTIFORM-WH-0827",
+    "stock": 23,
+    "images": [
+      "https://www.lkperformance.co.uk/media/ProductImage/166563/image/resized/large.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 96,
+    "discount": 25,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Performance",
+      "size": "17",
+      "boltPattern": "5x114.3",
+      "offset": "ET50",
+      "finish": "Gloss Black",
+      "warranty": "2 years",
+      "compatibility": ["Ford Ranger 2019", "Ford Ranger 2022"]
+    }
+  },
+  {
+    "name": "Enkei Off Road Wheel",
+    "arabicName": "جنط Off Road Enkei",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 745.31,
+    "originalPrice": 1313.45,
+    "category": "Wheels",
+    "brand": "Enkei",
+    "carBrand": "Mercedes",
+    "carModel": "G-Class",
+    "year": "2016-2024",
+    "partNumber": "ENK-WH-0828",
+    "sku": "SKU-ENKEI-WH-0828",
+    "stock": 42,
+    "images": [
+      "https://enkei.com/wp-content/uploads/2022/11/ENKEI-Overlander-Crossteck-Wheels-2023-Bronze-3-400x400.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 100,
+    "discount": 14,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Off Road",
+      "size": "19",
+      "boltPattern": "5x114.3",
+      "offset": "ET35",
+      "finish": "Gunmetal",
+      "warranty": "3 years",
+      "compatibility": ["Mercedes G-Class 2019", "Mercedes G-Class 2022"]
+    }
+  },
+   {
+    "name": "Enkei Performance Wheel",
+    "arabicName": "جنط Performance Enkei",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 374.39,
+    "originalPrice": 1319.02,
+    "category": "Wheels",
+    "brand": "Enkei",
+    "carBrand": "Toyota",
+    "carModel": "Camry",
+    "year": "2016-2024",
+    "partNumber": "ENK-WH-0830",
+    "sku": "SKU-ENKEI-WH-0830",
+    "stock": 42,
+    "images": [
+      "https://enkei.com/wp-content/uploads/2024/12/ENKEI-QUASAR-ZP-ANGLE-e1734017015420-400x400.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 80,
+    "discount": 20,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Performance",
+      "size": "20",
+      "boltPattern": "5x112",
+      "offset": "ET50",
+      "finish": "Silver",
+      "warranty": "1 year",
+      "compatibility": ["Toyota Camry 2019", "Toyota Camry 2022"]
+    }
+  },
+   {
+    "name": "BBS Performance Wheel",
+    "arabicName": "جنط Performance BBS",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 997.62,
+    "originalPrice": 1299.02,
+    "category": "Wheels",
+    "brand": "BBS",
+    "carBrand": "Toyota",
+    "carModel": "Camry",
+    "year": "2016-2024",
+    "partNumber": "BBS-WH-0834",
+    "sku": "SKU-BBS-WH-0834",
+    "stock": 13,
+    "images": [
+      "https://s3-us-west-1.amazonaws.com/cdn.wheelenhancement.com/img/product-440x412/CHRII-blk_center_platinum_rim.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 18,
+    "discount": 19,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Performance",
+      "size": "15",
+      "boltPattern": "5x112",
+      "offset": "ET45",
+      "finish": "Matte Black",
+      "warranty": "2 years",
+      "compatibility": ["Toyota Camry 2019", "Toyota Camry 2022"]
+    }
+  },
+  {
+    "name": "BBS Forged Wheel",
+    "arabicName": "جنط Forged BBS",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 770.41,
+    "originalPrice": 1328.4,
+    "category": "Wheels",
+    "brand": "BBS",
+    "carBrand": "Toyota",
+    "carModel": "Camry",
+    "year": "2016-2024",
+    "partNumber": "BBS-WH-0835",
+    "sku": "SKU-BBS-WH-0835",
+    "stock": 28,
+    "images": [
+      "https://cdn.bbs.com/116/assets/images/products/FI-R-v2/gallery/fir_model_silver.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 79,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Forged",
+      "size": "17",
+      "boltPattern": "6x139.7",
+      "offset": "ET50",
+      "finish": "Gloss Black",
+      "warranty": "3 years",
+      "compatibility": ["Toyota Camry 2019", "Toyota Camry 2022"]
+    }
+  },
+  {
+    "name": "OZ Racing Off Road Wheel",
+    "arabicName": "جنط Off Road OZ Racing",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 1073.23,
+    "originalPrice": 1306.72,
+    "category": "Wheels",
+    "brand": "OZ Racing",
+    "carBrand": "Hyundai",
+    "carModel": "Elantra",
+    "year": "2016-2024",
+    "partNumber": "OZ -WH-0836",
+    "sku": "SKU-OZ RACING-WH-0836",
+    "stock": 28,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIf39pbzr3lWUq0l9ltfcYWYKfdKuEWFObHQ&s"
+    ],
+    "rating": 4.4,
+    "reviews": 82,
+    "discount": 16,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Off Road",
+      "size": "19",
+      "boltPattern": "5x114.3",
+      "offset": "ET35",
+      "finish": "Matte Black",
+      "warranty": "2 years",
+      "compatibility": ["Hyundai Elantra 2019", "Hyundai Elantra 2022"]
+    }
+  },
+  {
+    "name": "BBS Performance Wheel",
+    "arabicName": "جنط Performance BBS",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 819.85,
+    "originalPrice": 1299.18,
+    "category": "Wheels",
+    "brand": "BBS",
+    "carBrand": "Hyundai",
+    "carModel": "Tucson",
+    "year": "2016-2024",
+    "partNumber": "BBS-WH-0837",
+    "sku": "SKU-BBS-WH-0837",
+    "stock": 91,
+    "images": [
+      "https://s3-us-west-1.amazonaws.com/cdn.wheelenhancement.com/img/product-440x412/CHRII-blk_center_platinum_rim.jpg"
+    ],
+    "rating": 5,
+    "reviews": 94,
+    "discount": 18,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Performance",
+      "size": "18",
+      "boltPattern": "5x112",
+      "offset": "ET40",
+      "finish": "Gunmetal",
+      "warranty": "1 year",
+      "compatibility": ["Hyundai Tucson 2019", "Hyundai Tucson 2022"]
+    }
+  },
+  {
+    "name": "Rays Off Road Wheel",
+    "arabicName": "جنط Off Road Rays",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 475.89,
+    "originalPrice": 1349.07,
+    "category": "Wheels",
+    "brand": "Rays",
+    "carBrand": "Kia",
+    "carModel": "Cerato",
+    "year": "2016-2024",
+    "partNumber": "RAY-WH-0838",
+    "sku": "SKU-RAYS-WH-0838",
+    "stock": 101,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2141/1565/files/rays-offroad-m9-16x6-5-5x139-7-black-disk-clear-smoke-beq-wheels-922.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 132,
+    "discount": 5,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Off Road",
+      "size": "15",
+      "boltPattern": "5x112",
+      "offset": "ET40",
+      "finish": "Gloss Black",
+      "warranty": "1 year",
+      "compatibility": ["Kia Cerato 2019", "Kia Cerato 2022"]
+    }
+  },
+  {
+    "name": "BBlS Alloy Wheel",
+    "arabicName": "جنط Alloy BBS",
+    "description": "جنوط سبور مصنوعة من الألومنيوم خفيفة الوزن لتحسين الأداء والشكل",
+    "price": 702.43,
+    "originalPrice": 1313.75,
+    "category": "Wheels",
+    "brand": "BBS",
+    "carBrand": "Volkswagen",
+    "carModel": "Golf",
+    "year": "2016-2024",
+    "partNumber": "BBS-WH-0839",
+    "sku": "SKU-BBS-WH-0839",
+    "stock": 25,
+    "images": [
+      "https://i5.walmartimages.com/seo/BBS-CI-R-20x11-5-5x120-ET52-Bronze-Rim-Protector-Wheel-82mm-PFS-Clip-Required_e9dd4432-b3fd-466a-9c28-40b4cc633833.a93f6edafc96af6889ee6082812dc203.jpeg"
+    ],
+    "rating": 4.4,
+    "reviews": 186,
+    "discount": 22,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Alloy",
+      "size": "18",
+      "boltPattern": "5x112",
+      "offset": "ET45",
+      "finish": "Gunmetal",
+      "warranty": "2 years",
+      "compatibility": ["Volkswagen Golf 2019", "Volkswagen Golf 2022"]
+    }
+  },
+   {
+    "name": "Rays Steel Wheel",
+    "arabicName": "جنط Steel Rays",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 825.95,
+    "originalPrice": 1346.48,
+    "category": "Wheels",
+    "brand": "Rays",
+    "carBrand": "Honda",
+    "carModel": "Accord",
+    "year": "2016-2024",
+    "partNumber": "RAY-WH-0843",
+    "sku": "SKU-RAYS-WH-0843",
+    "stock": 17,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUkmtrTnk606rdi6u5EdK5fKHrW5Qu64Qzlw&s"
+    ],
+    "rating": 4.2,
+    "reviews": 168,
+    "discount": 5,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Steel",
+      "size": "19",
+      "boltPattern": "6x139.7",
+      "offset": "ET45",
+      "finish": "Silver",
+      "warranty": "3 years",
+      "compatibility": ["Honda Accord 2019", "Honda Accord 2022"]
+    }
+  },
+  {
+    "name": "Borbet Performance Wheel",
+    "arabicName": "جنط Performance Borbet",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 504.33,
+    "originalPrice": 1315.54,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Ford",
+    "carModel": "Focus",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0844",
+    "sku": "SKU-BORBET-WH-0844",
+    "stock": 25,
+    "images": [
+      "https://www.felgenoutlet.com/felgenbilder/19937_12/seo/borbet_n_bronze.jpg?1749199501"
+    ],
+    "rating": 4.9,
+    "reviews": 278,
+    "discount": 7,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Performance",
+      "size": "16",
+      "boltPattern": "6x139.7",
+      "offset": "ET35",
+      "finish": "Gunmetal",
+      "warranty": "3 years",
+      "compatibility": ["Ford Focus 2019", "Ford Focus 2022"]
+    }
+  },
+  {
+    "name": "OZ Racing Performance Wheel",
+    "arabicName": "جنط Performance OZ Racing",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 771.63,
+    "originalPrice": 1295.43,
+    "category": "Wheels",
+    "brand": "OZ Racing",
+    "carBrand": "Kia",
+    "carModel": "Cerato",
+    "year": "2016-2024",
+    "partNumber": "OZ -WH-0845",
+    "sku": "SKU-OZ RACING-WH-0845",
+    "stock": 108,
+    "images": [
+      "https://www.felgenoutlet.com/felgenbilder/9291_3/seo/oz_rally_racing_dark_graphite_-_silver_lettering.jpg?1589866176"
+    ],
+    "rating": 4.2,
+    "reviews": 244,
+    "discount": 13,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Performance",
+      "size": "15",
+      "boltPattern": "5x112",
+      "offset": "ET45",
+      "finish": "Gunmetal",
+      "warranty": "3 years",
+      "compatibility": ["Kia Cerato 2019", "Kia Cerato 2022"]
+    }
+  },
+  {
+    "name": "Borbet Off Road Wheel",
+    "arabicName": "جنط Off Road Borbet",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 599.24,
+    "originalPrice": 1263.29,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Honda",
+    "carModel": "CR-V",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0846",
+    "sku": "SKU-BORBET-WH-0846",
+    "stock": 41,
+    "images": [
+      "https://www.borbet.de/medien/img/wheels/borbet-cw8-red-rim-window-polished-matt/borbet_cw8_black-rim-window-polished-matt-2_5972_500_500.webp"
+    ],
+    "rating": 4.7,
+    "reviews": 203,
+    "discount": 5,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Off Road",
+      "size": "19",
+      "boltPattern": "5x112",
+      "offset": "ET45",
+      "finish": "Gloss Black",
+      "warranty": "3 years",
+      "compatibility": ["Honda CR-V 2019", "Honda CR-V 2022"]
+    }
+  },
+  {
+    "name": "Rotiform Alloy Wheel",
+    "arabicName": "جنط Alloy Rotiform",
+    "description": "جنوط سبور مصنوعة من الألومنيوم خفيفة الوزن لتحسين الأداء والشكل",
+    "price": 994.87,
+    "originalPrice": 1291.11,
+    "category": "Wheels",
+    "brand": "Rotiform",
+    "carBrand": "Nissan",
+    "carModel": "Altima",
+    "year": "2016-2024",
+    "partNumber": "ROT-WH-0847",
+    "sku": "SKU-ROTIFORM-WH-0847",
+    "stock": 28,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQjPCqiclYM17Vk6BVs69qivOh3zZqBJICQ&s"
+    ],
+    "rating": 4.7,
+    "reviews": 71,
+    "discount": 25,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Alloy",
+      "size": "15",
+      "boltPattern": "6x139.7",
+      "offset": "ET35",
+      "finish": "Gunmetal",
+      "warranty": "3 years",
+      "compatibility": ["Nissan Altima 2019", "Nissan Altima 2022"]
+    }
+  },
+  {
+    "name": "Enkei Off Road Wheel",
+    "arabicName": "جنط Off Road Enkei",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 1184.5,
+    "originalPrice": 1277.91,
+    "category": "Wheels",
+    "brand": "Enkei",
+    "carBrand": "Volkswagen",
+    "carModel": "Passat",
+    "year": "2016-2024",
+    "partNumber": "ENK-WH-0848",
+    "sku": "SKU-ENKEI-WH-0848",
+    "stock": 44,
+    "images": [
+      "https://enkei.com/wp-content/uploads/2022/11/ENKEI-Overlander-Crossteck-Wheels-2023-Bronze-3-400x400.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 15,
+    "discount": 6,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Off Road",
+      "size": "16",
+      "boltPattern": "6x139.7",
+      "offset": "ET40",
+      "finish": "Silver",
+      "warranty": "1 year",
+      "compatibility": ["Volkswagen Passat 2019", "Volkswagen Passat 2022"]
+    }
+  },
+  {
+    "name": "Vossen Alloy Wheel",
+    "arabicName": "جنط Alloy Vossen",
+    "description": "جنوط سبور مصنوعة من الألومنيوم خفيفة الوزن لتحسين الأداء والشكل",
+    "price": 1089.16,
+    "originalPrice": 1346.05,
+    "category": "Wheels",
+    "brand": "Vossen",
+    "carBrand": "Ford",
+    "carModel": "Focus",
+    "year": "2016-2024",
+    "partNumber": "VOS-WH-0849",
+    "sku": "SKU-VOSSEN-WH-0849",
+    "stock": 104,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTtAQvMRv2b8edIirE80npaAB3DcuRImm8-A&s"
+    ],
+    "rating": 4.6,
+    "reviews": 106,
+    "discount": 10,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Alloy",
+      "size": "16",
+      "boltPattern": "5x112",
+      "offset": "ET45",
+      "finish": "Gunmetal",
+      "warranty": "3 years",
+      "compatibility": ["Ford Focus 2019", "Ford Focus 2022"]
+    }
+  },
+  {
+    "name": "Rays Forged Wheel",
+    "arabicName": "جنط Forged Rays",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 412.75,
+    "originalPrice": 1269.04,
+    "category": "Wheels",
+    "brand": "Rays",
+    "carBrand": "Kia",
+    "carModel": "Cerato",
+    "year": "2016-2024",
+    "partNumber": "RAY-WH-0850",
+    "sku": "SKU-RAYS-WH-0850",
+    "stock": 22,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCvYv_4uYWYuvZCbUOmE3MynQnE43eyxsHyQ&s"
+    ],
+    "rating": 4.4,
+    "reviews": 170,
+    "discount": 6,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Forged",
+      "size": "17",
+      "boltPattern": "6x139.7",
+      "offset": "ET50",
+      "finish": "Gloss Black",
+      "warranty": "3 years",
+      "compatibility": ["Kia Cerato 2019", "Kia Cerato 2022"]
+    }
+  },
+  {
+    "name": "Rotiform Steel Wheel",
+    "arabicName": "جنط Steel Rotiform",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 337.39,
+    "originalPrice": 1278.66,
+    "category": "Wheels",
+    "brand": "Rotiform",
+    "carBrand": "Volkswagen",
+    "carModel": "Passat",
+    "year": "2016-2024",
+    "partNumber": "ROT-WH-0851",
+    "sku": "SKU-ROTIFORM-WH-0851",
+    "stock": 119,
+    "images": [
+      "https://www.plush-automotive.com/wp-content/uploads/2024/03/las-r-silver.webp"
+    ],
+    "rating": 4.6,
+    "reviews": 168,
+    "discount": 11,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Steel",
+      "size": "17",
+      "boltPattern": "5x114.3",
+      "offset": "ET40",
+      "finish": "Gunmetal",
+      "warranty": "1 year",
+      "compatibility": ["Volkswagen Passat 2019", "Volkswagen Passat 2022"]
+    }
+  },
+  {
+    "name": "Enkei Steel Wheel",
+    "arabicName": "جنط Steel Enkei",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 670.72,
+    "originalPrice": 1337.62,
+    "category": "Wheels",
+    "brand": "Enkei",
+    "carBrand": "Mercedes",
+    "carModel": "G-Class",
+    "year": "2016-2024",
+    "partNumber": "ENK-WH-0852",
+    "sku": "SKU-ENKEI-WH-0852",
+    "stock": 109,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwvT_6xOdllpL53nKqkSo5nDWNc41XFFZJg&s"
+    ],
+    "rating": 4.3,
+    "reviews": 95,
+    "discount": 5,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Steel",
+      "size": "16",
+      "boltPattern": "5x112",
+      "offset": "ET45",
+      "finish": "Gunmetal",
+      "warranty": "3 years",
+      "compatibility": ["Mercedes G-Class 2019", "Mercedes G-Class 2022"]
+    }
+  },
+   {
+    "name": "Rotiform Forged Wheel",
+    "arabicName": "جنط Forged Rotiform",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 180.23,
+    "originalPrice": 1324.19,
+    "category": "Wheels",
+    "brand": "Rotiform",
+    "carBrand": "Nissan",
+    "carModel": "Altima",
+    "year": "2016-2024",
+    "partNumber": "ROT-WH-0855",
+    "sku": "SKU-ROTIFORM-WH-0855",
+    "stock": 23,
+    "images": [
+      "https://www.rotiform.com/media/catalog/product/9/1/917-tequila-sunrise-w-gold-over-polish-a1.png?quality=80&fit=bounds&height=360&width=360"
+    ],
+    "rating": 4.2,
+    "reviews": 254,
+    "discount": 8,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Forged",
+      "size": "17",
+      "boltPattern": "5x112",
+      "offset": "ET40",
+      "finish": "Matte Black",
+      "warranty": "2 years",
+      "compatibility": ["Nissan Altima 2019", "Nissan Altima 2022"]
+    }
+  },
+  {
+    "name": "Borbet Alloy Wheel",
+    "arabicName": "جنط Alloy Borbet",
+    "description": "جنوط سبور مصنوعة من الألومنيوم خفيفة الوزن لتحسين الأداء والشكل",
+    "price": 403.47,
+    "originalPrice": 1320.59,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Chevrolet",
+    "carModel": "Malibu",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0856",
+    "sku": "SKU-BORBET-WH-0856",
+    "stock": 106,
+    "images": ["C:\\Users\\m\\OneDrive\\Desktop\\wheels_200\\8056.jpg"],
+    "rating": 4.9,
+    "reviews": 146,
+    "discount": 13,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Alloy",
+      "size": "18",
+      "boltPattern": "5x114.3",
+      "offset": "ET35",
+      "finish": "Matte Black",
+      "warranty": "1 year",
+      "compatibility": ["Chevrolet Malibu 2019", "Chevrolet Malibu 2022"]
+    }
+  },
+  {
+    "name": "Borbet Forged Wheel",
+    "arabicName": "جنط Forged Borbet",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 332,
+    "originalPrice": 1276.9,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Hyundai",
+    "carModel": "Elantra",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0857",
+    "sku": "SKU-BORBET-WH-0857",
+    "stock": 61,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDE4s5g6FNPOnjbHPcCvfpKI7SpqR9LysQw&s"
+    ],
+    "rating": 4.7,
+    "reviews": 297,
+    "discount": 19,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Forged",
+      "size": "15",
+      "boltPattern": "6x139.7",
+      "offset": "ET45",
+      "finish": "Gunmetal",
+      "warranty": "2 years",
+      "compatibility": ["Hyundai Elantra 2019", "Hyundai Elantra 2022"]
+    }
+  },
+  {
+    "name": "Borbet Off Road Wheel",
+    "arabicName": "جنط Off Road Borbet",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 353.7,
+    "originalPrice": 1301.95,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Toyota",
+    "carModel": "Camry",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0858",
+    "sku": "SKU-BORBET-WH-0858",
+    "stock": 98,
+    "images": [
+      "https://www.borbet.de/medien/img/wheels/borbet-cw8-red-rim-window-polished-matt/borbet_cw8_black-rim-window-polished-matt-2_5972_500_500.webp"
+    ],
+    "rating": 4.9,
+    "reviews": 184,
+    "discount": 24,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Off Road",
+      "size": "19",
+      "boltPattern": "5x114.3",
+      "offset": "ET45",
+      "finish": "Silver",
+      "warranty": "3 years",
+      "compatibility": ["Toyota Camry 2019", "Toyota Camry 2022"]
+    }
+  },
+  {
+    "name": "Borbet Alloy Wheel",
+    "arabicName": "جنط Alloy Borbet",
+    "description": "جنوط سبور مصنوعة من الألومنيوم خفيفة الوزن لتحسين الأداء والشكل",
+    "price": 778.19,
+    "originalPrice": 1294.11,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Chevrolet",
+    "carModel": "Malibu",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0859",
+    "sku": "SKU-BORBET-WH-0859",
+    "stock": 60,
+    "images": ["C:\\Users\\m\\OneDrive\\Desktop\\wheels_200\\8059.jpg"],
+    "rating": 4.4,
+    "reviews": 38,
+    "discount": 24,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Alloy",
+      "size": "20",
+      "boltPattern": "5x114.3",
+      "offset": "ET40",
+      "finish": "Silver",
+      "warranty": "2 years",
+      "compatibility": ["Chevrolet Malibu 2019", "Chevrolet Malibu 2022"]
+    }
+  },
+  {
+    "name": "Enkei Alloy Wheel",
+    "arabicName": "جنط Alloy Enkei",
+    "description": "جنوط سبور مصنوعة من الألومنيوم خفيفة الوزن لتحسين الأداء والشكل",
+    "price": 696.67,
+    "originalPrice": 1326.07,
+    "category": "Wheels",
+    "brand": "Enkei",
+    "carBrand": "BMW",
+    "carModel": "320i",
+    "year": "2016-2024",
+    "partNumber": "ENK-WH-0860",
+    "sku": "SKU-ENKEI-WH-0860",
+    "stock": 61,
+    "images": [
+      "https://enkei.com/wp-content/uploads/2019/12/ENKEI-WHEELS-gtc02-hyper-silver-side-2-400x400.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 37,
+    "discount": 6,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Alloy",
+      "size": "19",
+      "boltPattern": "6x139.7",
+      "offset": "ET35",
+      "finish": "Matte Black",
+      "warranty": "1 year",
+      "compatibility": ["BMW 320i 2019", "BMW 320i 2022"]
+    }
+  },
+  {
+    "name": "Borbet Off Road Wheel",
+    "arabicName": "جنط Off Road Borbet",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 244.32,
+    "originalPrice": 1260.86,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Ford",
+    "carModel": "Ranger",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0861",
+    "sku": "SKU-BORBET-WH-0861",
+    "stock": 84,
+    "images": [
+      "https://www.borbet.de/medien/img/wheels/borbet-cw8-red-rim-window-polished-matt/borbet_cw8_black-rim-window-polished-matt-2_5972_500_500.webp"
+    ],
+    "rating": 4.6,
+    "reviews": 79,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Off Road",
+      "size": "17",
+      "boltPattern": "5x114.3",
+      "offset": "ET35",
+      "finish": "Gunmetal",
+      "warranty": "2 years",
+      "compatibility": ["Ford Ranger 2019", "Ford Ranger 2022"]
+    }
+  },
+  {
+    "name": "BBS Steel Wheel",
+    "arabicName": "جنط Steel BBS",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 690.74,
+    "originalPrice": 1274.31,
+    "category": "Wheels",
+    "brand": "BBS",
+    "carBrand": "Kia",
+    "carModel": "Cerato",
+    "year": "2016-2024",
+    "partNumber": "BBS-WH-0862",
+    "sku": "SKU-BBS-WH-0862",
+    "stock": 70,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnanFGKzuf1Eb_FkQQv7LBoiuKCAge7LhY_Q&s"
+    ],
+    "rating": 4,
+    "reviews": 37,
+    "discount": 20,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Steel",
+      "size": "16",
+      "boltPattern": "5x112",
+      "offset": "ET45",
+      "finish": "Silver",
+      "warranty": "1 year",
+      "compatibility": ["Kia Cerato 2019", "Kia Cerato 2022"]
+    }
+  },
+  {
+    "name": "OZ Racing Forged Wheel",
+    "arabicName": "جنط Forged OZ Racing",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 849.42,
+    "originalPrice": 1281.94,
+    "category": "Wheels",
+    "brand": "OZ Racing",
+    "carBrand": "Nissan",
+    "carModel": "Altima",
+    "year": "2016-2024",
+    "partNumber": "OZ -WH-0863",
+    "sku": "SKU-OZ RACING-WH-0863",
+    "stock": 45,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVb_fls0iSwMtxJxuUL5AoqSHPPtCQawM6ZQ&s"
+    ],
+    "rating": 4.4,
+    "reviews": 96,
+    "discount": 10,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Forged",
+      "size": "19",
+      "boltPattern": "5x112",
+      "offset": "ET50",
+      "finish": "Silver",
+      "warranty": "1 year",
+      "compatibility": ["Nissan Altima 2019", "Nissan Altima 2022"]
+    }
+  },
+  {
+    "name": "Rotiform Forged Wheel",
+    "arabicName": "جنط Forged Rotiform",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 477.85,
+    "originalPrice": 1326.59,
+    "category": "Wheels",
+    "brand": "Rotiform",
+    "carBrand": "Nissan",
+    "carModel": "Patrol",
+    "year": "2016-2024",
+    "partNumber": "ROT-WH-0864",
+    "sku": "SKU-ROTIFORM-WH-0864",
+    "stock": 27,
+    "images": [
+      "https://www.rotiform.com/media/catalog/product/9/1/917-tequila-sunrise-w-gold-over-polish-a1.png?quality=80&fit=bounds&height=360&width=360"
+    ],
+    "rating": 4.8,
+    "reviews": 164,
+    "discount": 17,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Forged",
+      "size": "15",
+      "boltPattern": "6x139.7",
+      "offset": "ET40",
+      "finish": "Silver",
+      "warranty": "1 year",
+      "compatibility": ["Nissan Patrol 2019", "Nissan Patrol 2022"]
+    }
+  },
+  {
+    "name": "BBS Forged Wheel",
+    "arabicName": "جنط Forged BBS",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 643.26,
+    "originalPrice": 1260.89,
+    "category": "Wheels",
+    "brand": "BBS",
+    "carBrand": "Nissan",
+    "carModel": "Patrol",
+    "year": "2016-2024",
+    "partNumber": "BBS-WH-0865",
+    "sku": "SKU-BBS-WH-0865",
+    "stock": 8,
+    "images": [
+      "https://cdn.bbs.com/116/assets/images/products/FI-R-v2/gallery/fir_model_silver.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 51,
+    "discount": 11,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Forged",
+      "size": "19",
+      "boltPattern": "6x139.7",
+      "offset": "ET50",
+      "finish": "Silver",
+      "warranty": "2 years",
+      "compatibility": ["Nissan Patrol 2019", "Nissan Patrol 2022"]
+    }
+  },
+  {
+    "name": "Rotiform Steel Wheel",
+    "arabicName": "جنط Steel Rotiform",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 861.04,
+    "originalPrice": 1260.28,
+    "category": "Wheels",
+    "brand": "Rotiform",
+    "carBrand": "BMW",
+    "carModel": "X5",
+    "year": "2016-2024",
+    "partNumber": "ROT-WH-0866",
+    "sku": "SKU-ROTIFORM-WH-0866",
+    "stock": 73,
+    "images": [
+      "https://www.plush-automotive.com/wp-content/uploads/2024/03/las-r-silver.webp"
+    ],
+    "rating": 4.2,
+    "reviews": 96,
+    "discount": 24,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Steel",
+      "size": "17",
+      "boltPattern": "6x139.7",
+      "offset": "ET35",
+      "finish": "Silver",
+      "warranty": "3 years",
+      "compatibility": ["BMW X5 2019", "BMW X5 2022"]
+    }
+  },
+   {
+    "name": "Enkei Performance Wheel",
+    "arabicName": "جنط Performance Enkei",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 301.1,
+    "originalPrice": 1289.27,
+    "category": "Wheels",
+    "brand": "Enkei",
+    "carBrand": "Hyundai",
+    "carModel": "Tucson",
+    "year": "2016-2024",
+    "partNumber": "ENK-WH-0873",
+    "sku": "SKU-ENKEI-WH-0873",
+    "stock": 90,
+    "images": [
+      "https://enkei.com/wp-content/uploads/2024/12/ENKEI-QUASAR-ZP-ANGLE-e1734017015420-400x400.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 251,
+    "discount": 15,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Performance",
+      "size": "19",
+      "boltPattern": "6x139.7",
+      "offset": "ET40",
+      "finish": "Silver",
+      "warranty": "1 year",
+      "compatibility": ["Hyundai Tucson 2019", "Hyundai Tucson 2022"]
+    }
+  },
+  {
+    "name": "Borbet Forged Wheel",
+    "arabicName": "جنط Forged Borbet",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 736.04,
+    "originalPrice": 1318.36,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Honda",
+    "carModel": "CR-V",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0874",
+    "sku": "SKU-BORBET-WH-0874",
+    "stock": 117,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDE4s5g6FNPOnjbHPcCvfpKI7SpqR9LysQw&s"
+    ],
+    "rating": 4.1,
+    "reviews": 40,
+    "discount": 7,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Forged",
+      "size": "17",
+      "boltPattern": "5x114.3",
+      "offset": "ET45",
+      "finish": "Gloss Black",
+      "warranty": "3 years",
+      "compatibility": ["Honda CR-V 2019", "Honda CR-V 2022"]
+    }
+  },
+  {
+    "name": "OZ Racing Steel Wheel",
+    "arabicName": "جنط Steel OZ Racing",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 487.17,
+    "originalPrice": 1306.17,
+    "category": "Wheels",
+    "brand": "OZ Racing",
+    "carBrand": "Hyundai",
+    "carModel": "Elantra",
+    "year": "2016-2024",
+    "partNumber": "OZ -WH-0875",
+    "sku": "SKU-OZ RACING-WH-0875",
+    "stock": 118,
+    "images": [
+      "https://www.felgenoutlet.com/felgenbilder/9291_3/seo/oz_rally_racing_dark_graphite_-_silver_lettering.jpg?1589866176"
+    ],
+    "rating": 4.3,
+    "reviews": 165,
+    "discount": 20,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Steel",
+      "size": "19",
+      "boltPattern": "6x139.7",
+      "offset": "ET40",
+      "finish": "Matte Black",
+      "warranty": "3 years",
+      "compatibility": ["Hyundai Elantra 2019", "Hyundai Elantra 2022"]
+    }
+  },
+  {
+    "name": "Rotiform Performance Wheel",
+    "arabicName": "جنط Performance Rotiform",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 1093.12,
+    "originalPrice": 1343.75,
+    "category": "Wheels",
+    "brand": "Rotiform",
+    "carBrand": "Toyota",
+    "carModel": "Land Cruiser",
+    "year": "2016-2024",
+    "partNumber": "ROT-WH-0876",
+    "sku": "SKU-ROTIFORM-WH-0876",
+    "stock": 116,
+    "images": [
+      "https://www.lkperformance.co.uk/media/ProductImage/166563/image/resized/large.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 228,
+    "discount": 6,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Performance",
+      "size": "20",
+      "boltPattern": "5x112",
+      "offset": "ET45",
+      "finish": "Gloss Black",
+      "warranty": "1 year",
+      "compatibility": ["Toyota Land Cruiser 2019", "Toyota Land Cruiser 2022"]
+    }
+  },
+  {
+    "name": "Rotiform Performance Wheel",
+    "arabicName": "جنط Performance Rotiform",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 532.01,
+    "originalPrice": 1265.35,
+    "category": "Wheels",
+    "brand": "Rotiform",
+    "carBrand": "Volkswagen",
+    "carModel": "Golf",
+    "year": "2016-2024",
+    "partNumber": "ROT-WH-0877",
+    "sku": "SKU-ROTIFORM-WH-0877",
+    "stock": 25,
+    "images": [
+      "https://www.lkperformance.co.uk/media/ProductImage/166563/image/resized/large.jpg"
+    ],
+    "rating": 4,
+    "reviews": 179,
+    "discount": 18,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Performance",
+      "size": "15",
+      "boltPattern": "6x139.7",
+      "offset": "ET45",
+      "finish": "Matte Black",
+      "warranty": "3 years",
+      "compatibility": ["Volkswagen Golf 2019", "Volkswagen Golf 2022"]
+    }
+  },
+  {
+    "name": "Vossen Forged Wheel",
+    "arabicName": "جنط Forged Vossen",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 177.72,
+    "originalPrice": 1268.36,
+    "category": "Wheels",
+    "brand": "Vossen",
+    "carBrand": "Hyundai",
+    "carModel": "Elantra",
+    "year": "2016-2024",
+    "partNumber": "VOS-WH-0878",
+    "sku": "SKU-VOSSEN-WH-0878",
+    "stock": 26,
+    "images": [
+      "https://vossenwheels.com/wp-content/uploads/2024/06/VossenForgedGEN-04-3PFeatureImage.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 40,
+    "discount": 19,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Forged",
+      "size": "17",
+      "boltPattern": "5x112",
+      "offset": "ET40",
+      "finish": "Gloss Black",
+      "warranty": "3 years",
+      "compatibility": ["Hyundai Elantra 2019", "Hyundai Elantra 2022"]
+    }
+  },
+  {
+    "name": "Rays Off Road Wheel",
+    "arabicName": "جنط Off Road Rays",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 467.81,
+    "originalPrice": 1305.23,
+    "category": "Wheels",
+    "brand": "Rays",
+    "carBrand": "Kia",
+    "carModel": "Sportage",
+    "year": "2016-2024",
+    "partNumber": "RAY-WH-0879",
+    "sku": "SKU-RAYS-WH-0879",
+    "stock": 37,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2141/1565/files/rays-offroad-m9-16x6-5-5x139-7-black-disk-clear-smoke-beq-wheels-922.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 198,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Off Road",
+      "size": "17",
+      "boltPattern": "5x114.3",
+      "offset": "ET50",
+      "finish": "Matte Black",
+      "warranty": "3 years",
+      "compatibility": ["Kia Sportage 2019", "Kia Sportage 2022"]
+    }
+  },
+  {
+    "name": "Enkei Off Road Wheel",
+    "arabicName": "جنط Off Road Enkei",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 580.5,
+    "originalPrice": 1255.44,
+    "category": "Wheels",
+    "brand": "Enkei",
+    "carBrand": "Ford",
+    "carModel": "Focus",
+    "year": "2016-2024",
+    "partNumber": "ENK-WH-0880",
+    "sku": "SKU-ENKEI-WH-0880",
+    "stock": 114,
+    "images": [
+      "https://enkei.com/wp-content/uploads/2022/11/ENKEI-Overlander-Crossteck-Wheels-2023-Bronze-3-400x400.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 253,
+    "discount": 25,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Off Road",
+      "size": "19",
+      "boltPattern": "6x139.7",
+      "offset": "ET45",
+      "finish": "Silver",
+      "warranty": "2 years",
+      "compatibility": ["Ford Focus 2019", "Ford Focus 2022"]
+    }
+  },
+  {
+    "name": "Rays Steel Wheel",
+    "arabicName": "جنط Steel Rays",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 154.54,
+    "originalPrice": 1274.4,
+    "category": "Wheels",
+    "brand": "Rays",
+    "carBrand": "Chevrolet",
+    "carModel": "Malibu",
+    "year": "2016-2024",
+    "partNumber": "RAY-WH-0881",
+    "sku": "SKU-RAYS-WH-0881",
+    "stock": 111,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUkmtrTnk606rdi6u5EdK5fKHrW5Qu64Qzlw&s"
+    ],
+    "rating": 4.1,
+    "reviews": 124,
+    "discount": 19,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Steel",
+      "size": "19",
+      "boltPattern": "5x114.3",
+      "offset": "ET45",
+      "finish": "Matte Black",
+      "warranty": "2 years",
+      "compatibility": ["Chevrolet Malibu 2019", "Chevrolet Malibu 2022"]
+    }
+  },
+  {
+    "name": "Rotiform Performance Wheel",
+    "arabicName": "جنط Performance Rotiform",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 436.34,
+    "originalPrice": 1262.19,
+    "category": "Wheels",
+    "brand": "Rotiform",
+    "carBrand": "Toyota",
+    "carModel": "Camry",
+    "year": "2016-2024",
+    "partNumber": "ROT-WH-0882",
+    "sku": "SKU-ROTIFORM-WH-0882",
+    "stock": 9,
+    "images": [
+      "https://www.lkperformance.co.uk/media/ProductImage/166563/image/resized/large.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 209,
+    "discount": 21,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Performance",
+      "size": "16",
+      "boltPattern": "5x112",
+      "offset": "ET35",
+      "finish": "Matte Black",
+      "warranty": "3 years",
+      "compatibility": ["Toyota Camry 2019", "Toyota Camry 2022"]
+    }
+  },
+  {
+    "name": "Rays Forged Wheel",
+    "arabicName": "جنط Forged Rays",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 1121.7,
+    "originalPrice": 1251.59,
+    "category": "Wheels",
+    "brand": "Rays",
+    "carBrand": "Toyota",
+    "carModel": "Corolla",
+    "year": "2016-2024",
+    "partNumber": "RAY-WH-0883",
+    "sku": "SKU-RAYS-WH-0883",
+    "stock": 91,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCvYv_4uYWYuvZCbUOmE3MynQnE43eyxsHyQ&s"
+    ],
+    "rating": 4.4,
+    "reviews": 179,
+    "discount": 15,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Forged",
+      "size": "15",
+      "boltPattern": "5x112",
+      "offset": "ET35",
+      "finish": "Silver",
+      "warranty": "1 year",
+      "compatibility": ["Toyota Corolla 2019", "Toyota Corolla 2022"]
+    }
+  },
+   {
+    "name": "OZ Racing Alloy Wheel",
+    "arabicName": "جنط Alloy OZ Racing",
+    "description": "جنوط سبور مصنوعة من الألومنيوم خفيفة الوزن لتحسين الأداء والشكل",
+    "price": 573.59,
+    "originalPrice": 1340.13,
+    "category": "Wheels",
+    "brand": "OZ Racing",
+    "carBrand": "Kia",
+    "carModel": "Cerato",
+    "year": "2016-2024",
+    "partNumber": "OZ -WH-0887",
+    "sku": "SKU-OZ RACING-WH-0887",
+    "stock": 49,
+    "images": [
+      "https://merchandising.demon-tweeks.com/images/tr:h-560,w-560,q-80,c-at_max/media/catalog/product/o/z/oz_superturismoevoluzionecl_360_19.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 174,
+    "discount": 22,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Alloy",
+      "size": "19",
+      "boltPattern": "5x114.3",
+      "offset": "ET40",
+      "finish": "Matte Black",
+      "warranty": "1 year",
+      "compatibility": ["Kia Cerato 2019", "Kia Cerato 2022"]
+    }
+  },
+  {
+    "name": "Borbet Steel Wheel",
+    "arabicName": "جنط Steel Borbet",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 640.14,
+    "originalPrice": 1347.84,
+    "category": "Wheels",
+    "brand": "Borbet",
+    "carBrand": "Volkswagen",
+    "carModel": "Passat",
+    "year": "2016-2024",
+    "partNumber": "BOR-WH-0888",
+    "sku": "SKU-BORBET-WH-0888",
+    "stock": 72,
+    "images": [
+      "https://www.felgenoutlet.com/rims-images/373/535/popup/Felgenstudio_Borbet_DB8GT_18Zoll_Graphite-Rim-Polished_0020.jpg?1753446379"
+    ],
+    "rating": 4.2,
+    "reviews": 223,
+    "discount": 18,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Steel",
+      "size": "19",
+      "boltPattern": "5x112",
+      "offset": "ET35",
+      "finish": "Matte Black",
+      "warranty": "2 years",
+      "compatibility": ["Volkswagen Passat 2019", "Volkswagen Passat 2022"]
+    }
+  },
+  {
+    "name": "OZ Racing Forged Wheel",
+    "arabicName": "جنط Forged OZ Racing",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 290.81,
+    "originalPrice": 1303.01,
+    "category": "Wheels",
+    "brand": "OZ Racing",
+    "carBrand": "Volkswagen",
+    "carModel": "Passat",
+    "year": "2016-2024",
+    "partNumber": "OZ -WH-0889",
+    "sku": "SKU-OZ RACING-WH-0889",
+    "stock": 28,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVb_fls0iSwMtxJxuUL5AoqSHPPtCQawM6ZQ&s"
+    ],
+    "rating": 4.9,
+    "reviews": 256,
+    "discount": 6,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Forged",
+      "size": "16",
+      "boltPattern": "5x114.3",
+      "offset": "ET50",
+      "finish": "Silver",
+      "warranty": "1 year",
+      "compatibility": ["Volkswagen Passat 2019", "Volkswagen Passat 2022"]
+    }
+  },
+  {
+    "name": "BBS Performance Wheel",
+    "arabicName": "جنط Performance BBS",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 613.05,
+    "originalPrice": 1333.66,
+    "category": "Wheels",
+    "brand": "BBS",
+    "carBrand": "Ford",
+    "carModel": "Ranger",
+    "year": "2016-2024",
+    "partNumber": "BBS-WH-0890",
+    "sku": "SKU-BBS-WH-0890",
+    "stock": 71,
+    "images": [
+      "https://s3-us-west-1.amazonaws.com/cdn.wheelenhancement.com/img/product-440x412/CHRII-blk_center_platinum_rim.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 184,
+    "discount": 7,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Performance",
+      "size": "17",
+      "boltPattern": "5x112",
+      "offset": "ET40",
+      "finish": "Silver",
+      "warranty": "3 years",
+      "compatibility": ["Ford Ranger 2019", "Ford Ranger 2022"]
+    }
+  },
+  {
+    "name": "Rotiform Steel Wheel",
+    "arabicName": "جنط Steel Rotiform",
+    "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
+    "price": 679.93,
+    "originalPrice": 1335,
+    "category": "Wheels",
+    "brand": "Rotiform",
+    "carBrand": "BMW",
+    "carModel": "X5",
+    "year": "2016-2024",
+    "partNumber": "ROT-WH-0891",
+    "sku": "SKU-ROTIFORM-WH-0891",
+    "stock": 109,
+    "images": [
+      "https://www.plush-automotive.com/wp-content/uploads/2024/03/las-r-silver.webp"
+    ],
+    "rating": 4.9,
+    "reviews": 116,
+    "discount": 13,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Steel",
+      "size": "17",
+      "boltPattern": "5x112",
+      "offset": "ET45",
+      "finish": "Gunmetal",
+      "warranty": "3 years",
+      "compatibility": ["BMW X5 2019", "BMW X5 2022"]
+    }
+  },
+  {
+    "name": "Rotiform Off Road Wheel",
+    "arabicName": "جنط Off Road Rotiform",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 1052.8,
+    "originalPrice": 1336.16,
+    "category": "Wheels",
+    "brand": "Rotiform",
+    "carBrand": "Ford",
+    "carModel": "Ranger",
+    "year": "2016-2024",
+    "partNumber": "ROT-WH-0892",
+    "sku": "SKU-ROTIFORM-WH-0892",
+    "stock": 65,
+    "images": ["C:\\Users\\m\\OneDrive\\Desktop\\wheels_200\\8092.jpg"],
+    "rating": 4.5,
+    "reviews": 138,
+    "discount": 14,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Off Road",
+      "size": "15",
+      "boltPattern": "5x114.3",
+      "offset": "ET45",
+      "finish": "Silver",
+      "warranty": "1 year",
+      "compatibility": ["Ford Ranger 2019", "Ford Ranger 2022"]
+    }
+  },
+  {
+    "name": "BBS Off Road Wheel",
+    "arabicName": "جنط Off Road BBS",
+    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
+    "price": 334.76,
+    "originalPrice": 1280.72,
+    "category": "Wheels",
+    "brand": "BBS",
+    "carBrand": "Hyundai",
+    "carModel": "Tucson",
+    "year": "2016-2024",
+    "partNumber": "BBS-WH-0893",
+    "sku": "SKU-BBS-WH-0893",
+    "stock": 86,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9UKtFinrD7k56lRRdBOt-sW26oBjslv9OMA&s"
+    ],
+    "rating": 4.4,
+    "reviews": 194,
+    "discount": 22,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Off Road",
+      "size": "17",
+      "boltPattern": "5x112",
+      "offset": "ET35",
+      "finish": "Matte Black",
+      "warranty": "3 years",
+      "compatibility": ["Hyundai Tucson 2019", "Hyundai Tucson 2022"]
+    }
+  },
+  {
+    "name": "Enkei Performance Wheel",
+    "arabicName": "جنط Performance Enkei",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 682.69,
+    "originalPrice": 1301.93,
+    "category": "Wheels",
+    "brand": "Enkei",
+    "carBrand": "Kia",
+    "carModel": "Sportage",
+    "year": "2016-2024",
+    "partNumber": "ENK-WH-0894",
+    "sku": "SKU-ENKEI-WH-0894",
+    "stock": 103,
+    "images": [
+      "https://enkei.com/wp-content/uploads/2024/12/ENKEI-QUASAR-ZP-ANGLE-e1734017015420-400x400.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 53,
+    "discount": 15,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Performance",
+      "size": "17",
+      "boltPattern": "6x139.7",
+      "offset": "ET45",
+      "finish": "Silver",
+      "warranty": "1 year",
+      "compatibility": ["Kia Sportage 2019", "Kia Sportage 2022"]
+    }
+  },
+  {
+    "name": "BBS Forged Wheel",
+    "arabicName": "جنط Forged BBS",
+    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
+    "price": 580.63,
+    "originalPrice": 1271.86,
+    "category": "Wheels",
+    "brand": "BBS",
+    "carBrand": "Mercedes",
+    "carModel": "C-Class",
+    "year": "2016-2024",
+    "partNumber": "BBS-WH-0895",
+    "sku": "SKU-BBS-WH-0895",
+    "stock": 83,
+    "images": [
+      "https://cdn.bbs.com/116/assets/images/products/FI-R-v2/gallery/fir_model_silver.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 77,
+    "discount": 23,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Forged",
+      "size": "19",
+      "boltPattern": "6x139.7",
+      "offset": "ET40",
+      "finish": "Silver",
+      "warranty": "2 years",
+      "compatibility": ["Mercedes C-Class 2019", "Mercedes C-Class 2022"]
+    }
+  },
+  {
+    "name": "Vossen Performance Wheel",
+    "arabicName": "جنط Performance Vossen",
+    "description": "جنوط رياضية مصممة للثبات العالي والسرعات المرتفعة",
+    "price": 893.25,
+    "originalPrice": 1302.02,
+    "category": "Wheels",
+    "brand": "Vossen",
+    "carBrand": "Nissan",
+    "carModel": "Patrol",
+    "year": "2016-2024",
+    "partNumber": "VOS-WH-0896",
+    "sku": "SKU-VOSSEN-WH-0896",
+    "stock": 108,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULOnxxvlHdGz-qRRPFZG70glp2Qt7zI67rg&s"
+    ],
+    "rating": 4.3,
+    "reviews": 114,
+    "discount": 22,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Performance",
+      "size": "16",
+      "boltPattern": "6x139.7",
+      "offset": "ET40",
+      "finish": "Gunmetal",
+      "warranty": "3 years",
+      "compatibility": ["Nissan Patrol 2019", "Nissan Patrol 2022"]
+    }
+  },
+   {
+    "id": 1229,
+    "name": "NGK Radiator",
+    "arabicName": "Radiator NGK",
+    "description": "Radiator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 122.06,
+    "originalPrice": 399.6,
+    "category": "Car Parts",
+    "brand": "NGK",
+    "stock": 250,
+    "images": [
+      "https://m.media-amazon.com/images/I/61af+KIEOhL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 452,
+    "discount": 26,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Mazda 3 2019",
+        "Toyota Corolla 2018"
+      ]
+    }
+  },
+  {
+    "id": 1230,
+    "name": "NGK Radiator",
+    "arabicName": "Radiator NGK",
+    "description": "Radiator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 182.46,
+    "originalPrice": 414,
+    "category": "Car Parts",
+    "brand": "NGK",
+    "stock": 31,
+    "images": [
+      "https://m.media-amazon.com/images/I/61af+KIEOhL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 336,
+    "discount": 10,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Altima 2019",
+        "Kia Cerato 2019"
+      ]
+    }
+  },
+  {
+    "id": 1231,
+    "name": "Mahle Oil Filter",
+    "arabicName": "Oil Filter Mahle",
+    "description": "Oil Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 158.53,
+    "originalPrice": 375.01,
+    "category": "Car Parts",
+    "brand": "Mahle",
+    "stock": 171,
+    "images": [
+      "https://m.media-amazon.com/images/I/71a-4bDVUkL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 100,
+    "discount": 7,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Camry 2018",
+        "Honda Accord 2019"
+      ]
+    }
+  },
+  {
+    "id": 1232,
+    "name": "Denso Oil Filter",
+    "arabicName": "Oil Filter Denso",
+    "description": "Oil Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 282.59,
+    "originalPrice": 410.1,
+    "category": "Car Parts",
+    "brand": "Denso",
+    "stock": 29,
+    "images": [
+      "https://m.media-amazon.com/images/I/71J1sWPbdYL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 106,
+    "discount": 5,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Camry 2018",
+        "Honda Accord 2019"
+      ]
+    }
+  },
+  {
+    "id": 1233,
+    "name": "Valeo Air Filter",
+    "arabicName": "Air Filter Valeo",
+    "description": "Air Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 170.3,
+    "originalPrice": 408.44,
+    "category": "Car Parts",
+    "brand": "Valeo",
+    "stock": 293,
+    "images": [
+      "https://m.media-amazon.com/images/I/71DXdfcbALL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 106,
+    "discount": 14,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Altima 2018",
+        "Subaru Impreza 2019"
+      ]
+    }
+  },
+  {
+    "id": 1234,
+    "name": "Valeo Fuel Pump",
+    "arabicName": "Fuel Pump Valeo",
+    "description": "Fuel Pump عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 48.05,
+    "originalPrice": 390.73,
+    "category": "Car Parts",
+    "brand": "Valeo",
+    "stock": 204,
+    "images": [
+      "https://m.media-amazon.com/images/I/81rCOGu9SpL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 475,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Fuel Pump",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Hyundai Elantra 2020",
+        "Hyundai Elantra 2020"
+      ]
+    }
+  },
+  {
+    "id": 1235,
+    "name": "Bosch Air Filter",
+    "arabicName": "Air Filter Bosch",
+    "description": "Air Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 340.82,
+    "originalPrice": 400.25,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 46,
+    "images": [
+      "https://m.media-amazon.com/images/I/71OcwWjtYDL._AC_SX355_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 155,
+    "discount": 18,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Altima 2018",
+        "Subaru Impreza 2019"
+      ]
+    }
+  },
+  {
+    "id": 1236,
+    "name": "Bosch Spark Plug",
+    "arabicName": "Spark Plug Bosch",
+    "description": "Spark Plug عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 334.81,
+    "originalPrice": 394.95,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 165,
+    "images": [
+      "https://m.media-amazon.com/images/I/71BEZryyVZL._AC_SY450_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 178,
+    "discount": 24,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Prius 2018",
+        "Honda Fit 2019"
+      ]
+    }
+  },
+  {
+    "id": 1237,
+    "name": "Bosch Oil Filter",
+    "arabicName": "Oil Filter Bosch",
+    "description": "Oil Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 205.79,
+    "originalPrice": 378.13,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 188,
+    "images": [
+      "https://m.media-amazon.com/images/I/61zZpX0P+kL._AC_SX450_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 262,
+    "discount": 27,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Camry 2018",
+        "Honda Accord 2019"
+      ]
+    }
+  },
+  {
+    "id": 1238,
+    "name": "Bosch Spark Plug",
+    "arabicName": "Spark Plug Bosch",
+    "description": "Spark Plug عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 30.61,
+    "originalPrice": 391.95,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 34,
+    "images": [
+      "https://m.media-amazon.com/images/I/71BEZryyVZL._AC_SY450_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 10,
+    "discount": 28,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Prius 2018",
+        "Honda Fit 2019"
+      ]
+    }
+  },
+  {
+    "id": 1239,
+    "name": "Denso Fuel Pump",
+    "arabicName": "Fuel Pump Denso",
+    "description": "Fuel Pump عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 270.37,
+    "originalPrice": 410.92,
+    "category": "Car Parts",
+    "brand": "Denso",
+    "stock": 230,
+    "images": [
+      "https://m.media-amazon.com/images/I/71RHKYtg2JL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 210,
+    "discount": 14,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Fuel Pump",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2019",
+        "Kia Cerato 2019"
+      ]
+    }
+  },
+  {
+    "id": 1240,
+    "name": "SKF Air Filter",
+    "arabicName": "Air Filter SKF",
+    "description": "Air Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 125.79,
+    "originalPrice": 415.18,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "stock": 68,
+    "images": [
+      "https://m.media-amazon.com/images/I/61EAYRiFI9L._AC_SY355_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 92,
+    "discount": 21,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Altima 2018",
+        "Subaru Impreza 2019"
+      ]
+    }
+  },
+  {
+    "id": 1241,
+    "name": "Mahle Fuel Pump",
+    "arabicName": "Fuel Pump Mahle",
+    "description": "Fuel Pump عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 186.77,
+    "originalPrice": 412.44,
+    "category": "Car Parts",
+    "brand": "Mahle",
+    "stock": 66,
+    "images": [
+      "https://m.media-amazon.com/images/I/61xiX-mXciL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 69,
+    "discount": 25,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Fuel Pump",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2019",
+        "BMW 320i 2018"
+      ]
+    }
+  },
+  {
+    "id": 1242,
+    "name": "SKF Radiator",
+    "arabicName": "Radiator SKF",
+    "description": "Radiator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 283.2,
+    "originalPrice": 410.55,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "stock": 25,
+    "images": [
+      "https://m.media-amazon.com/images/I/81mYHZyxcEL._AC_SY300_SX300_QL70_ML2_.jpg"
+    ],
+    "rating": 4,
+    "reviews": 233,
+    "discount": 26,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Honda Civic 2020",
+        "Volkswagen Passat 2018"
+      ]
+    }
+  },
+  {
+    "id": 1243,
+    "name": "Mahle Alternator",
+    "arabicName": "Alternator Mahle",
+    "description": "Alternator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 120.9,
+    "originalPrice": 379.8,
+    "category": "Car Parts",
+    "brand": "Mahle",
+    "stock": 354,
+    "images": [
+      "https://m.media-amazon.com/images/I/31R7cSf+iFL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 82,
+    "discount": 24,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Alternator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Skoda Octavia 2019",
+        "Skoda Octavia 2019"
+      ]
+    }
+  },
+  {
+    "id": 1244,
+    "name": "SKF Radiator",
+    "arabicName": "Radiator SKF",
+    "description": "Radiator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 149.13,
+    "originalPrice": 372.72,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "stock": 367,
+    "images": [
+      "https://m.media-amazon.com/images/I/81mYHZyxcEL._AC_SY300_SX300_QL70_ML2_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 67,
+    "discount": 17,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Altima 2019",
+        "Toyota Camry 2019"
+      ]
+    }
+  },
+  {
+    "id": 1245,
+    "name": "SKF Oil Filter",
+    "arabicName": "Oil Filter SKF",
+    "description": "Oil Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 342.17,
+    "originalPrice": 415.17,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "stock": 129,
+    "images": [
+      "https://m.media-amazon.com/images/I/61voXUN5IwL._AC_SY606_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 461,
+    "discount": 29,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Camry 2018",
+        "Honda Accord 2019"
+      ]
+    }
+  },
+  {
+    "id": 1246,
+    "name": "Mahle Oil Filter",
+    "arabicName": "Oil Filter Mahle",
+    "description": "Oil Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 107.91,
+    "originalPrice": 404.1,
+    "category": "Car Parts",
+    "brand": "Mahle",
+    "stock": 310,
+    "images": [
+      "https://m.media-amazon.com/images/I/71a-4bDVUkL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 159,
+    "discount": 30,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Camry 2018",
+        "Honda Accord 2019"
+      ]
+    }
+  },
+  {
+    "id": 1247,
+    "name": "Bosch Air Filter",
+    "arabicName": "Air Filter Bosch",
+    "description": "Air Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 52.01,
+    "originalPrice": 392,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 49,
+    "images": [
+      "https://m.media-amazon.com/images/I/71OcwWjtYDL._AC_SX355_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 151,
+    "discount": 8,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Altima 2018",
+        "Subaru Impreza 2019"
+      ]
+    }
+  },
+  {
+    "id": 1248,
+    "name": "Mahle Alternator",
+    "arabicName": "Alternator Mahle",
+    "description": "Alternator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 323.28,
+    "originalPrice": 375.72,
+    "category": "Car Parts",
+    "brand": "Mahle",
+    "stock": 89,
+    "images": [
+      "https://m.media-amazon.com/images/I/31R7cSf+iFL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 5,
+    "reviews": 563,
+    "discount": 14,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Alternator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2019",
+        "Honda Civic 2020"
+      ]
+    }
+  },
+  {
+    "id": 1249,
+    "name": "SKF Spark Plug",
+    "arabicName": "Spark Plug SKF",
+    "description": "Spark Plug عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 222.45,
+    "originalPrice": 393.14,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "stock": 290,
+    "images": [
+      "https://m.media-amazon.com/images/I/51mewabOn1L._AC_SY300_SX300_QL70_ML2_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 87,
+    "discount": 29,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Prius 2018",
+        "Honda Fit 2019"
+      ]
+    }
+  },
+  {
+    "id": 1250,
+    "name": "Valeo Air Filter",
+    "arabicName": "Air Filter Valeo",
+    "description": "Air Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 58.68,
+    "originalPrice": 376.17,
+    "category": "Car Parts",
+    "brand": "Valeo",
+    "stock": 170,
+    "images": [
+      "https://m.media-amazon.com/images/I/71DXdfcbALL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4,
+    "reviews": 136,
+    "discount": 22,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Altima 2018",
+        "Subaru Impreza 2019"
+      ]
+    }
+  },
+  {
+    "id": 1251,
+    "name": "SKF Alternator",
+    "arabicName": "Alternator SKF",
+    "description": "Alternator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 76.29,
+    "originalPrice": 419.92,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "stock": 378,
+    "images": [
+      "https://m.media-amazon.com/images/I/71FGfk1XZtL._AC_SY355_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 104,
+    "discount": 27,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Alternator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2019",
+        "Audi A4 2020"
+      ]
+    }
+  },
+  {
+    "id": 1252,
+    "name": "Valeo Air Filter",
+    "arabicName": "Air Filter Valeo",
+    "description": "Air Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 17.92,
+    "originalPrice": 384.27,
+    "category": "Car Parts",
+    "brand": "Valeo",
+    "stock": 169,
+    "images": [
+      "https://m.media-amazon.com/images/I/71DXdfcbALL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 6,
+    "discount": 14,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Altima 2018",
+        "Subaru Impreza 2019"
+      ]
+    }
+  },
+  {
+    "id": 1253,
+    "name": "SKF Oil Filter",
+    "arabicName": "Oil Filter SKF",
+    "description": "Oil Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 161.4,
+    "originalPrice": 397.22,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "stock": 309,
+    "images": [
+      "https://m.media-amazon.com/images/I/61voXUN5IwL._AC_SY606_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 340,
+    "discount": 22,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Camry 2018",
+        "Honda Accord 2019"
+      ]
+    }
+  },
+  {
+    "id": 1254,
+    "name": "NGK Radiator",
+    "arabicName": "Radiator NGK",
+    "description": "Radiator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 140.26,
+    "originalPrice": 375.23,
+    "category": "Car Parts",
+    "brand": "NGK",
+    "stock": 29,
+    "images": [
+      "https://m.media-amazon.com/images/I/61af+KIEOhL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 5,
+    "reviews": 422,
+    "discount": 8,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Hyundai Elantra 2020",
+        "Mazda 3 2019"
+      ]
+    }
+  },
+  {
+    "id": 1255,
+    "name": "Bosch Oil Filter",
+    "arabicName": "Oil Filter Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 394.69,
+    "originalPrice": 1078.77,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 229,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 329,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    }
+  },
+  {
+    "id": 1256,
+    "name": "SKF Oil Filter",
+    "arabicName": "Oil Filter SKF",
+    "description": "Oil Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 56.86,
+    "originalPrice": 382.34,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "stock": 252,
+    "images": [
+      "https://m.media-amazon.com/images/I/61voXUN5IwL._AC_SY606_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 55,
+    "discount": 29,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Camry 2018",
+        "Honda Accord 2019"
+      ]
+    }
+  },
+  {
+    "id": 1257,
+    "name": "Denso Fuel Pump",
+    "arabicName": "Fuel Pump Denso",
+    "description": "Fuel Pump عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 256.8,
+    "originalPrice": 371.64,
+    "category": "Car Parts",
+    "brand": "Denso",
+    "stock": 349,
+    "images": [
+      "https://m.media-amazon.com/images/I/71RHKYtg2JL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 41,
+    "discount": 26,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Fuel Pump",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2019",
+        "Mazda 3 2019"
+      ]
+    }
+  },
+  {
+    "id": 1258,
+    "name": "Bosch Alternator",
+    "arabicName": "Alternator Bosch",
+    "description": "Alternator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 331.03,
+    "originalPrice": 385.88,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 161,
+    "images": [
+      "https://m.media-amazon.com/images/I/811toXwTbyL._AC_SY355_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 254,
+    "discount": 27,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Alternator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2019",
+        "Toyota Camry 2019"
+      ]
+    }
+  },
+  {
+    "id": 1259,
+    "name": "Bosch Alternator",
+    "arabicName": "Alternator Bosch",
+    "description": "Alternator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 74,
+    "originalPrice": 376.19,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 220,
+    "images": [
+      "https://m.media-amazon.com/images/I/811toXwTbyL._AC_SY355_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 242,
+    "discount": 6,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Alternator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2019",
+        "Toyota Camry 2019"
+      ]
+    }
+  },
+  {
+    "id": 1260,
+    "name": "Bosch Radiator",
+    "arabicName": "Radiator Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 242.29,
+    "originalPrice": 804.52,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 438,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 257,
+    "discount": 23,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    }
+  },
+  {
+    "id": 1261,
+    "name": "Valeo Radiator",
+    "arabicName": "Radiator Valeo",
+    "description": "Radiator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 165.07,
+    "originalPrice": 399.16,
+    "category": "Car Parts",
+    "brand": "Valeo",
+    "stock": 377,
+    "images": [
+      "https://m.media-amazon.com/images/I/81GNExShbiL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 402,
+    "discount": 18,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Honda Civic 2020",
+        "Honda Accord 2018"
+      ]
+    }
+  },
+  {
+    "id": 1262,
+    "name": "Valeo Air Filter",
+    "arabicName": "Air Filter Valeo",
+    "description": "Air Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 30.61,
+    "originalPrice": 407.23,
+    "category": "Car Parts",
+    "brand": "Valeo",
+    "stock": 119,
+    "images": [
+      "https://m.media-amazon.com/images/I/71DXdfcbALL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 141,
+    "discount": 11,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Altima 2018",
+        "Subaru Impreza 2019"
+      ]
+    }
+  },
+  {
+    "id": 1263,
+    "name": "Mahle Radiator",
+    "arabicName": "Radiator Mahle",
+    "description": "Radiator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 312.87,
+    "originalPrice": 392.61,
+    "category": "Car Parts",
+    "brand": "Mahle",
+    "stock": 327,
+    "images": [
+      "https://m.media-amazon.com/images/I/813GnA63-WL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 193,
+    "discount": 26,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Skoda Octavia 2019",
+        "Toyota Camry 2019"
+      ]
+    }
+  },
+  {
+    "id": 1264,
+    "name": "Denso Radiator",
+    "arabicName": "Radiator Denso",
+    "description": "Radiator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 332.12,
+    "originalPrice": 371.83,
+    "category": "Car Parts",
+    "brand": "Denso",
+    "stock": 108,
+    "images": [
+      "https://m.media-amazon.com/images/I/A17A5sX13xL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 424,
+    "discount": 17,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2019",
+        "Ford Focus 2018"
+      ]
+    }
+  },
+  {
+    "id": 1265,
+    "name": "Febi Radiator",
+    "arabicName": "Radiator Febi",
+    "description": "Radiator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 43.52,
+    "originalPrice": 403.42,
+    "category": "Car Parts",
+    "brand": "Febi",
+    "stock": 257,
+    "images": [
+      "https://m.media-amazon.com/images/I/81-UqM-YRyL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 50,
+    "discount": 21,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Corolla 2018",
+        "Nissan Altima 2019"
+      ]
+    }
+  },
+  {
+    "id": 1266,
+    "name": "NGK Spark Plug",
+    "arabicName": "Spark Plug NGK",
+    "description": "Spark Plug عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 78.49,
+    "originalPrice": 389.88,
+    "category": "Car Parts",
+    "brand": "NGK",
+    "stock": 85,
+    "images": [
+      "https://m.media-amazon.com/images/I/81OoaDcn9oL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 477,
+    "discount": 22,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Prius 2018",
+        "Honda Fit 2019"
+      ]
+    }
+  },
+  {
+    "id": 1267,
+    "name": "SKF Alternator",
+    "arabicName": "Alternator SKF",
+    "description": "Alternator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 246.48,
+    "originalPrice": 407.43,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "stock": 157,
+    "images": [
+      "https://m.media-amazon.com/images/I/71FGfk1XZtL._AC_SY355_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 115,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Alternator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Corolla 2018",
+        "Honda Civic 2020"
+      ]
+    }
+  },
+  {
+    "id": 1268,
+    "name": "Bosch Radiator",
+    "arabicName": "Radiator Bosch",
+    "description": "Radiator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 190.69,
+    "originalPrice": 389.17,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 103,
+    "images": [
+      "https://m.media-amazon.com/images/I/61af+KIEOhL._AC_SY300_SX300_QL70_ML2_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 24,
+    "discount": 11,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2019",
+        "Skoda Octavia 2019"
+      ]
+    }
+  },
+  {
+    "id": 1269,
+    "name": "Valeo Alternator",
+    "arabicName": "Alternator Valeo",
+    "description": "Alternator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 16.99,
+    "originalPrice": 395.11,
+    "category": "Car Parts",
+    "brand": "Valeo",
+    "stock": 362,
+    "images": [
+      "https://m.media-amazon.com/images/I/71nezTWv0QL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 355,
+    "discount": 18,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Alternator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2019",
+        "Skoda Octavia 2019"
+      ]
+    }
+  },
+  {
+    "id": 1270,
+    "name": "SKF Radiator",
+    "arabicName": "Radiator SKF",
+    "description": "Radiator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 252.83,
+    "originalPrice": 370.48,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "stock": 216,
+    "images": [
+      "https://m.media-amazon.com/images/I/81mYHZyxcEL._AC_SY300_SX300_QL70_ML2_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 548,
+    "discount": 5,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2019",
+        "Audi A4 2020"
+      ]
+    }
+  },
+  {
+    "id": 1271,
+    "name": "Febi Radiator",
+    "arabicName": "Radiator Febi",
+    "description": "Radiator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 74.12,
+    "originalPrice": 391.99,
+    "category": "Car Parts",
+    "brand": "Febi",
+    "stock": 249,
+    "images": [
+      "https://m.media-amazon.com/images/I/81-UqM-YRyL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 51,
+    "discount": 19,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Altima 2019",
+        "BMW 320i 2018"
+      ]
+    }
+  },
+  {
+    "id": 1272,
+    "name": "NGK Air Filter",
+    "arabicName": "Air Filter NGK",
+    "description": "Air Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 166.94,
+    "originalPrice": 397.21,
+    "category": "Car Parts",
+    "brand": "NGK",
+    "stock": 197,
+    "images": [
+      "https://m.media-amazon.com/images/I/71bUV9JaN3L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 535,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Altima 2018",
+        "Subaru Impreza 2019"
+      ]
+    }
+  },
+  {
+    "id": 1273,
+    "name": "Denso Oil Filter",
+    "arabicName": "Oil Filter Denso",
+    "description": "Oil Filter عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 89.1,
+    "originalPrice": 397.94,
+    "category": "Car Parts",
+    "brand": "Denso",
+    "stock": 31,
+    "images": [
+      "https://m.media-amazon.com/images/I/71J1sWPbdYL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 216,
+    "discount": 24,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Camry 2018",
+        "Honda Accord 2019"
+      ]
+    }
+  },
+  {
+    "id": 1274,
+    "name": "Valeo Alternator",
+    "arabicName": "Alternator Valeo",
+    "description": "Alternator عالية الجودة لقطع غيار السيارات بأداء موثوق",
+    "price": 17.76,
+    "originalPrice": 408.64,
+    "category": "Car Parts",
+    "brand": "Valeo",
+    "stock": 87,
+    "images": [
+      "https://m.media-amazon.com/images/I/71nezTWv0QL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4,
+    "reviews": 536,
+    "discount": 13,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Alternator",
+      "material": "Generic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Honda Civic 2020",
+        "Volkswagen Passat 2018"
+      ]
+    }
   }
 ]
+
 
 
 
