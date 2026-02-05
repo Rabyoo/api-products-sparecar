@@ -9013,8 +9013,2728 @@
         "Volkswagen Passat 2018"
       ]
     }
+  },
+   {
+    "id": 1001,
+    "name": "K&N Timing Belt",
+    "arabicName": "Timing Belt K&N",
+    "description": "قطعة غيار سيارات عالية الجودة من K&N",
+    "price": 39.95,
+    "originalPrice": 462.93,
+    "category": "Car Parts",
+    "brand": "K&N",
+    "year": "2015-2024",
+    "partNumber": "K&N-MC-0202",
+    "sku": "SKU-K&N-MC-0202",
+    "stock": 157,
+    "images": [
+      "https://m.media-amazon.com/images/I/610tdg0Y16L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 31,
+    "discount": 28,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Timing Belt",
+      "material": "Metal",
+      "warranty": "2 years",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1002,
+    "name": "Bosch Air Filter",
+    "arabicName": "Air Filter Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 304.54,
+    "originalPrice": 712.18,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 243,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 579,
+    "discount": 20,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Corolla 2018",
+        "Toyota Corolla 2021"
+      ]
+    }
+  },
+  {
+    "id": 1003,
+    "name": "Bosch Alternator",
+    "arabicName": "Alternator Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 397.34,
+    "originalPrice": 1057.96,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 426,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 262,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Alternator",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    }
+  },
+  {
+    "id": 1004,
+    "name": "Bosch Brake Disc",
+    "arabicName": "Brake Disc Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 268.84,
+    "originalPrice": 718.18,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 436,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 264,
+    "discount": 10,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    }
+  },
+  {
+    "id": 1005,
+    "name": "SKF Air Filter",
+    "arabicName": "Air Filter SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 292.67,
+    "originalPrice": 453.39,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0206",
+    "sku": "SKU-SKF-MC-0206",
+    "stock": 162,
+    "images": [
+      "https://m.media-amazon.com/images/I/61EAYRiFI9L._AC_SY355_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 37,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1006,
+    "name": "DID Timing Belt",
+    "arabicName": "Timing Belt DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 215.58,
+    "originalPrice": 444.13,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0207",
+    "sku": "SKU-DID-MC-0207",
+    "stock": 177,
+    "images": [
+      "https://m.media-amazon.com/images/I/610t-1+HfIL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 120,
+    "discount": 30,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Timing Belt",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
+  },
+  {
+    "id": 1007,
+    "name": "EBC Car Battery",
+    "arabicName": "Car Battery EBC",
+    "description": "قطعة غيار سيارات عالية الجودة من EBC",
+    "price": 49.48,
+    "originalPrice": 457.54,
+    "category": "Car Parts",
+    "brand": "EBC",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0208",
+    "sku": "SKU-EBC-MC-0208",
+    "stock": 155,
+    "images": [
+      "https://m.media-amazon.com/images/I/61mf6ff1QOL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 154,
+    "discount": 20,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1008,
+    "name": "Bosch Brake Pads",
+    "arabicName": "Brake Pads Bosch",
+    "description": "قطعة غيار سيارات عالية الجودة من Bosch",
+    "price": 39.91,
+    "originalPrice": 444.78,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "year": "2015-2024",
+    "partNumber": "BOS-MC-0209",
+    "sku": "SKU-BOSCH-MC-0209",
+    "stock": 149,
+    "images": [
+      "https://m.media-amazon.com/images/I/81E0DnPZXfL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 61,
+    "discount": 7,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Honda Civic 2018",
+        "Honda Civic 2021"
+      ]
+    },
+    "carBrand": "Honda",
+    "carModel": "Civic"
+  },
+  {
+    "id": 1009,
+    "name": "DID Car Battery",
+    "arabicName": "Car Battery DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 305.2,
+    "originalPrice": 460.89,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0210",
+    "sku": "SKU-DID-MC-0210",
+    "stock": 104,
+    "images": [
+      "https://m.media-amazon.com/images/I/81I3EWa2t8L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 284,
+    "discount": 23,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Honda Civic 2018",
+        "Honda Civic 2021"
+      ]
+    },
+    "carBrand": "Honda",
+    "carModel": "Civic"
+  },
+  {
+    "id": 1010,
+    "name": "DID Wheel Bearing",
+    "arabicName": "Wheel Bearing DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 305.06,
+    "originalPrice": 477.96,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0211",
+    "sku": "SKU-DID-MC-0211",
+    "stock": 15,
+    "images": [
+      "https://m.media-amazon.com/images/I/71Gz+Eiwn7L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 146,
+    "discount": 25,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Wheel Bearing",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
+  },
+  {
+    "id": 1011,
+    "name": "Bosch Brake Pads",
+    "arabicName": "Brake Pads Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 445.1,
+    "originalPrice": 1029.33,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 329,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 410,
+    "discount": 7,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    }
+  },
+  {
+    "id": 1012,
+    "name": "DID Wheel Bearing",
+    "arabicName": "Wheel Bearing DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 244.47,
+    "originalPrice": 451.19,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0213",
+    "sku": "SKU-DID-MC-0213",
+    "stock": 165,
+    "images": [
+      "https://m.media-amazon.com/images/I/71Gz+Eiwn7L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 95,
+    "discount": 27,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Wheel Bearing",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1013,
+    "name": "EBC Brake Disc",
+    "arabicName": "Brake Disc EBC",
+    "description": "قطعة غيار سيارات عالية الجودة من EBC",
+    "price": 310.71,
+    "originalPrice": 452.29,
+    "category": "Car Parts",
+    "brand": "EBC",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0214",
+    "sku": "SKU-EBC-MC-0214",
+    "stock": 161,
+    "images": [
+      "https://m.media-amazon.com/images/I/61d21zYClRL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 296,
+    "discount": 5,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1014,
+    "name": "EBC Oil Filter",
+    "arabicName": "Oil Filter EBC",
+    "description": "قطعة غيار سيارات عالية الجودة من EBC",
+    "price": 143.89,
+    "originalPrice": 464.21,
+    "category": "Car Parts",
+    "brand": "EBC",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0215",
+    "sku": "SKU-EBC-MC-0215",
+    "stock": 41,
+    "images": [
+      "https://m.media-amazon.com/images/I/71d5xvNWe6L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 228,
+    "discount": 7,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    },
+    "carBrand": "Hyundai",
+    "carModel": "Elantra"
+  },
+  {
+    "id": 1015,
+    "name": "Bosch Brake Pads",
+    "arabicName": "Brake Pads Bosch",
+    "description": "قطعة غيار سيارات عالية الجودة من Bosch",
+    "price": 37.37,
+    "originalPrice": 464.22,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "year": "2015-2024",
+    "partNumber": "BOS-MC-0216",
+    "sku": "SKU-BOSCH-MC-0216",
+    "stock": 104,
+    "images": [
+      "https://m.media-amazon.com/images/I/81E0DnPZXfL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 190,
+    "discount": 13,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Metal",
+      "warranty": "2 years",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1016,
+    "name": "Brembo Brake Disc",
+    "arabicName": "Brake Disc Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 272.24,
+    "originalPrice": 452.79,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0217",
+    "sku": "SKU-BREMBO-MC-0217",
+    "stock": 7,
+    "images": [
+      "https://m.media-amazon.com/images/I/61lvk0LtI0L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 118,
+    "discount": 7,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1017,
+    "name": "SKF Brake Disc",
+    "arabicName": "Brake Disc SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 201.52,
+    "originalPrice": 457.24,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0218",
+    "sku": "SKU-SKF-MC-0218",
+    "stock": 130,
+    "images": [
+      "https://m.media-amazon.com/images/I/616sQ2WpALL._AC_SY355_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 157,
+    "discount": 28,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1018,
+    "name": "Bosch Oil Filter",
+    "arabicName": "Oil Filter Bosch",
+    "description": "قطعة غيار سيارات عالية الجودة من Bosch",
+    "price": 183.15,
+    "originalPrice": 448.63,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "year": "2015-2024",
+    "partNumber": "BOS-MC-0219",
+    "sku": "SKU-BOSCH-MC-0219",
+    "stock": 84,
+    "images": [
+      "https://m.media-amazon.com/images/I/61zZpX0P+kL._AC_SX450_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 276,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1019,
+    "name": "Bosch Car Battery",
+    "arabicName": "Car Battery Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 182.78,
+    "originalPrice": 1045.52,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 234,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 377,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    }
+  },
+  {
+    "id": 1020,
+    "name": "K&N Brake Disc",
+    "arabicName": "Brake Disc K&N",
+    "description": "قطعة غيار سيارات عالية الجودة من K&N",
+    "price": 294.43,
+    "originalPrice": 449.69,
+    "category": "Car Parts",
+    "brand": "K&N",
+    "year": "2015-2024",
+    "partNumber": "K&N-MC-0221",
+    "sku": "SKU-K&N-MC-0221",
+    "stock": 42,
+    "images": [
+      "https://m.media-amazon.com/images/I/71wesSLI4CL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 8,
+    "discount": 13,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Ceramic",
+      "warranty": "1 year",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1021,
+    "name": "Brembo Oil Filter",
+    "arabicName": "Oil Filter Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 265.98,
+    "originalPrice": 432.07,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0222",
+    "sku": "SKU-BREMBO-MC-0222",
+    "stock": 176,
+    "images": [
+      "https://m.media-amazon.com/images/I/71J7WGn4YlL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 289,
+    "discount": 30,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Rubber",
+      "warranty": "1 year",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1022,
+    "name": "RK Brake Pads",
+    "arabicName": "Brake Pads RK",
+    "description": "قطعة غيار سيارات عالية الجودة من RK",
+    "price": 191.76,
+    "originalPrice": 466.34,
+    "category": "Car Parts",
+    "brand": "RK",
+    "year": "2015-2024",
+    "partNumber": "RK-MC-0223",
+    "sku": "SKU-RK-MC-0223",
+    "stock": 162,
+    "images": [
+      "https://m.media-amazon.com/images/I/81wScxdT3OL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 29,
+    "discount": 24,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Metal",
+      "warranty": "2 years",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    },
+    "carBrand": "Hyundai",
+    "carModel": "Elantra"
+  },
+  {
+    "id": 1023,
+    "name": "Motul Brake Pads",
+    "arabicName": "Brake Pads Motul",
+    "description": "قطعة غيار سيارات عالية الجودة من Motul",
+    "price": 310.94,
+    "originalPrice": 436.21,
+    "category": "Car Parts",
+    "brand": "Motul",
+    "year": "2015-2024",
+    "partNumber": "MOT-MC-0224",
+    "sku": "SKU-MOTUL-MC-0224",
+    "stock": 10,
+    "images": [
+      "https://m.media-amazon.com/images/I/814khvsWuTL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 79,
+    "discount": 7,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1024,
+    "name": "Yuasa Wheel Bearing",
+    "arabicName": "Wheel Bearing Yuasa",
+    "description": "قطعة غيار سيارات عالية الجودة من Yuasa",
+    "price": 76.74,
+    "originalPrice": 456.74,
+    "category": "Car Parts",
+    "brand": "Yuasa",
+    "year": "2015-2024",
+    "partNumber": "YUA-MC-0225",
+    "sku": "SKU-YUASA-MC-0225",
+    "stock": 51,
+    "images": [
+      "https://m.media-amazon.com/images/I/816lrsy6oLL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 102,
+    "discount": 14,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Wheel Bearing",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    },
+    "carBrand": "Hyundai",
+    "carModel": "Elantra"
+  },
+  {
+    "id": 1025,
+    "name": "SKF Brake Disc",
+    "arabicName": "Brake Disc SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 392.16,
+    "originalPrice": 423.52,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0226",
+    "sku": "SKU-SKF-MC-0226",
+    "stock": 123,
+    "images": [
+      "https://m.media-amazon.com/images/I/616sQ2WpALL._AC_SY355_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 49,
+    "discount": 17,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1026,
+    "name": "Yuasa Car Battery",
+    "arabicName": "Car Battery Yuasa",
+    "description": "قطعة غيار سيارات عالية الجودة من Yuasa",
+    "price": 222.83,
+    "originalPrice": 451.46,
+    "category": "Car Parts",
+    "brand": "Yuasa",
+    "year": "2015-2024",
+    "partNumber": "YUA-MC-0227",
+    "sku": "SKU-YUASA-MC-0227",
+    "stock": 8,
+    "images": [
+      "https://m.media-amazon.com/images/I/81Xjq28x6ZL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 236,
+    "discount": 16,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Corolla 2018",
+        "Toyota Corolla 2021"
+      ]
+    },
+    "carBrand": "Toyota",
+    "carModel": "Corolla"
+  },
+  {
+    "id": 1027,
+    "name": "NGK Air Filter",
+    "arabicName": "Air Filter NGK",
+    "description": "قطعة غيار سيارات عالية الجودة من NGK",
+    "price": 250.78,
+    "originalPrice": 435.37,
+    "category": "Car Parts",
+    "brand": "NGK",
+    "year": "2015-2024",
+    "partNumber": "NGK-MC-0228",
+    "sku": "SKU-NGK-MC-0228",
+    "stock": 101,
+    "images": [
+      "https://m.media-amazon.com/images/I/71bUV9JaN3L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 223,
+    "discount": 6,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1028,
+    "name": "Brembo Oil Filter",
+    "arabicName": "Oil Filter Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 379.44,
+    "originalPrice": 466.84,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0229",
+    "sku": "SKU-BREMBO-MC-0229",
+    "stock": 112,
+    "images": [
+      "https://m.media-amazon.com/images/I/71J7WGn4YlL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 109,
+    "discount": 13,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Ceramic",
+      "warranty": "2 years",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1029,
+    "name": "Brembo Brake Disc",
+    "arabicName": "Brake Disc Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 171.89,
+    "originalPrice": 474.65,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0230",
+    "sku": "SKU-BREMBO-MC-0230",
+    "stock": 140,
+    "images": [
+      "https://m.media-amazon.com/images/I/61lvk0LtI0L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 53,
+    "discount": 23,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Metal",
+      "warranty": "2 years",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1030,
+    "name": "SKF Spark Plug",
+    "arabicName": "Spark Plug SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 298.69,
+    "originalPrice": 444.63,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0231",
+    "sku": "SKU-SKF-MC-0231",
+    "stock": 93,
+    "images": [
+      "https://m.media-amazon.com/images/I/51mewabOn1L._AC_SY300_SX300_QL70_ML2_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 106,
+    "discount": 16,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1031,
+    "name": "EBC Spark Plug",
+    "arabicName": "Spark Plug EBC",
+    "description": "قطعة غيار سيارات عالية الجودة من EBC",
+    "price": 373.64,
+    "originalPrice": 447.91,
+    "category": "Car Parts",
+    "brand": "EBC",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0232",
+    "sku": "SKU-EBC-MC-0232",
+    "stock": 56,
+    "images": [
+      "https://m.media-amazon.com/images/I/61pFoUGx2gL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 146,
+    "discount": 19,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Ceramic",
+      "warranty": "2 years",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1032,
+    "name": "Yuasa Car Battery",
+    "arabicName": "Car Battery Yuasa",
+    "description": "قطعة غيار سيارات عالية الجودة من Yuasa",
+    "price": 229.18,
+    "originalPrice": 420.42,
+    "category": "Car Parts",
+    "brand": "Yuasa",
+    "year": "2015-2024",
+    "partNumber": "YUA-MC-0233",
+    "sku": "SKU-YUASA-MC-0233",
+    "stock": 174,
+    "images": [
+      "https://m.media-amazon.com/images/I/81Xjq28x6ZL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 178,
+    "discount": 5,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Ceramic",
+      "warranty": "1 year",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1033,
+    "name": "SKF Timing Belt",
+    "arabicName": "Timing Belt SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 343.84,
+    "originalPrice": 471.47,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0234",
+    "sku": "SKU-SKF-MC-0234",
+    "stock": 48,
+    "images": [
+      "https://m.media-amazon.com/images/I/71ENAl3v9LL._AC_SY355_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 211,
+    "discount": 14,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Timing Belt",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1034,
+    "name": "SKF Air Filter",
+    "arabicName": "Air Filter SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 294.97,
+    "originalPrice": 430.83,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0235",
+    "sku": "SKU-SKF-MC-0235",
+    "stock": 38,
+    "images": [
+      "https://m.media-amazon.com/images/I/61EAYRiFI9L._AC_SY355_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 232,
+    "discount": 14,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1035,
+    "name": "DID Timing Belt",
+    "arabicName": "Timing Belt DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 333.46,
+    "originalPrice": 420.41,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0236",
+    "sku": "SKU-DID-MC-0236",
+    "stock": 12,
+    "images": [
+      "https://m.media-amazon.com/images/I/610t-1+HfIL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 278,
+    "discount": 16,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Timing Belt",
+      "material": "Rubber",
+      "warranty": "1 year",
+      "compatibility": [
+        "Toyota Corolla 2018",
+        "Toyota Corolla 2021"
+      ]
+    },
+    "carBrand": "Toyota",
+    "carModel": "Corolla"
+  },
+  {
+    "id": 1036,
+    "name": "Bosch Oil Filter",
+    "arabicName": "Oil Filter Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 172.16,
+    "originalPrice": 1160.73,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 172,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 625,
+    "discount": 28,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    }
+  },
+  {
+    "id": 1037,
+    "name": "DID Brake Pads",
+    "arabicName": "Brake Pads DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 268.86,
+    "originalPrice": 435.43,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0238",
+    "sku": "SKU-DID-MC-0238",
+    "stock": 100,
+    "images": [
+      "https://m.media-amazon.com/images/I/61feuOqqnhL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 145,
+    "discount": 29,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
+  },
+  {
+    "id": 1038,
+    "name": "Bosch Radiator",
+    "arabicName": "Radiator Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 306.75,
+    "originalPrice": 680.3,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 283,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 276,
+    "discount": 22,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Radiator",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Honda Civic 2018",
+        "Honda Civic 2021"
+      ]
+    }
+  },
+  {
+    "id": 1039,
+    "name": "EBC Oil Filter",
+    "arabicName": "Oil Filter EBC",
+    "description": "قطعة غيار سيارات عالية الجودة من EBC",
+    "price": 62.15,
+    "originalPrice": 434.44,
+    "category": "Car Parts",
+    "brand": "EBC",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0240",
+    "sku": "SKU-EBC-MC-0240",
+    "stock": 18,
+    "images": [
+      "https://m.media-amazon.com/images/I/71d5xvNWe6L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 161,
+    "discount": 24,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1040,
+    "name": "Brembo Spark Plug",
+    "arabicName": "Spark Plug Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 136.6,
+    "originalPrice": 452.46,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0241",
+    "sku": "SKU-BREMBO-MC-0241",
+    "stock": 165,
+    "images": [
+      "https://m.media-amazon.com/images/I/51J38TxzzTL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 230,
+    "discount": 16,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Ceramic",
+      "warranty": "1 year",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
+  },
+  {
+    "id": 1041,
+    "name": "Brembo Car Battery",
+    "arabicName": "Car Battery Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 228.48,
+    "originalPrice": 476,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0242",
+    "sku": "SKU-BREMBO-MC-0242",
+    "stock": 100,
+    "images": [
+      "https://m.media-amazon.com/images/I/71jGGVwUxIL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 260,
+    "discount": 9,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1042,
+    "name": "RK Air Filter",
+    "arabicName": "Air Filter RK",
+    "description": "قطعة غيار سيارات عالية الجودة من RK",
+    "price": 115.29,
+    "originalPrice": 430.38,
+    "category": "Car Parts",
+    "brand": "RK",
+    "year": "2015-2024",
+    "partNumber": "RK-MC-0243",
+    "sku": "SKU-RK-MC-0243",
+    "stock": 9,
+    "images": [
+      "https://m.media-amazon.com/images/I/61HsygABK+L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 5,
+    "reviews": 241,
+    "discount": 15,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1043,
+    "name": "Motul Timing Belt",
+    "arabicName": "Timing Belt Motul",
+    "description": "قطعة غيار سيارات عالية الجودة من Motul",
+    "price": 30.24,
+    "originalPrice": 468.59,
+    "category": "Car Parts",
+    "brand": "Motul",
+    "year": "2015-2024",
+    "partNumber": "MOT-MC-0244",
+    "sku": "SKU-MOTUL-MC-0244",
+    "stock": 64,
+    "images": [
+      "https://m.media-amazon.com/images/I/51AF6wlSKUS._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 274,
+    "discount": 21,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Timing Belt",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
+  },
+  {
+    "id": 1044,
+    "name": "EBC Oil Filter",
+    "arabicName": "Oil Filter EBC",
+    "description": "قطعة غيار سيارات عالية الجودة من EBC",
+    "price": 77.07,
+    "originalPrice": 465.64,
+    "category": "Car Parts",
+    "brand": "EBC",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0245",
+    "sku": "SKU-EBC-MC-0245",
+    "stock": 172,
+    "images": [
+      "https://m.media-amazon.com/images/I/71d5xvNWe6L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 284,
+    "discount": 29,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1045,
+    "name": "SKF Brake Disc",
+    "arabicName": "Brake Disc SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 65.16,
+    "originalPrice": 466.01,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0246",
+    "sku": "SKU-SKF-MC-0246",
+    "stock": 128,
+    "images": [
+      "https://m.media-amazon.com/images/I/616sQ2WpALL._AC_SY355_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 27,
+    "discount": 12,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1046,
+    "name": "SKF Air Filter",
+    "arabicName": "Air Filter SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 215.01,
+    "originalPrice": 448.81,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0247",
+    "sku": "SKU-SKF-MC-0247",
+    "stock": 58,
+    "images": [
+      "https://m.media-amazon.com/images/I/61EAYRiFI9L._AC_SY355_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 172,
+    "discount": 13,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Rubber",
+      "warranty": "1 year",
+      "compatibility": [
+        "Toyota Corolla 2018",
+        "Toyota Corolla 2021"
+      ]
+    },
+    "carBrand": "Toyota",
+    "carModel": "Corolla"
+  },
+  {
+    "id": 1047,
+    "name": "Brembo Air Filter",
+    "arabicName": "Air Filter Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 228.34,
+    "originalPrice": 446.61,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0248",
+    "sku": "SKU-BREMBO-MC-0248",
+    "stock": 147,
+    "images": [
+      "https://m.media-amazon.com/images/I/71pbqxxNEPL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 112,
+    "discount": 29,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Rubber",
+      "warranty": "1 year",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1048,
+    "name": "Bosch Air Filter",
+    "arabicName": "Air Filter Bosch",
+    "description": "قطعة غيار سيارات عالية الجودة من Bosch",
+    "price": 368.49,
+    "originalPrice": 445.63,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "year": "2015-2024",
+    "partNumber": "BOS-MC-0249",
+    "sku": "SKU-BOSCH-MC-0249",
+    "stock": 8,
+    "images": [
+      "https://m.media-amazon.com/images/I/71OcwWjtYDL._AC_SX355_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 96,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    },
+    "carBrand": "Hyundai",
+    "carModel": "Elantra"
+  },
+  {
+    "id": 1049,
+    "name": "SKF Brake Disc",
+    "arabicName": "Brake Disc SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 351.93,
+    "originalPrice": 459.47,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0250",
+    "sku": "SKU-SKF-MC-0250",
+    "stock": 39,
+    "images": [
+      "https://m.media-amazon.com/images/I/616sQ2WpALL._AC_SY355_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 24,
+    "discount": 16,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Metal",
+      "warranty": "2 years",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1050,
+    "name": "RK Air Filter",
+    "arabicName": "Air Filter RK",
+    "description": "قطعة غيار سيارات عالية الجودة من RK",
+    "price": 99.83,
+    "originalPrice": 463.02,
+    "category": "Car Parts",
+    "brand": "RK",
+    "year": "2015-2024",
+    "partNumber": "RK-MC-0251",
+    "sku": "SKU-RK-MC-0251",
+    "stock": 39,
+    "images": [
+      "https://m.media-amazon.com/images/I/61HsygABK+L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 112,
+    "discount": 18,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1051,
+    "name": "Motul Brake Pads",
+    "arabicName": "Brake Pads Motul",
+    "description": "قطعة غيار سيارات عالية الجودة من Motul",
+    "price": 363.75,
+    "originalPrice": 465.38,
+    "category": "Car Parts",
+    "brand": "Motul",
+    "year": "2015-2024",
+    "partNumber": "MOT-MC-0252",
+    "sku": "SKU-MOTUL-MC-0252",
+    "stock": 161,
+    "images": [
+      "https://m.media-amazon.com/images/I/814khvsWuTL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 202,
+    "discount": 17,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1052,
+    "name": "NGK Oil Filter",
+    "arabicName": "Oil Filter NGK",
+    "description": "قطعة غيار سيارات عالية الجودة من NGK",
+    "price": 63.74,
+    "originalPrice": 453.1,
+    "category": "Car Parts",
+    "brand": "NGK",
+    "year": "2015-2024",
+    "partNumber": "NGK-MC-0253",
+    "sku": "SKU-NGK-MC-0253",
+    "stock": 171,
+    "images": [
+      "https://m.media-amazon.com/images/I/71GEtDlmYhL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 43,
+    "discount": 20,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    },
+    "carBrand": "Hyundai",
+    "carModel": "Elantra"
+  },
+  {
+    "id": 1053,
+    "name": "SKF Timing Belt",
+    "arabicName": "Timing Belt SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 233.23,
+    "originalPrice": 468.2,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0254",
+    "sku": "SKU-SKF-MC-0254",
+    "stock": 163,
+    "images": [
+      "https://m.media-amazon.com/images/I/71ENAl3v9LL._AC_SY355_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 162,
+    "discount": 29,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Timing Belt",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    },
+    "carBrand": "Hyundai",
+    "carModel": "Elantra"
+  },
+  {
+    "id": 1054,
+    "name": "Bosch Car Battery",
+    "arabicName": "Car Battery Bosch",
+    "description": "قطعة غيار سيارات عالية الجودة من Bosch",
+    "price": 18.18,
+    "originalPrice": 475.24,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "year": "2015-2024",
+    "partNumber": "BOS-MC-0255",
+    "sku": "SKU-BOSCH-MC-0255",
+    "stock": 165,
+    "images": [
+      "https://m.media-amazon.com/images/I/61PGG4PJIcL._AC_SX355_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 105,
+    "discount": 5,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1055,
+    "name": "Motul Brake Disc",
+    "arabicName": "Brake Disc Motul",
+    "description": "قطعة غيار سيارات عالية الجودة من Motul",
+    "price": 118.8,
+    "originalPrice": 452.41,
+    "category": "Car Parts",
+    "brand": "Motul",
+    "year": "2015-2024",
+    "partNumber": "MOT-MC-0256",
+    "sku": "SKU-MOTUL-MC-0256",
+    "stock": 117,
+    "images": [
+      "https://m.media-amazon.com/images/I/61d21zYClRL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4,
+    "reviews": 191,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1056,
+    "name": "NGK Oil Filter",
+    "arabicName": "Oil Filter NGK",
+    "description": "قطعة غيار سيارات عالية الجودة من NGK",
+    "price": 126,
+    "originalPrice": 435.51,
+    "category": "Car Parts",
+    "brand": "NGK",
+    "year": "2015-2024",
+    "partNumber": "NGK-MC-0257",
+    "sku": "SKU-NGK-MC-0257",
+    "stock": 165,
+    "images": [
+      "https://m.media-amazon.com/images/I/71GEtDlmYhL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 207,
+    "discount": 9,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": [
+        "Honda Civic 2018",
+        "Honda Civic 2021"
+      ]
+    },
+    "carBrand": "Honda",
+    "carModel": "Civic"
+  },
+  {
+    "id": 1057,
+    "name": "Brembo Wheel Bearing",
+    "arabicName": "Wheel Bearing Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 41.6,
+    "originalPrice": 443.58,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0258",
+    "sku": "SKU-BREMBO-MC-0258",
+    "stock": 113,
+    "images": [
+      "https://m.media-amazon.com/images/I/81todz0RlyL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 32,
+    "discount": 12,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Wheel Bearing",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1058,
+    "name": "Bosch Air Filter",
+    "arabicName": "Air Filter Bosch",
+    "description": "قطعة غيار سيارات عالية الجودة من Bosch",
+    "price": 317.27,
+    "originalPrice": 467.14,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "year": "2015-2024",
+    "partNumber": "BOS-MC-0259",
+    "sku": "SKU-BOSCH-MC-0259",
+    "stock": 112,
+    "images": [
+      "https://m.media-amazon.com/images/I/71OcwWjtYDL._AC_SX355_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 95,
+    "discount": 24,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Rubber",
+      "warranty": "1 year",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
+  },
+  {
+    "id": 1059,
+    "name": "NGK Wheel Bearing",
+    "arabicName": "Wheel Bearing NGK",
+    "description": "قطعة غيار سيارات عالية الجودة من NGK",
+    "price": 283.8,
+    "originalPrice": 472.17,
+    "category": "Car Parts",
+    "brand": "NGK",
+    "year": "2015-2024",
+    "partNumber": "NGK-MC-0260",
+    "sku": "SKU-NGK-MC-0260",
+    "stock": 135,
+    "images": [
+      "https://m.media-amazon.com/images/I/81My9pItDAL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 56,
+    "discount": 27,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Wheel Bearing",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1060,
+    "name": "K&N Spark Plug",
+    "arabicName": "Spark Plug K&N",
+    "description": "قطعة غيار سيارات عالية الجودة من K&N",
+    "price": 259.09,
+    "originalPrice": 469.06,
+    "category": "Car Parts",
+    "brand": "K&N",
+    "year": "2015-2024",
+    "partNumber": "K&N-MC-0261",
+    "sku": "SKU-K&N-MC-0261",
+    "stock": 41,
+    "images": [
+      "https://m.media-amazon.com/images/I/512S8RascDL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 124,
+    "discount": 23,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
+  },
+  {
+    "id": 1061,
+    "name": "Bosch Wheel Bearing",
+    "arabicName": "Wheel Bearing Bosch",
+    "description": "قطعة غيار سيارات عالية الجودة من Bosch",
+    "price": 44.48,
+    "originalPrice": 461.04,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "year": "2015-2024",
+    "partNumber": "BOS-MC-0262",
+    "sku": "SKU-BOSCH-MC-0262",
+    "stock": 122,
+    "images": [
+      "https://m.media-amazon.com/images/I/61Di4Rv6csL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 92,
+    "discount": 26,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Wheel Bearing",
+      "material": "Ceramic",
+      "warranty": "2 years",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1062,
+    "name": "NGK Timing Belt",
+    "arabicName": "Timing Belt NGK",
+    "description": "قطعة غيار سيارات عالية الجودة من NGK",
+    "price": 81.24,
+    "originalPrice": 474.12,
+    "category": "Car Parts",
+    "brand": "NGK",
+    "year": "2015-2024",
+    "partNumber": "NGK-MC-0263",
+    "sku": "SKU-NGK-MC-0263",
+    "stock": 147,
+    "images": [
+      "https://m.media-amazon.com/images/I/71Aez+39NsL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 17,
+    "discount": 10,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Timing Belt",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1063,
+    "name": "Brembo Car Battery",
+    "arabicName": "Car Battery Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 343.48,
+    "originalPrice": 437,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0264",
+    "sku": "SKU-BREMBO-MC-0264",
+    "stock": 96,
+    "images": [
+      "https://m.media-amazon.com/images/I/71jGGVwUxIL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 124,
+    "discount": 13,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Ceramic",
+      "warranty": "1 year",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    },
+    "carBrand": "Hyundai",
+    "carModel": "Elantra"
+  },
+  {
+    "id": 1064,
+    "name": "K&N Spark Plug",
+    "arabicName": "Spark Plug K&N",
+    "description": "قطعة غيار سيارات عالية الجودة من K&N",
+    "price": 353.12,
+    "originalPrice": 476.53,
+    "category": "Car Parts",
+    "brand": "K&N",
+    "year": "2015-2024",
+    "partNumber": "K&N-MC-0265",
+    "sku": "SKU-K&N-MC-0265",
+    "stock": 98,
+    "images": [
+      "https://m.media-amazon.com/images/I/512S8RascDL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 129,
+    "discount": 13,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1065,
+    "name": "Bosch Air Filter",
+    "arabicName": "Air Filter Bosch",
+    "description": "قطعة غيار سيارات عالية الجودة من Bosch",
+    "price": 282.92,
+    "originalPrice": 447.67,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "year": "2015-2024",
+    "partNumber": "BOS-MC-0266",
+    "sku": "SKU-BOSCH-MC-0266",
+    "stock": 83,
+    "images": [
+      "https://m.media-amazon.com/images/I/71OcwWjtYDL._AC_SX355_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 142,
+    "discount": 29,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Corolla 2018",
+        "Toyota Corolla 2021"
+      ]
+    },
+    "carBrand": "Toyota",
+    "carModel": "Corolla"
+  },
+  {
+    "id": 1066,
+    "name": "Yuasa Brake Disc",
+    "arabicName": "Brake Disc Yuasa",
+    "description": "قطعة غيار سيارات عالية الجودة من Yuasa",
+    "price": 124.37,
+    "originalPrice": 433.08,
+    "category": "Car Parts",
+    "brand": "Yuasa",
+    "year": "2015-2024",
+    "partNumber": "YUA-MC-0267",
+    "sku": "SKU-YUASA-MC-0267",
+    "stock": 73,
+    "images": [
+      "https://m.media-amazon.com/images/I/61dRzIZK78L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 115,
+    "discount": 9,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Metal",
+      "warranty": "2 years",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1067,
+    "name": "Yuasa Brake Disc",
+    "arabicName": "Brake Disc Yuasa",
+    "description": "قطعة غيار سيارات عالية الجودة من Yuasa",
+    "price": 352.86,
+    "originalPrice": 447.43,
+    "category": "Car Parts",
+    "brand": "Yuasa",
+    "year": "2015-2024",
+    "partNumber": "YUA-MC-0268",
+    "sku": "SKU-YUASA-MC-0268",
+    "stock": 89,
+    "images": [
+      "https://m.media-amazon.com/images/I/61dRzIZK78L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 160,
+    "discount": 29,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Rubber",
+      "warranty": "1 year",
+      "compatibility": [
+        "Honda Civic 2018",
+        "Honda Civic 2021"
+      ]
+    },
+    "carBrand": "Honda",
+    "carModel": "Civic"
+  },
+  {
+    "id": 1068,
+    "name": "Yuasa Air Filter",
+    "arabicName": "Air Filter Yuasa",
+    "description": "قطعة غيار سيارات عالية الجودة من Yuasa",
+    "price": 37.88,
+    "originalPrice": 479.5,
+    "category": "Car Parts",
+    "brand": "Yuasa",
+    "year": "2015-2024",
+    "partNumber": "YUA-MC-0269",
+    "sku": "SKU-YUASA-MC-0269",
+    "stock": 15,
+    "images": [
+      "https://m.media-amazon.com/images/I/51sTrJ0d27L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 276,
+    "discount": 15,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Ceramic",
+      "warranty": "6 months",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    },
+    "carBrand": "Chevrolet",
+    "carModel": "Optra"
+  },
+  {
+    "id": 1069,
+    "name": "EBC Spark Plug",
+    "arabicName": "Spark Plug EBC",
+    "description": "قطعة غيار سيارات عالية الجودة من EBC",
+    "price": 391.77,
+    "originalPrice": 479.69,
+    "category": "Car Parts",
+    "brand": "EBC",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0270",
+    "sku": "SKU-EBC-MC-0270",
+    "stock": 25,
+    "images": [
+      "https://m.media-amazon.com/images/I/61pFoUGx2gL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 107,
+    "discount": 11,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Rubber",
+      "warranty": "1 year",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1070,
+    "name": "K&N Oil Filter",
+    "arabicName": "Oil Filter K&N",
+    "description": "قطعة غيار سيارات عالية الجودة من K&N",
+    "price": 281.85,
+    "originalPrice": 454.43,
+    "category": "Car Parts",
+    "brand": "K&N",
+    "year": "2015-2024",
+    "partNumber": "K&N-MC-0271",
+    "sku": "SKU-K&N-MC-0271",
+    "stock": 88,
+    "images": [
+      "https://m.media-amazon.com/images/I/71qizWqTimL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 186,
+    "discount": 23,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Metal",
+      "warranty": "1 year",
+      "compatibility": [
+        "Hyundai Elantra 2018",
+        "Hyundai Elantra 2021"
+      ]
+    },
+    "carBrand": "Hyundai",
+    "carModel": "Elantra"
+  },
+  {
+    "id": 1071,
+    "name": "Bosch Spark Plug",
+    "arabicName": "Spark Plug Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 400.1,
+    "originalPrice": 905.14,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 482,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 644,
+    "discount": 25,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    }
+  },
+  {
+    "id": 1072,
+    "name": "K&N Car Battery",
+    "arabicName": "Car Battery K&N",
+    "description": "قطعة غيار سيارات عالية الجودة من K&N",
+    "price": 362.11,
+    "originalPrice": 422.57,
+    "category": "Car Parts",
+    "brand": "K&N",
+    "year": "2015-2024",
+    "partNumber": "K&N-MC-0273",
+    "sku": "SKU-K&N-MC-0273",
+    "stock": 64,
+    "images": [
+      "https://m.media-amazon.com/images/I/71RCs9f8ULL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 134,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Rubber",
+      "warranty": "1 year",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1073,
+    "name": "Bosch Timing Belt",
+    "arabicName": "Timing Belt Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 483.66,
+    "originalPrice": 831.23,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 352,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 190,
+    "discount": 7,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Timing Belt",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Chevrolet Optra 2018",
+        "Chevrolet Optra 2021"
+      ]
+    }
+  },
+  {
+    "id": 1074,
+    "name": "Bosch Wheel Bearing",
+    "arabicName": "Wheel Bearing Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 374.77,
+    "originalPrice": 779.9,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 28,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 464,
+    "discount": 6,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Wheel Bearing",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    }
+  },
+  {
+    "id": 1075,
+    "name": "DID Car Battery",
+    "arabicName": "Car Battery DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 166.61,
+    "originalPrice": 477.89,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0276",
+    "sku": "SKU-DID-MC-0276",
+    "stock": 158,
+    "images": [
+      "https://m.media-amazon.com/images/I/81I3EWa2t8L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 237,
+    "discount": 25,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Ceramic",
+      "warranty": "2 years",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
+  },
+  {
+    "id": 1076,
+    "name": "SKF Wheel Bearing",
+    "arabicName": "Wheel Bearing SKF",
+    "description": "قطعة غيار سيارات عالية الجودة من SKF",
+    "price": 388.62,
+    "originalPrice": 478.04,
+    "category": "Car Parts",
+    "brand": "SKF",
+    "year": "2015-2024",
+    "partNumber": "SKF-MC-0277",
+    "sku": "SKU-SKF-MC-0277",
+    "stock": 7,
+    "images": [
+      "https://m.media-amazon.com/images/I/7163gIJroRL._AC_SX300_SY300_QL70_ML2_.jpg"
+    ],
+    "rating": 5,
+    "reviews": 133,
+    "discount": 9,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Wheel Bearing",
+      "material": "Metal",
+      "warranty": "2 years",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
+  },
+  {
+    "id": 1077,
+    "name": "DID Spark Plug",
+    "arabicName": "Spark Plug DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 367.27,
+    "originalPrice": 441.06,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0278",
+    "sku": "SKU-DID-MC-0278",
+    "stock": 61,
+    "images": [
+      "https://m.media-amazon.com/images/I/613Bn1PG5VL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 224,
+    "discount": 27,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Honda Civic 2018",
+        "Honda Civic 2021"
+      ]
+    },
+    "carBrand": "Honda",
+    "carModel": "Civic"
+  },
+  {
+    "id": 1078,
+    "name": "K&N Air Filter",
+    "arabicName": "Air Filter K&N",
+    "description": "قطعة غيار سيارات عالية الجودة من K&N",
+    "price": 395.92,
+    "originalPrice": 473.6,
+    "category": "Car Parts",
+    "brand": "K&N",
+    "year": "2015-2024",
+    "partNumber": "K&N-MC-0279",
+    "sku": "SKU-K&N-MC-0279",
+    "stock": 180,
+    "images": [
+      "https://m.media-amazon.com/images/I/81aH6LHxaSL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 27,
+    "discount": 25,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Honda Civic 2018",
+        "Honda Civic 2021"
+      ]
+    },
+    "carBrand": "Honda",
+    "carModel": "Civic"
+  },
+  {
+    "id": 1079,
+    "name": "Yuasa Timing Belt",
+    "arabicName": "Timing Belt Yuasa",
+    "description": "قطعة غيار سيارات عالية الجودة من Yuasa",
+    "price": 91.1,
+    "originalPrice": 435.94,
+    "category": "Car Parts",
+    "brand": "Yuasa",
+    "year": "2015-2024",
+    "partNumber": "YUA-MC-0280",
+    "sku": "SKU-YUASA-MC-0280",
+    "stock": 19,
+    "images": [
+      "https://m.media-amazon.com/images/I/61BpKZS9vXL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 28,
+    "discount": 19,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Timing Belt",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Volkswagen Passat 2018",
+        "Volkswagen Passat 2021"
+      ]
+    },
+    "carBrand": "Volkswagen",
+    "carModel": "Passat"
+  },
+  {
+    "id": 1080,
+    "name": "Brembo Spark Plug",
+    "arabicName": "Spark Plug Brembo",
+    "description": "قطعة غيار سيارات عالية الجودة من Brembo",
+    "price": 27.78,
+    "originalPrice": 444.57,
+    "category": "Car Parts",
+    "brand": "Brembo",
+    "year": "2015-2024",
+    "partNumber": "BRE-MC-0281",
+    "sku": "SKU-BREMBO-MC-0281",
+    "stock": 8,
+    "images": [
+      "https://m.media-amazon.com/images/I/51J38TxzzTL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 275,
+    "discount": 9,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Ford Focus 2018",
+        "Ford Focus 2021"
+      ]
+    },
+    "carBrand": "Ford",
+    "carModel": "Focus"
+  },
+  {
+    "id": 1081,
+    "name": "EBC Oil Filter",
+    "arabicName": "Oil Filter EBC",
+    "description": "قطعة غيار سيارات عالية الجودة من EBC",
+    "price": 104.64,
+    "originalPrice": 441.86,
+    "category": "Car Parts",
+    "brand": "EBC",
+    "year": "2015-2024",
+    "partNumber": "EBC-MC-0282",
+    "sku": "SKU-EBC-MC-0282",
+    "stock": 150,
+    "images": [
+      "https://m.media-amazon.com/images/I/71d5xvNWe6L._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 157,
+    "discount": 7,
+    "isFeatured": true,
+    "specifications": {
+      "type": "Oil Filter",
+      "material": "Ceramic",
+      "warranty": "2 years",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1082,
+    "name": "Bosch Air Filter",
+    "arabicName": "Air Filter Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 414.23,
+    "originalPrice": 1139.34,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 303,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 94,
+    "discount": 22,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Air Filter",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Honda Civic 2018",
+        "Honda Civic 2021"
+      ]
+    }
+  },
+  {
+    "id": 1083,
+    "name": "Bosch Alternator",
+    "arabicName": "Alternator Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 222.04,
+    "originalPrice": 681.18,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 292,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 93,
+    "discount": 22,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Alternator",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Toyota Corolla 2018",
+        "Toyota Corolla 2021"
+      ]
+    }
+  },
+  {
+    "id": 1084,
+    "name": "RK Brake Pads",
+    "arabicName": "Brake Pads RK",
+    "description": "قطعة غيار سيارات عالية الجودة من RK",
+    "price": 276.36,
+    "originalPrice": 462.8,
+    "category": "Car Parts",
+    "brand": "RK",
+    "year": "2015-2024",
+    "partNumber": "RK-MC-0285",
+    "sku": "SKU-RK-MC-0285",
+    "stock": 86,
+    "images": [
+      "https://m.media-amazon.com/images/I/81wScxdT3OL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 71,
+    "discount": 6,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Pads",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Nissan Sunny 2018",
+        "Nissan Sunny 2021"
+      ]
+    },
+    "carBrand": "Nissan",
+    "carModel": "Sunny"
+  },
+  {
+    "id": 1085,
+    "name": "Bosch Brake Disc",
+    "arabicName": "Brake Disc Bosch",
+    "description": "قطعة غيار سيارات أصلية من Bosch بجودة عالية",
+    "price": 222.58,
+    "originalPrice": 864.03,
+    "category": "Car Parts",
+    "brand": "Bosch",
+    "stock": 167,
+    "images": [
+      "https://m.media-amazon.com/images/I/61rvAETWgpL._AC_SX355_.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 532,
+    "discount": 12,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Brake Disc",
+      "material": "Metal",
+      "warranty": "6 months",
+      "compatibility": [
+        "Honda Civic 2018",
+        "Honda Civic 2021"
+      ]
+    }
+  },
+  {
+    "id": 1086,
+    "name": "RK Car Battery",
+    "arabicName": "Car Battery RK",
+    "description": "قطعة غيار سيارات عالية الجودة من RK",
+    "price": 122.64,
+    "originalPrice": 464.76,
+    "category": "Car Parts",
+    "brand": "RK",
+    "year": "2015-2024",
+    "partNumber": "RK-MC-0287",
+    "sku": "SKU-RK-MC-0287",
+    "stock": 20,
+    "images": [
+      "https://m.media-amazon.com/images/I/51hgTkrRnvL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 270,
+    "discount": 27,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Car Battery",
+      "material": "Rubber",
+      "warranty": "2 years",
+      "compatibility": [
+        "Toyota Corolla 2018",
+        "Toyota Corolla 2021"
+      ]
+    },
+    "carBrand": "Toyota",
+    "carModel": "Corolla"
+  },
+  {
+    "id": 1087,
+    "name": "DID Spark Plug",
+    "arabicName": "Spark Plug DID",
+    "description": "قطعة غيار سيارات عالية الجودة من DID",
+    "price": 383.93,
+    "originalPrice": 465.03,
+    "category": "Car Parts",
+    "brand": "DID",
+    "year": "2015-2024",
+    "partNumber": "DID-MC-0288",
+    "sku": "SKU-DID-MC-0288",
+    "stock": 71,
+    "images": [
+      "https://m.media-amazon.com/images/I/613Bn1PG5VL._AC_UL480_FMwebp_QL65_.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 189,
+    "discount": 8,
+    "isFeatured": false,
+    "specifications": {
+      "type": "Spark Plug",
+      "material": "Rubber",
+      "warranty": "6 months",
+      "compatibility": [
+        "Kia Cerato 2018",
+        "Kia Cerato 2021"
+      ]
+    },
+    "carBrand": "Kia",
+    "carModel": "Cerato"
   }
 ]
+
 
 
 
