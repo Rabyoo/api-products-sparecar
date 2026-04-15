@@ -3907,37 +3907,6 @@
     }
   },
   {
-    "name": "Borbet Forged Wheel",
-    "arabicName": "جنط Forged Borbet",
-    "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
-    "price": 417.78,
-    "originalPrice": 1259.52,
-    "category": "Wheels",
-    "brand": "Borbet",
-    "carBrand": "Mercedes",
-    "carModel": "E-Class",
-    "year": "2016-2024",
-    "partNumber": "BOR-WH-0803",
-    "sku": "SKU-BORBET-WH-0803",
-    "stock": 95,
-    "images": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDE4s5g6FNPOnjbHPcCvfpKI7SpqR9LysQw&s"
-    ],
-    "rating": 4.4,
-    "reviews": 179,
-    "discount": 6,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Forged",
-      "size": "18",
-      "boltPattern": "5x114.3",
-      "offset": "ET45",
-      "finish": "Silver",
-      "warranty": "3 years",
-      "compatibility": ["Mercedes E-Class 2019", "Mercedes E-Class 2022"]
-    }
-  },
-  {
     "name": "HRE Forged Wheel",
     "arabicName": "جنط Forged HRE",
     "description": "جنوط فورجد عالية الأداء توفر قوة تحمل عالية مع وزن أقل",
