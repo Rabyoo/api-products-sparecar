@@ -4186,37 +4186,6 @@
     }
   },
   {
-    "name": "Rays Off Road Wheel",
-    "arabicName": "جنط Off Road Rays",
-    "description": "جنوط مخصصة للطرق الوعرة والدفع الرباعي",
-    "price": 637.98,
-    "originalPrice": 1280.78,
-    "category": "Wheels",
-    "brand": "Rays",
-    "carBrand": "Volkswagen",
-    "carModel": "Golf",
-    "year": "2016-2024",
-    "partNumber": "RAY-WH-0813",
-    "sku": "SKU-RAYS-WH-0813",
-    "stock": 5,
-    "images": [
-      "https://cdn.shopify.com/s/files/1/2141/1565/files/rays-offroad-m9-16x6-5-5x139-7-black-disk-clear-smoke-beq-wheels-922.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": 251,
-    "discount": 11,
-    "isFeatured": true,
-    "specifications": {
-      "type": "Off Road",
-      "size": "15",
-      "boltPattern": "5x114.3",
-      "offset": "ET45",
-      "finish": "Gunmetal",
-      "warranty": "3 years",
-      "compatibility": ["Volkswagen Golf 2019", "Volkswagen Golf 2022"]
-    }
-  },
-  {
     "name": "BBS Steel Wheel",
     "arabicName": "جنط Steel BBS",
     "description": "جنوط حديد قوية تتحمل الاستخدام الشاق والطرق الوعرة",
